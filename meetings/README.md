@@ -1,7 +1,8 @@
 # README  
 
 ## Meeting memo - Notice and Disclaimer
-This meeting note was created using the meeting transcript and chat content and the following Promt given to GPT-4o. Attendees are encouraged to review and report any errors. And I publish meeting transcripts and chat content as well so you can review them.
+
+Meeting notes here were created using the meeting transcript and chat content and the following Promt given to GPT-4o. Attendees are encouraged to review and report any errors. And I publish meeting transcripts and chat content as well so you can review them.
 
 ## Prompt
 > From the transcript file of the online meeting, please write down all the opinions of the participants, and if other participants reacted to it, how they reacted, and what the conclusion was.
