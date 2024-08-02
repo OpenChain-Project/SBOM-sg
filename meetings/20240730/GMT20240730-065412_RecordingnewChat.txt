@@ -1,0 +1,84 @@
+00:04:45	Alexios Zavras (Intel Corporation):	Hello, everyone!
+00:05:10	Norio Kobota (Sony Group Corporation):	Hello! Thanks for joining!
+00:05:22	Shane Coughlan (The Linux Foundation):	Hello Alexios! I trust all is well in Germany!
+00:05:37	Zhiqiang Yu (China Mobile Communication Company Ltd):	Hello from Beijing, China
+00:05:49	Alexios Zavras (Intel Corporation):	A nice summer day here!
+00:11:29	Zhiqiang Yu (China Mobile Communication Company Ltd):	I think Norio-san's picture is taken in OSS Japan 2023.
+00:11:34	Zhiqiang Yu (China Mobile Communication Company Ltd):	The background
+00:11:41	Norio Kobota (Sony Group Corporation):	"I think Norio-san'..." に対して 👍 で対応しました
+00:11:48	Norio Kobota (Sony Group Corporation):	Yes! :)
+00:12:41	Zhiqiang Yu (China Mobile Communication Company Ltd):	🤝
+00:12:48	King Gao (Huawei Technologies Co., Ltd):	Nice picture 👍 @Norio Kobota (Sony Group Corporation)
+00:12:54	Norio Kobota (Sony Group Corporation):	"Nice picture 👍 ..." に対して ❤️ で対応しました
+00:13:02	Zhiqiang Yu (China Mobile Communication Company Ltd):	I went to that Summit with my friend King
+00:13:18	Norio Kobota (Sony Group Corporation):	"I went to that Sum..." に対して ❤️ で対応しました
+00:13:23	Sandra Hermoso Rodriguez:	Hello everyone! Have we decided on a schedule for this meeting? Would we meet at this time from now onwards?
+00:14:03	Sandra Hermoso Rodriguez:	Thanks! 🙂
+00:14:46	Alin Jerpelea (Sony Group Corporation):	Reacted to "I think Norio-san'..." with 👍
+00:17:00	Takashi NINJOUJI (Toshiba Corporation):	"Hello everyone! Ha..." に対して 👍 で対応しました
+00:17:14	Takashi NINJOUJI (Toshiba Corporation):	Future meeting schedules will be discussed, I guess.
+00:31:56	Alin Jerpelea (Sony Group Corporation):	Is there any plan to suport SPDX lite for future SPDX versions?
+00:32:15	Leo:	How to manage the unmatched components from upstream?
+00:33:21	Anthony Harrison:	I think we need to be focusing on the use cases we want to use an SBOM. We need to focus on content of an SBOM first and then look at the format.
+00:34:06	Alin Jerpelea (Sony Group Corporation):	Reacted to "I think we need to..." with 👍
+00:34:10	Masahiro DAIKOKU (KDDI Corporation):	Reacted to "I think we need to b..." with 👍
+00:34:25	Alexios Zavras (Intel Corporation):	Completely agree with Kobota-san and Anthony
+00:34:39	Leo:	Reacted to "I think we need to b…" with 👍
+00:34:42	Norio Kobota (Sony Group Corporation):	"I think we need to..." に対して 👍 で対応しました
+00:35:11	Arun Azhakesan:	Reacted to "I think we need to..." with 👍
+00:35:17	Takashi NINJOUJI (Toshiba Corporation):	"Completely agree w..." に対して 👍 で対応しました
+00:35:22	Anju:	Reacted to "I think we need to..." with 👍
+00:35:34	David Leichner:	David from Cybellum here... many of our customers are using SBOMs that were created via varied scanning tools. So I think we have to look at not only SPDX but 1. the quality of the SBOMs created 2. how multiple sourced SBOMs can be integrated and no less important, management of the assets (SBOMs) as well as the ongoing vulnerability monitoring - from design through post-market deployment of the products or devices.
+00:35:43	Kouki Hama:	Reacted to I think we need to b... with "👍"
+00:36:43	Arun Azhakesan:	Agree with Anthony and Alexios. The focus of study group should be format agnostic.
+00:37:01	Anthony Harrison:	Reacted to "Agree with Anthony H..." with 👍
+00:37:05	David Leichner:	I agree that we should look at compliance use cases for example in automotive (WP29 R155) medical devices (FDA pre-market) and CRA coming out of Europe recently.
+00:39:38	Anthony Harrison:	Quality of SBOM is a big issue. We need to use SBOMs as a way to improve the software ecosystems and ensure that the metadata for OSS components are correct. Many have missing or incorrect licence information etc.
+00:40:49	Jan:	Maybe not solve all at once. Quality will always be an issue. But shit-in-shit-out will remain. What we might focus on is interoperability first and then come up with quality criteria to ensure and verify quality at creation time…
+00:41:10	Arun Azhakesan:	Reacted to "Quality of SBOM is..." with 👍
+00:41:16	Norio Kobota (Sony Group Corporation):	"Maybe not solve al..." に対して ❤️ で対応しました
+00:41:21	Alin Jerpelea (Sony Group Corporation):	Reacted to "Maybe not solve al..." with ❤️
+00:42:04	David Leichner:	Reacted to "Quality of SBOM is a..." with 👍
+00:43:34	Takashi NINJOUJI (Toshiba Corporation):	I like the idea that this could be a place to discuss practices in companies and build consensus about SBOM management!
+00:43:48	Shane Coughlan (The Linux Foundation):	Reacted to "I like the idea that..." with ❤️
+00:44:04	Stephen Pollard:	Reacted to "I like the idea that..." with ❤️
+00:44:07	Alin Jerpelea (Sony Group Corporation):	@Norio Kobota (Sony Group Corporation) thanks for clarification
+00:44:23	Jan:	Reacted to "I like the idea that..." with 👍
+00:44:37	Norio Kobota (Sony Group Corporation):	"I like the idea th..." に対して 👍 で対応しました
+00:44:47	Norio Kobota (Sony Group Corporation):	"Quality of SBOM is..." に対して 👍 で対応しました
+00:45:06	Balakrishna Mukundaraj:	Reacted to "I like the idea that..." with ❤️
+00:46:39	Anthony Harrison:	How different is this to other SBOM meetings that are going on around the world e.g. OpenSSF, CISA, etc
+00:47:11	Shane Coughlan (The Linux Foundation):	https://urldefense.com/v3/__https://openchainproject.org/featured/2024/07/17/sbom-study-group-kick-off__;!!JmoZiZGBv3RvKRSx!9dLQMMKe8zcHteZYcP-UBhXIhtjOXZHpqjDTsqw4TN3Tkqp50wY5hqy3sId8UTZPO9Ni8hl0zg5pXUP4fxKFdiHgNg$ [openchainproject[.]org]
+00:47:22	Shane Coughlan (The Linux Foundation):	We have a dedicated mailing list:
+https://urldefense.com/v3/__https://lists.openchainproject.org/g/sbom__;!!JmoZiZGBv3RvKRSx!9dLQMMKe8zcHteZYcP-UBhXIhtjOXZHpqjDTsqw4TN3Tkqp50wY5hqy3sId8UTZPO9Ni8hl0zg5pXUP4fxJ3AAhA_g$ [lists[.]openchainproject[.]org]
+We have a dedicated Slack Channel:
+https://urldefense.com/v3/__https://openchainproject.slack.com/archives/C07CMQ3N4R4__;!!JmoZiZGBv3RvKRSx!9dLQMMKe8zcHteZYcP-UBhXIhtjOXZHpqjDTsqw4TN3Tkqp50wY5hqy3sId8UTZPO9Ni8hl0zg5pXUP4fxIjWjP98g$ [openchainproject[.]slack[.]com]
+We have a dedicated GitHub Repo:
+https://urldefense.com/v3/__https://github.com/OpenChain-Project/SBOM-sg__;!!JmoZiZGBv3RvKRSx!9dLQMMKe8zcHteZYcP-UBhXIhtjOXZHpqjDTsqw4TN3Tkqp50wY5hqy3sId8UTZPO9Ni8hl0zg5pXUP4fxLLzEFfZQ$ [github[.]com]
+00:47:29	Norio Kobota (Sony Group Corporation):	"How different is t..." に対して 👍 で対応しました
+00:47:39	Alin Jerpelea (Sony Group Corporation):	monthly
+00:51:05	Norio Kobota (Sony Group Corporation):	への応答 "How different is t..."
+
+I don't participate in those communities so often, but I think there are things that we haven't been able to discuss in those communities. Therefore, at the beggning of this study group, I would like to hear what challenges you have.
+00:51:33	Shane Coughlan (The Linux Foundation):	https://urldefense.com/v3/__https://openchainproject.org/webinars__;!!JmoZiZGBv3RvKRSx!9dLQMMKe8zcHteZYcP-UBhXIhtjOXZHpqjDTsqw4TN3Tkqp50wY5hqy3sId8UTZPO9Ni8hl0zg5pXUP4fxIAEH8mtg$ [openchainproject[.]org]
+00:51:51	Shane Coughlan (The Linux Foundation):	https://urldefense.com/v3/__https://openchainproject.org/news/2024/04/23/webinar-cyber-resilience-act__;!!JmoZiZGBv3RvKRSx!9dLQMMKe8zcHteZYcP-UBhXIhtjOXZHpqjDTsqw4TN3Tkqp50wY5hqy3sId8UTZPO9Ni8hl0zg5pXUP4fxI6-2BkHQ$ [openchainproject[.]org]
+00:51:52	Balakrishna Mukundaraj:	Reacted to "We have a dedicated ..." with 👍
+00:52:02	Balakrishna Mukundaraj:	Reacted to "https://urldefense.com/v3/__https://openchainpro__;!!JmoZiZGBv3RvKRSx!9dLQMMKe8zcHteZYcP-UBhXIhtjOXZHpqjDTsqw4TN3Tkqp50wY5hqy3sId8UTZPO9Ni8hl0zg5pXUP4fxLDu6xwXw$ [openchainpro]..." with 👍
+00:52:24	Balakrishna Mukundaraj:	Sounds perfect
+00:52:29	Anthony Harrison:	Yes! One hour, once a month
+00:52:31	David Leichner:	Sounds great.
+00:52:37	Chris Els:	yes
+00:52:38	Jan:	Reacted to "Yes! One hour, once ..." with 👍
+00:52:41	Balakrishna Mukundaraj:	Yes please
+00:52:43	David Leichner:	Time is perfect.
+00:52:51	Anju:	Reacted to "Yes! One hour, onc..." with 👍
+00:52:51	Kiran aluka:	Time is good
+00:52:57	Alin Jerpelea (Sony Group Corporation):	time is fine
+00:53:18	Anthony Harrison:	Time is good. But not earlier!!!
+00:53:24	Anju:	Time is good
+00:53:25	Gunnar Stein:	For me it's fine.
+00:53:48	Norio Kobota (Sony Group Corporation):	Wednesday doesn't work for me, sorry.
+00:55:12	Marcel Kurzmann (Bosch):	Tooling Group is on the first Wednesday of the month in the morning, on the third Wednesday it is at the afternoon.
+00:56:49	David Leichner:	Thank you!
+00:57:12	Chris Els:	Thank you Shane
+00:57:18	Anthony Harrison:	Bye
