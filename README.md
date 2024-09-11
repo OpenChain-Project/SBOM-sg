@@ -1,4 +1,3 @@
-
 # OpenChain SBOM Study Group
 
 Welcome to the GitHub repository of the **OpenChain SBOM Study Group**. This group is dedicated to studying and promoting the use of Software Bill of Materials (SBOM) in compliance with OpenChain standards and best practices.
@@ -16,9 +15,11 @@ To participate in our conversations, please join the OpenChain SBOM Study Group 
 
 Once your account is created, you can find us in the **#sbom-sg** channel.
 
-## Resources
-- [SBOM Study Group Kick-off Recording](https://openchainproject.org/news/2024/07/30/sbom-study-group-kick-off-recording)
-- [SBOM Study Group Kick-off Announcement](https://openchainproject.org/news/2024/07/17/sbom-study-group-kick-off)
+### Join our Mailing List
+Please join our mailing list by sending an email to: sbom+subscribe@lists.openchainproject.org
 
 ## Meeting Notes
 Meeting notes for all SBOM Study Group sessions are available in this repository. You can access them [here](https://github.com/OpenChain-Project/SBOM-sg/tree/main/meetings).
+
+## Resources
+- [SBOM Study Group Kick-off Announcement](https://openchainproject.org/news/2024/07/17/sbom-study-group-kick-off)
