@@ -1,0 +1,2730 @@
+WEBVTT
+
+1
+00:01:15.970 --> 00:01:20.710
+Shane Coughlan (The Linux Foundation): Hello, everyone, for some of you. It's been at least 10 seconds since we spoke.
+
+2
+00:01:21.317 --> 00:01:26.490
+Shane Coughlan (The Linux Foundation): I'm just going to share the slides and whatnot, so that we have
+
+3
+00:01:26.860 --> 00:01:28.840
+Shane Coughlan (The Linux Foundation): everything on the screen.
+
+4
+00:01:30.350 --> 00:01:32.119
+Shane Coughlan (The Linux Foundation): Let me try that again.
+
+5
+00:01:32.840 --> 00:01:34.119
+Shane Coughlan (The Linux Foundation): There we go.
+
+6
+00:01:37.110 --> 00:01:55.299
+Shane Coughlan (The Linux Foundation): We won't start for about 5 min, so we'll wait here and give everyone a chance to dial in and then we will begin the meeting in 5 min. We expect our chair, Kubota San, from Sony to take lead on the discussion.
+
+7
+00:01:55.480 --> 00:02:00.469
+Shane Coughlan (The Linux Foundation): and it'll be building. On the previous meeting we had for this work group.
+
+8
+00:02:03.610 --> 00:02:07.300
+Shane Coughlan (The Linux Foundation): I'm pausing briefly here as I set myself as host.
+
+9
+00:02:07.530 --> 00:02:09.750
+Shane Coughlan (The Linux Foundation): and our chair will get co-host
+
+10
+00:02:09.789 --> 00:02:11.270
+Shane Coughlan (The Linux Foundation): when he arrives.
+
+11
+00:02:13.440 --> 00:02:21.049
+Shane Coughlan (The Linux Foundation): For those of you who might have missed the previous meeting. I'm just gonna put a link to that into the chat
+
+12
+00:02:21.170 --> 00:02:23.929
+Shane Coughlan (The Linux Foundation): to make sure that everyone has that recording.
+
+13
+00:02:28.460 --> 00:02:29.060
+Jari Koivisto (OpenChain Project): Shane.
+
+14
+00:02:29.900 --> 00:02:30.970
+Shane Coughlan (The Linux Foundation): Gary, how's.
+
+15
+00:02:30.970 --> 00:02:31.880
+Jari Koivisto (OpenChain Project): Switzerland.
+
+16
+00:02:32.530 --> 00:02:33.270
+Shane Coughlan (The Linux Foundation): Keeping it.
+
+17
+00:02:33.270 --> 00:02:44.729
+Jari Koivisto (OpenChain Project): It's it's sunny at the moment. But the question is about Japan. I was trying to look the weather forecast because I need to start packing soon, so I guess it will be rainy and quite warm there next week.
+
+18
+00:02:44.730 --> 00:02:48.339
+Shane Coughlan (The Linux Foundation): Yes, unfortunately, it's a bit rainy at the moment.
+
+19
+00:02:49.260 --> 00:02:51.950
+Shane Coughlan (The Linux Foundation): I've got to check, actually.
+
+20
+00:02:53.070 --> 00:02:55.169
+Shane Coughlan (The Linux Foundation): because I'm I'm very southwest.
+
+21
+00:02:55.330 --> 00:03:11.639
+Shane Coughlan (The Linux Foundation): Yeah, yeah. So I can't say exactly what it's like in Tokyo, right? Tokyo is 24 degrees centigrade. Unfortunately, intermittent showers. The chance of rain today was 71%. But later in the week it goes to 0,
+
+22
+00:03:11.780 --> 00:03:18.650
+Shane Coughlan (The Linux Foundation): then 100, then 0, and so on. You can expect it to go somewhere between 20 to 24
+
+23
+00:03:19.090 --> 00:03:21.410
+Shane Coughlan (The Linux Foundation): and rainy-ish.
+
+24
+00:03:22.100 --> 00:03:22.780
+Jari Koivisto (OpenChain Project): Yeah.
+
+25
+00:03:25.020 --> 00:03:30.319
+Jari Koivisto (OpenChain Project): yeah, that's what I was expecting, you know, at this time of the year, you know you are, anyway, on the island. So
+
+26
+00:03:32.320 --> 00:03:34.919
+Jari Koivisto (OpenChain Project): one needs to be prepared for everything more or less.
+
+27
+00:03:37.460 --> 00:03:43.780
+Shane Coughlan (The Linux Foundation): Alan just noted. Thank you for checking the weather. It's my pleasure. Secondary service of the open chain project.
+
+28
+00:03:44.535 --> 00:03:45.100
+Shane Coughlan (The Linux Foundation): Yep.
+
+29
+00:03:45.100 --> 00:03:46.500
+Jari Koivisto (OpenChain Project): Okay, all right.
+
+30
+00:03:46.600 --> 00:03:48.119
+Jari Koivisto (OpenChain Project): Talk to you in a sec. Mob.
+
+31
+00:03:48.810 --> 00:03:52.810
+Shane Coughlan (The Linux Foundation): I was just thinking, you know, and now I'm from the British Isles. I'm Irish.
+
+32
+00:03:52.820 --> 00:03:55.620
+Shane Coughlan (The Linux Foundation): but British Isles. We always talk about the weather, anyway.
+
+33
+00:03:56.110 --> 00:04:03.120
+Shane Coughlan (The Linux Foundation): and it's interesting that the weather in Tokyo tends not to be very similar to the weather where I am.
+
+34
+00:04:04.200 --> 00:04:05.849
+Shane Coughlan (The Linux Foundation): It varies a lot.
+
+35
+00:04:06.180 --> 00:04:09.499
+Shane Coughlan (The Linux Foundation): I see Kubota San has arrived. I'll make him co-host
+
+36
+00:04:10.150 --> 00:04:12.480
+Shane Coughlan (The Linux Foundation): and hallelujah!
+
+37
+00:04:12.530 --> 00:04:17.180
+Shane Coughlan (The Linux Foundation): I'm going to make Ninjaji-san and Owada San co-hosts as well
+
+38
+00:04:17.420 --> 00:04:20.250
+Shane Coughlan (The Linux Foundation): in case they need to do something in the background.
+
+39
+00:04:21.740 --> 00:04:23.430
+Shane Coughlan (The Linux Foundation): I don't see any dispatch.
+
+40
+00:04:23.700 --> 00:04:24.889
+Shane Coughlan (The Linux Foundation): You're very welcome.
+
+41
+00:04:25.890 --> 00:04:26.885
+Shane Coughlan (The Linux Foundation): right.
+
+42
+00:04:27.970 --> 00:04:30.819
+Shane Coughlan (The Linux Foundation): With another 2 min before we start.
+
+43
+00:04:31.300 --> 00:04:37.119
+Shane Coughlan (The Linux Foundation): So Kubotu-san, before you joined, we were just talking about open compliance Summit next week
+
+44
+00:04:37.180 --> 00:04:40.664
+Shane Coughlan (The Linux Foundation): and checking what situation would be with weather?
+
+45
+00:04:41.790 --> 00:04:42.540
+Shane Coughlan (The Linux Foundation): Yeah.
+
+46
+00:04:43.310 --> 00:04:44.500
+Norio Kobota (Sony Group Corporation): I will be there.
+
+47
+00:04:45.320 --> 00:04:48.879
+Shane Coughlan (The Linux Foundation): Good. You'll be at open compliance. Summit. Excellent! Gary will be.
+
+48
+00:04:48.880 --> 00:04:49.710
+Norio Kobota (Sony Group Corporation): Yeah.
+
+49
+00:04:51.160 --> 00:04:55.599
+Shane Coughlan (The Linux Foundation): Gary's flying over from Switzerland to join us, and we'll be
+
+50
+00:04:55.760 --> 00:05:00.830
+Shane Coughlan (The Linux Foundation): in person able to share his his experience. It'll be great fun.
+
+51
+00:05:02.850 --> 00:05:05.890
+Norio Kobota (Sony Group Corporation): Okay, I'm looking forward to seeing you. Yeah.
+
+52
+00:05:06.940 --> 00:05:10.729
+Shane Coughlan (The Linux Foundation): Oh, Alynn said, he'll try to come in as well. That's wonderful if you make it.
+
+53
+00:05:16.010 --> 00:05:20.110
+Shane Coughlan (The Linux Foundation): Gosh, Kubodistan, this meeting is getting busy. We have
+
+54
+00:05:20.380 --> 00:05:22.910
+Shane Coughlan (The Linux Foundation): 13 people in and counting
+
+55
+00:05:22.930 --> 00:05:30.390
+Shane Coughlan (The Linux Foundation): when we start. Would you like me to go through the antitrust policy? Notice and then hand over to you? Would that be okay?
+
+56
+00:05:31.501 --> 00:05:32.960
+Norio Kobota (Sony Group Corporation): Yes, thank you very much.
+
+57
+00:05:33.410 --> 00:05:34.110
+Shane Coughlan (The Linux Foundation): Okay.
+
+58
+00:05:34.280 --> 00:05:39.450
+Shane Coughlan (The Linux Foundation): do you want to show an agenda slide, or shall I show a generic agenda slide.
+
+59
+00:05:41.570 --> 00:05:43.340
+Norio Kobota (Sony Group Corporation): Oh.
+
+60
+00:05:43.380 --> 00:05:46.640
+Norio Kobota (Sony Group Corporation): yeah, I created the openings.
+
+61
+00:05:46.640 --> 00:05:47.580
+Shane Coughlan (The Linux Foundation): You have a slot.
+
+62
+00:05:49.880 --> 00:05:53.449
+Norio Kobota (Sony Group Corporation): Okay, I will. Can I share my screen
+
+63
+00:05:53.480 --> 00:05:54.680
+Norio Kobota (Sony Group Corporation): or.
+
+64
+00:05:55.070 --> 00:06:04.540
+Shane Coughlan (The Linux Foundation): Yeah, no, absolutely. So I'll just do the antitrust policy notice, and then I'll hand over to you for your your sharing. Is that okay?
+
+65
+00:06:05.360 --> 00:06:06.330
+Norio Kobota (Sony Group Corporation): Oh, okay.
+
+66
+00:06:06.790 --> 00:06:08.070
+Shane Coughlan (The Linux Foundation): Yeah, perfect.
+
+67
+00:06:10.730 --> 00:06:18.500
+Shane Coughlan (The Linux Foundation): Oh, Umo asked a question. What I'll do is I'll grab your question as we start.
+
+68
+00:06:19.180 --> 00:06:21.909
+Shane Coughlan (The Linux Foundation): so that we will have it
+
+69
+00:06:23.140 --> 00:06:24.529
+Shane Coughlan (The Linux Foundation): before the meeting.
+
+70
+00:06:24.580 --> 00:06:27.329
+Shane Coughlan (The Linux Foundation): But after the antitrust policy notice.
+
+71
+00:06:30.160 --> 00:06:31.340
+Shane Coughlan (The Linux Foundation): Okay.
+
+72
+00:06:31.390 --> 00:06:32.460
+Shane Coughlan (The Linux Foundation): so
+
+73
+00:06:32.790 --> 00:06:36.000
+Shane Coughlan (The Linux Foundation): this is the open chain. Sbom Study group.
+
+74
+00:06:36.680 --> 00:06:48.649
+Shane Coughlan (The Linux Foundation): It is a new study group in the open chain project. Kabodia San is chairing, and we are having a discussion that is open to everyone.
+
+75
+00:06:48.970 --> 00:07:16.109
+Shane Coughlan (The Linux Foundation): Please feel free at any time to share your thoughts, ideas, suggestions, and concerns. This meeting, the same as all the meetings in the Linux Foundation is held under our antitrust policy. You can find the full policy on the Linux Foundation website. If you're from a member company, you can ask questions of our Council, Andy Updegrove. If you're not from our
+
+76
+00:07:16.160 --> 00:07:21.629
+Shane Coughlan (The Linux Foundation): community, you are very welcome to ask any questions of your own counsel.
+
+77
+00:07:21.890 --> 00:07:43.300
+Shane Coughlan (The Linux Foundation): With that formality out of the way. I'm going to hand over to our chair in just a minute I did notice a question from Umo over at Carl Zis, which just came in, which I'll just address as we get started with this meeting, and he referenced a webinar. We just concluded a few minutes ago, he said. In the webinar
+
+78
+00:07:43.750 --> 00:08:06.470
+Shane Coughlan (The Linux Foundation): there was a note that came in that cyclone. Dx community is doing something around tracking patent information. Do any of us have a contact for that? I'd like to connect discussions because Spdx operations profile is also talking about that topic, Umo, at the moment. I don't have any
+
+79
+00:08:06.470 --> 00:08:14.540
+Shane Coughlan (The Linux Foundation): contacts for you on that per se, but naturally that's something that I will find, and I will share with you.
+
+80
+00:08:14.980 --> 00:08:17.090
+Shane Coughlan (The Linux Foundation): I'm just going to give you my.
+
+81
+00:08:17.090 --> 00:08:17.740
+Ummo Schwarting (Carl Zeiss AG): Thank you.
+
+82
+00:08:18.280 --> 00:08:33.109
+Shane Coughlan (The Linux Foundation): My genuine pleasure. I just put my email into the chat. So if you send me an email, I'll go and find the correct contact. So the Spdx operations profile. People can talk with the cyclone Dx people working on the same topic.
+
+83
+00:08:34.230 --> 00:08:35.190
+Ummo Schwarting (Carl Zeiss AG): Thank you very much.
+
+84
+00:08:35.870 --> 00:08:36.783
+Shane Coughlan (The Linux Foundation): A pleasure
+
+85
+00:08:37.740 --> 00:08:38.674
+Shane Coughlan (The Linux Foundation): now.
+
+86
+00:08:39.850 --> 00:09:07.120
+Shane Coughlan (The Linux Foundation): thank you for asking a question following up on a webinar we just had. But it's time to jump right into the study group we're about to have, and with that I'll hand over to our chair, and our host, Kubota San and all of the good friends like Ninjaji San Ito San, who've spent so much time working on Sboms in open chain, and I see we also have Mark Eton from Nokia.
+
+87
+00:09:07.120 --> 00:09:14.070
+Shane Coughlan (The Linux Foundation): who has recently done some incredible work with his team on the same topic. Kabot Hasan, over to you.
+
+88
+00:09:16.150 --> 00:09:20.819
+Norio Kobota (Sony Group Corporation): Thank you, Shane. And I'd like to share my screen.
+
+89
+00:09:23.730 --> 00:09:25.190
+Norio Kobota (Sony Group Corporation): Can you see my screen.
+
+90
+00:09:25.460 --> 00:09:27.089
+Shane Coughlan (The Linux Foundation): Yes, it's perfect.
+
+91
+00:09:27.710 --> 00:09:37.071
+Norio Kobota (Sony Group Corporation): Okay, thank you. And thank you. Shane. Shane already introduced our activities as long as you activities.
+
+92
+00:09:37.750 --> 00:09:56.550
+Norio Kobota (Sony Group Corporation): So next to the next topic is overview of today. Ninja, from Toshiba introduces this topic overview of various regulations and guidelines and what is needed for future discussions about S phone.
+
+93
+00:09:56.800 --> 00:10:02.189
+Norio Kobota (Sony Group Corporation): And after that we would like to hold some discussions.
+
+94
+00:10:02.470 --> 00:10:11.400
+Norio Kobota (Sony Group Corporation): And if there is another anything that needed to be discussed, we will have some time to discuss about that.
+
+95
+00:10:12.100 --> 00:10:13.800
+Norio Kobota (Sony Group Corporation): Okay, so
+
+96
+00:10:14.430 --> 00:10:18.049
+Norio Kobota (Sony Group Corporation): I do like to introduce me to Sander
+
+97
+00:10:18.290 --> 00:10:24.319
+Norio Kobota (Sony Group Corporation): and over to the presentation to Ninja-san. Could you?
+
+98
+00:10:25.280 --> 00:10:27.680
+Norio Kobota (Sony Group Corporation): may provide a presentation.
+
+99
+00:10:35.210 --> 00:10:36.020
+Takashi Ninjouji: Oh, sure.
+
+100
+00:10:36.930 --> 00:10:41.820
+Takashi Ninjouji: please just wait a moment, and I'd like to share my screen.
+
+101
+00:10:46.540 --> 00:10:48.290
+Takashi Ninjouji: Can you see the screen.
+
+102
+00:10:49.070 --> 00:10:49.670
+Norio Kobota (Sony Group Corporation): Yes!
+
+103
+00:10:52.800 --> 00:10:53.350
+Norio Kobota (Sony Group Corporation): Oh.
+
+104
+00:10:54.680 --> 00:10:56.129
+Takashi Ninjouji: So may I start?
+
+105
+00:10:57.283 --> 00:10:58.329
+Norio Kobota (Sony Group Corporation): Yes, please.
+
+106
+00:10:59.410 --> 00:10:59.896
+Takashi Ninjouji: Okay,
+
+107
+00:11:01.635 --> 00:11:04.164
+Takashi Ninjouji: before to begin to start
+
+108
+00:11:07.970 --> 00:11:09.160
+Takashi Ninjouji: discussion.
+
+109
+00:11:09.290 --> 00:11:10.100
+Takashi Ninjouji: So
+
+110
+00:11:10.850 --> 00:11:12.120
+Takashi Ninjouji: Hello, everyone.
+
+111
+00:11:12.490 --> 00:11:16.190
+Takashi Ninjouji: And my my name is Takashi Ninjaji from Toy Sugar Corporation.
+
+112
+00:11:16.400 --> 00:11:24.989
+Takashi Ninjouji: and the member with a sponsor group of off chain projects, Japan work group. And actually, I'm a 1 of the
+
+113
+00:11:25.450 --> 00:11:30.079
+Takashi Ninjouji: Spdex 3.0 light profiles contributor. But today
+
+114
+00:11:30.120 --> 00:11:35.829
+Takashi Ninjouji: I'm not talking about Spdx slides more general matters.
+
+115
+00:11:36.130 --> 00:11:41.270
+Takashi Ninjouji: So from here I'm sorry I cut off my camera.
+
+116
+00:11:41.870 --> 00:11:44.420
+Takashi Ninjouji: but I will continue to my speech.
+
+117
+00:11:46.120 --> 00:11:56.059
+Takashi Ninjouji: So this time I'd like to share some of subgroups discussions, for example, overview of some regressions and guidelines mentioned about s. 1 attributes or elements.
+
+118
+00:11:56.300 --> 00:12:16.160
+Takashi Ninjouji: and as well as last comparison. The debut of the recently published 2 documents, one is the Csa's framing of Software component transparency Solution, and another one is BSI's guideline how to pronounce it. Tr. 0, 3, 1, 83, part 2, version, 2.0 point 0,
+
+119
+00:12:16.470 --> 00:12:23.589
+Takashi Ninjouji: and from there considerations for s. 1 quality that the open chain project hopes to promote in the future.
+
+120
+00:12:23.965 --> 00:12:28.799
+Takashi Ninjouji: Such as the those in the light of the take awesome guide, I hope.
+
+121
+00:12:29.750 --> 00:12:31.249
+Takashi Ninjouji: Okay. So here we go?
+
+122
+00:12:34.766 --> 00:12:35.879
+Takashi Ninjouji: So we
+
+123
+00:12:36.130 --> 00:12:36.980
+Takashi Ninjouji: oh.
+
+124
+00:12:37.270 --> 00:12:43.429
+Takashi Ninjouji: okay. And then this slide shows some laws, regulations and standards and guidelines rated s. 1
+
+125
+00:12:43.480 --> 00:12:57.540
+Takashi Ninjouji: in 2021 executive in United States Executive Order for 1, 40, 28 was issued in the United States, and there has been a lot of activity in the areas of cyber security.
+
+126
+00:12:57.850 --> 00:13:03.690
+Takashi Ninjouji: In response to this the Natia has issued minimum elements
+
+127
+00:13:04.670 --> 00:13:06.869
+Takashi Ninjouji: for software video materials
+
+128
+00:13:06.900 --> 00:13:13.349
+Takashi Ninjouji: in the United States. The FDA has issued guidelines for medical devices. We would talk about sorry.
+
+129
+00:13:14.050 --> 00:13:15.100
+Takashi Ninjouji: and the
+
+130
+00:13:15.850 --> 00:13:18.750
+Takashi Ninjouji: we will talk about Csis documents later.
+
+131
+00:13:18.880 --> 00:13:21.049
+Takashi Ninjouji: This is a similar movement in Europe.
+
+132
+00:13:21.250 --> 00:13:22.230
+Takashi Ninjouji: and the
+
+133
+00:13:23.180 --> 00:13:29.480
+Takashi Ninjouji: Cra. Is currently holding off on publishing in the offshore gadget.
+
+134
+00:13:29.700 --> 00:13:36.120
+Takashi Ninjouji: We are aware that the European Commission has not yet issued any specific documents related to s. 1, however.
+
+135
+00:13:36.140 --> 00:13:39.980
+Takashi Ninjouji: the Vsi German agency in
+
+136
+00:13:40.030 --> 00:13:43.109
+Takashi Ninjouji: charge of information. Security has issued
+
+137
+00:13:43.230 --> 00:13:48.510
+Takashi Ninjouji: 0 31, 82, part 2, which serves as a guide range.
+
+138
+00:13:48.580 --> 00:13:57.629
+Takashi Ninjouji: The latest version is 2.0 point 0 as a previous mission. Since the lease of the 4th version last year it has already been devised twice
+
+139
+00:13:58.100 --> 00:14:07.419
+Takashi Ninjouji: in Japan, Methi, the Ministry of Economy, Trade, and industry, has published the second version of the Sbm guidelines for Japanese enterprises.
+
+140
+00:14:07.480 --> 00:14:12.339
+Takashi Ninjouji: Hi. But this is probably only a small part of what has already been published.
+
+141
+00:14:12.840 --> 00:14:18.959
+Takashi Ninjouji: In addition to these, there are also swam guidelines published in
+
+142
+00:14:19.400 --> 00:14:23.330
+Takashi Ninjouji: countries such as New Zealand, India, and China.
+
+143
+00:14:24.180 --> 00:14:29.569
+Takashi Ninjouji: and the Yes Open chain specification for process management, 50 to 30
+
+144
+00:14:29.710 --> 00:14:33.279
+Takashi Ninjouji: for license compliance, and the 1 89, 74
+
+145
+00:14:33.340 --> 00:14:37.049
+Takashi Ninjouji: for security actions. These specification
+
+146
+00:14:37.070 --> 00:14:40.290
+Takashi Ninjouji: bigquery has expo management needs process management.
+
+147
+00:14:40.660 --> 00:14:48.969
+Takashi Ninjouji: and as many of you may already know. 2 data formats based on open source are international standards. Spdx.
+
+148
+00:14:49.270 --> 00:14:55.879
+Takashi Ninjouji: which is Iso, IC. 59, 62, and second Dx, which is Ecma 4, 2, 4,
+
+149
+00:14:56.860 --> 00:15:03.490
+Takashi Ninjouji: and the industry driven activities and initiatives, for example, medical devices, manufacturers
+
+150
+00:15:03.660 --> 00:15:09.200
+Takashi Ninjouji: and the payment card industry, data, security standard and automotive and Telco.
+
+151
+00:15:09.430 --> 00:15:11.600
+Takashi Ninjouji: Now open Trintecosm Guide
+
+152
+00:15:12.310 --> 00:15:14.430
+Takashi Ninjouji: is the intimate.
+
+153
+00:15:14.630 --> 00:15:40.280
+Takashi Ninjouji: It's element based on 50 to 60 Iso, IC. 59, 62, and later burdened as Spt. 2.3. This work is by tech working group of the option project with an insight table of telecom industry companies like Rixon and then cure and other European companies. Also, it's intended for telecom industries, but it seems to be available for other industries.
+
+154
+00:15:43.700 --> 00:15:54.270
+Takashi Ninjouji: And in particular, if you look at the statement that referred to the requirements for Sm contents. You can see that almost all refer to the Notm. Emma elements.
+
+155
+00:15:54.840 --> 00:16:02.630
+Takashi Ninjouji: A country, she says, is developing activities related to S. Form in the United States. She's also released a frame software
+
+156
+00:16:02.830 --> 00:16:06.560
+Takashi Ninjouji: company Transparency Foundation this month.
+
+157
+00:16:06.870 --> 00:16:13.029
+Takashi Ninjouji: Let's take a brief look at the Utm minimum elements and the S. Mode attributes in Css. Token.
+
+158
+00:16:16.880 --> 00:16:22.829
+Takashi Ninjouji: She's a streaming 3rd agent is providing updates from practical perspectives, especially license compliance.
+
+159
+00:16:23.120 --> 00:16:37.209
+Takashi Ninjouji: Scher framing will not replace any theory. Minimum elements. It stated that Shisa has the authority to devise any theory minimum elements, but it seems that the framing is not yet to replace any. The minimum
+
+160
+00:16:37.540 --> 00:16:40.340
+Takashi Ninjouji: in the India minimum elements.
+
+161
+00:16:40.410 --> 00:16:41.480
+Takashi Ninjouji: hashes
+
+162
+00:16:41.620 --> 00:16:47.659
+Takashi Ninjouji: and the license information and the copyright information are recommended. But in the Csis framing
+
+163
+00:16:48.070 --> 00:16:50.240
+Takashi Ninjouji: they are now acquired
+
+164
+00:16:50.970 --> 00:16:54.200
+Takashi Ninjouji: and regarding dependency relationships.
+
+165
+00:16:57.130 --> 00:17:01.519
+Takashi Ninjouji: clarification has been made between the primary components and the
+
+166
+00:17:02.780 --> 00:17:07.700
+Takashi Ninjouji: component relationships. This it means it's dependent components.
+
+167
+00:17:07.710 --> 00:17:14.500
+Takashi Ninjouji: Some people think that the minimum elements will be devised around 2025. But from the impression I've got.
+
+168
+00:17:14.660 --> 00:17:21.509
+Takashi Ninjouji: it seems that the Caesar framing will be something familiar from the prospect of license components, practice in enterprise.
+
+169
+00:17:24.020 --> 00:17:28.510
+Takashi Ninjouji: Sorry. Now, let's 1st take a look at the how well
+
+170
+00:17:29.010 --> 00:17:29.820
+Takashi Ninjouji: us
+
+171
+00:17:33.940 --> 00:17:34.785
+Takashi Ninjouji: sorry.
+
+172
+00:17:36.490 --> 00:17:39.299
+Takashi Ninjouji: Look at the guidelines
+
+173
+00:17:40.060 --> 00:17:42.020
+Takashi Ninjouji: and the new.
+
+174
+00:17:42.840 --> 00:17:52.570
+Takashi Ninjouji: the clients, and these new documents, some industry, specific requirements based on the presence of absence of, were attributed into s. 1. i apologize for the small text.
+
+175
+00:17:53.130 --> 00:17:57.430
+Takashi Ninjouji: however, the impression that it covers any tier minimum
+
+176
+00:17:59.840 --> 00:18:03.574
+Takashi Ninjouji: requirements without any problems. Let's pick out attributes that
+
+177
+00:18:04.200 --> 00:18:08.730
+Takashi Ninjouji: highly common with Ntm. Csa-based attributes. And the BSI.
+
+178
+00:18:10.860 --> 00:18:14.159
+Takashi Ninjouji: I think it's a little bit easier to see. Now
+
+179
+00:18:15.460 --> 00:18:18.009
+Takashi Ninjouji: let's look at them from the top down.
+
+180
+00:18:18.200 --> 00:18:20.830
+Takashi Ninjouji: The 1st difference is S bomb type.
+
+181
+00:18:21.370 --> 00:18:22.609
+Takashi Ninjouji: The whales
+
+182
+00:18:22.780 --> 00:18:24.720
+Takashi Ninjouji: we see it.
+
+183
+00:18:24.870 --> 00:18:30.550
+Takashi Ninjouji: We will see later. Csa doesn't necessarily require this, but the psi.
+
+184
+00:18:31.123 --> 00:18:33.039
+Takashi Ninjouji: Sorry. This means optional aspiration.
+
+185
+00:18:33.170 --> 00:18:35.429
+Takashi Ninjouji: but Bsn ensures is from type.
+
+186
+00:18:35.500 --> 00:18:36.690
+Takashi Ninjouji: Sorry
+
+187
+00:18:36.770 --> 00:18:41.640
+Takashi Ninjouji: BSI doesn't seem the s 1 type, but there is no requirement for
+
+188
+00:18:41.690 --> 00:18:47.389
+Takashi Ninjouji: it's manage management information. However, the Technical Support Guide address is
+
+189
+00:18:48.800 --> 00:18:51.970
+Takashi Ninjouji: this one create a comment to
+
+190
+00:18:51.990 --> 00:18:54.880
+Takashi Ninjouji: comprise this ism type.
+
+191
+00:18:55.730 --> 00:18:57.449
+Takashi Ninjouji: Now it can be said that
+
+192
+00:18:57.510 --> 00:18:59.390
+Takashi Ninjouji: I am Dr. F.
+
+193
+00:18:59.590 --> 00:19:07.039
+Takashi Ninjouji: And FDA are characterized by acquiring the support level of information. These ones
+
+194
+00:19:08.383 --> 00:19:09.429
+Takashi Ninjouji: this one
+
+195
+00:19:09.570 --> 00:19:10.950
+Takashi Ninjouji: and this one.
+
+196
+00:19:11.360 --> 00:19:16.170
+Takashi Ninjouji: This is something that sees this may be required, depending on the use cases.
+
+197
+00:19:16.540 --> 00:19:19.040
+Takashi Ninjouji: And, on the other hand, as well.
+
+198
+00:19:19.050 --> 00:19:22.860
+Takashi Ninjouji: I mentioned later, also, BSI mentions
+
+199
+00:19:23.530 --> 00:19:31.450
+Takashi Ninjouji: end of life and other useful information. But I couldn't find any mention of requiring this information to be included in this one.
+
+200
+00:19:32.040 --> 00:19:38.389
+Takashi Ninjouji: Currently Telco Sm guide doesn't clearly define the items that correspond in these sports
+
+201
+00:19:38.910 --> 00:19:39.930
+Takashi Ninjouji: items.
+
+202
+00:19:41.460 --> 00:19:46.339
+Takashi Ninjouji: But, by the way, my guess is that the Pci, Dss. And Ss 5th
+
+203
+00:19:46.800 --> 00:19:47.660
+Takashi Ninjouji: is
+
+204
+00:19:48.350 --> 00:19:55.870
+Takashi Ninjouji: probably focused on the content separation of the services. For that reason it seems to be limited to the items that
+
+205
+00:19:55.910 --> 00:19:58.330
+Takashi Ninjouji: or target vulnerability management
+
+206
+00:19:58.680 --> 00:20:00.290
+Takashi Ninjouji: in the subseparation
+
+207
+00:20:01.042 --> 00:20:15.359
+Takashi Ninjouji: or BSI. It will almost certainly meet the requirement of medical devices, such as Imdrf and the FDA, as well as Pci. Dss.
+
+208
+00:20:24.100 --> 00:20:29.129
+Takashi Ninjouji: On the items mentioned by Cesa. The 3 below are not constitutively mandatory.
+
+209
+00:20:29.750 --> 00:20:30.670
+Takashi Ninjouji: but the
+
+210
+00:20:31.530 --> 00:20:43.639
+Takashi Ninjouji: however, if the circle is some guidance to be used in the wider range of industries, better example of how they might be expressing Spdx 2.2 point 1 or Spdx 2.0. This might just
+
+211
+00:20:43.810 --> 00:20:44.940
+Takashi Ninjouji: personal opinion
+
+212
+00:20:45.180 --> 00:20:46.390
+Takashi Ninjouji: for pedigree.
+
+213
+00:20:49.500 --> 00:20:54.539
+Takashi Ninjouji: you may need to consider adding the type of relationships you you were for
+
+214
+00:20:54.650 --> 00:20:55.690
+Takashi Ninjouji: using.
+
+215
+00:20:57.270 --> 00:21:00.800
+Takashi Ninjouji: for example, relationships generated from or
+
+216
+00:21:00.840 --> 00:21:02.270
+Takashi Ninjouji: descend down to OP.
+
+217
+00:21:02.980 --> 00:21:08.319
+Takashi Ninjouji: And the next system, the FDA's software level support
+
+218
+00:21:09.350 --> 00:21:13.299
+Takashi Ninjouji: can be only used in some kind of commit field
+
+219
+00:21:15.030 --> 00:21:23.529
+Takashi Ninjouji: someone wants to light them in the document, name or create a comment or document comment, or in some cases, so we should.
+
+220
+00:21:24.937 --> 00:21:27.450
+Takashi Ninjouji: Clearly defined one
+
+221
+00:21:27.910 --> 00:21:30.149
+Takashi Ninjouji: comment, field is better.
+
+222
+00:21:31.170 --> 00:21:32.100
+Takashi Ninjouji: But the
+
+223
+00:21:34.110 --> 00:21:35.020
+Takashi Ninjouji: finally.
+
+224
+00:21:35.380 --> 00:21:36.319
+Takashi Ninjouji: this one
+
+225
+00:21:36.460 --> 00:21:37.590
+Takashi Ninjouji: a 2,
+
+226
+00:21:38.070 --> 00:21:40.819
+Takashi Ninjouji: the FDA end of support date
+
+227
+00:21:41.300 --> 00:21:51.200
+Takashi Ninjouji: and the Medrf life cycle of a device or end of a support date. The same comment field is before can be used for Iso, 5,962.
+
+228
+00:21:51.500 --> 00:21:58.839
+Takashi Ninjouji: And if we can use the Spd point 3 valid until date is also, we can use it.
+
+229
+00:21:59.320 --> 00:22:10.259
+Takashi Ninjouji: I think that this matters will be the subject to discussion in the future tech working group or and the smosatic group. But I hope that a wave is some of your interests.
+
+230
+00:22:12.370 --> 00:22:14.420
+Takashi Ninjouji: In the next speech
+
+231
+00:22:15.550 --> 00:22:18.990
+Takashi Ninjouji: there are attributes that only mentioned it by BSI.
+
+232
+00:22:19.010 --> 00:22:20.649
+Takashi Ninjouji: This bomb you are right.
+
+233
+00:22:20.890 --> 00:22:22.520
+Takashi Ninjouji: Component file name
+
+234
+00:22:22.540 --> 00:22:26.840
+Takashi Ninjouji: in the executable or not archival or not structured or not.
+
+235
+00:22:27.150 --> 00:22:33.000
+Takashi Ninjouji: and the Uriable source code and deployable component. And the finally the associated licenses.
+
+236
+00:22:36.170 --> 00:22:45.669
+Takashi Ninjouji: Okay, so this is also a consideration with this in the same way as before for both. Iso 5,962, and Spdex 2.3
+
+237
+00:22:45.720 --> 00:22:46.910
+Takashi Ninjouji: a file name.
+
+238
+00:22:47.270 --> 00:22:48.290
+Takashi Ninjouji: it's
+
+239
+00:22:50.330 --> 00:22:53.360
+Takashi Ninjouji: can be expressed using a package file name.
+
+240
+00:22:53.830 --> 00:23:03.450
+Takashi Ninjouji: Just to be sure, there is a statement in the second and final sentence of the section 3.3 dot 2 dot. One component
+
+241
+00:23:03.560 --> 00:23:08.010
+Takashi Ninjouji: said that, depending on the circumstances of the build.
+
+242
+00:23:08.400 --> 00:23:12.630
+Takashi Ninjouji: it's acceptable to omit the cryptographic hash your file name.
+
+243
+00:23:12.820 --> 00:23:19.640
+Takashi Ninjouji: However, I'm worried that it doesn't seem to be a description just that either one is always sufficient.
+
+244
+00:23:20.250 --> 00:23:22.249
+Takashi Ninjouji: Okay, and skip to the next one.
+
+245
+00:23:22.820 --> 00:23:28.299
+Takashi Ninjouji: and the Associated license can be handled with a package license from fires.
+
+246
+00:23:29.470 --> 00:23:33.700
+Takashi Ninjouji: However, this is something that lists all detected license.
+
+247
+00:23:33.770 --> 00:23:36.570
+Takashi Ninjouji: It's not liquid in the telecom guide.
+
+248
+00:23:36.650 --> 00:23:37.909
+Takashi Ninjouji: As far as I know.
+
+249
+00:23:38.000 --> 00:23:40.649
+Takashi Ninjouji: it's not a topic now, but the
+
+250
+00:23:41.300 --> 00:23:43.909
+Takashi Ninjouji: often discussed with. But it's not a
+
+251
+00:23:43.940 --> 00:23:48.349
+Takashi Ninjouji: topic often discussed with people from other companies. As far as I know.
+
+252
+00:23:48.780 --> 00:23:50.200
+Takashi Ninjouji: Now, let's go back about.
+
+253
+00:23:50.620 --> 00:23:58.629
+Takashi Ninjouji: Now this requires information which component is executable, or archive, or structured or not.
+
+254
+00:23:59.713 --> 00:24:03.820
+Takashi Ninjouji: It seems that the package commit will work for this. But
+
+255
+00:24:04.532 --> 00:24:13.029
+Takashi Ninjouji: by the way, Sptx. 2.3, introduces the primary package purpose. This works, introduced by Cyclone Dx.
+
+256
+00:24:13.330 --> 00:24:23.170
+Takashi Ninjouji: First.st But however, this property describes the type of the purpose, such as lovely or archive, and so on. Therefore it doesn't seem to express
+
+257
+00:24:23.440 --> 00:24:24.960
+Takashi Ninjouji: the status
+
+258
+00:24:25.420 --> 00:24:27.229
+Takashi Ninjouji: which BSI requires.
+
+259
+00:24:28.170 --> 00:24:28.850
+Takashi Ninjouji: So
+
+260
+00:24:29.340 --> 00:24:31.500
+Takashi Ninjouji: we will stop you with the
+
+261
+00:24:31.970 --> 00:24:36.119
+Takashi Ninjouji: presence over absence of attributes and the corresponding spill
+
+262
+00:24:36.220 --> 00:24:37.430
+Takashi Ninjouji: expressions.
+
+263
+00:24:39.840 --> 00:24:46.810
+Takashi Ninjouji: Okay, from here on we will look at the comparison of the requirement of Csis document and the Bsr's document.
+
+264
+00:24:46.880 --> 00:24:51.570
+Takashi Ninjouji: But before we do that, let's take a quick look at Jesus. Maturity levels.
+
+265
+00:24:51.870 --> 00:24:53.040
+Takashi Ninjouji: As a menu.
+
+266
+00:24:53.480 --> 00:25:00.350
+Takashi Ninjouji: As you may have noticed, it's a mixture of depths and breadths of dependencies and attributes levels.
+
+267
+00:25:00.860 --> 00:25:08.050
+Takashi Ninjouji: The 1st level minimum expected covers a primary component and its included components.
+
+268
+00:25:08.220 --> 00:25:10.950
+Takashi Ninjouji: The next level recommended practice.
+
+269
+00:25:11.150 --> 00:25:12.860
+Takashi Ninjouji: It covers the actual
+
+270
+00:25:12.970 --> 00:25:19.609
+Takashi Ninjouji: addition of attributes, data and supplements. Component identification as a wireless practice for creating S form.
+
+271
+00:25:19.940 --> 00:25:27.499
+Takashi Ninjouji: And the last one is last level is aspirational, constant dynamic, and or remote dependencies.
+
+272
+00:25:28.510 --> 00:25:29.860
+Takashi Ninjouji: This color
+
+273
+00:25:30.240 --> 00:25:35.030
+Takashi Ninjouji: chip indicates whether there are any requirements for each level.
+
+274
+00:25:35.470 --> 00:25:37.329
+Takashi Ninjouji: And now I brought
+
+275
+00:25:37.380 --> 00:25:41.739
+Takashi Ninjouji: the cara chips for the requirements in the Gsas document
+
+276
+00:25:42.260 --> 00:25:44.090
+Takashi Ninjouji: the s. 1 type.
+
+277
+00:25:44.780 --> 00:25:49.250
+Takashi Ninjouji: as a weekend we have already seen before earlier
+
+278
+00:25:49.450 --> 00:25:53.449
+Takashi Ninjouji: that was mentioned earlier, is only mentioned in aspiration.
+
+279
+00:25:53.740 --> 00:25:56.509
+Takashi Ninjouji: and there is a different relationships
+
+280
+00:25:57.360 --> 00:26:00.729
+Takashi Ninjouji: and the license and the copyright notice
+
+281
+00:26:01.070 --> 00:26:03.080
+Takashi Ninjouji: in the unknown components.
+
+282
+00:26:03.270 --> 00:26:12.899
+Takashi Ninjouji: and so on. We will leave the unrelated issues for another time. So we will skip them this time. So let's take a look other than the BSI requirements.
+
+283
+00:26:15.170 --> 00:26:18.930
+Takashi Ninjouji: As we've seen, sister shows 3 maturity levels.
+
+284
+00:26:18.940 --> 00:26:23.019
+Takashi Ninjouji: On the other hand, Bsa shows 5 categories as a level with details.
+
+285
+00:26:23.340 --> 00:26:26.100
+Takashi Ninjouji: We will look at them in this order.
+
+286
+00:26:29.240 --> 00:26:35.649
+Takashi Ninjouji: Let's get started. Just this expression is not either document, but
+
+287
+00:26:36.390 --> 00:26:44.939
+Takashi Ninjouji: this ambitious research. But let's call the depth and breadth of the categories of the dependents and target components. Relationship resolution.
+
+288
+00:26:45.690 --> 00:26:49.230
+Takashi Ninjouji: For now. And this differs between the 2 documents.
+
+289
+00:26:49.580 --> 00:26:56.240
+Takashi Ninjouji: She's a required. She's a document requires information on the remote component at aspiration, or, as we.
+
+290
+00:26:56.960 --> 00:26:59.040
+Takashi Ninjouji: as we see earlier.
+
+291
+00:26:59.120 --> 00:27:02.309
+Takashi Ninjouji: On the other hand, the BSI doesn't mention the modes.
+
+292
+00:27:02.440 --> 00:27:06.439
+Takashi Ninjouji: but it does require information on the 1st component
+
+293
+00:27:06.550 --> 00:27:09.339
+Takashi Ninjouji: that is outside the scope of delivery.
+
+294
+00:27:09.400 --> 00:27:12.929
+Takashi Ninjouji: This is not a requirement. Insist. We will look at this later.
+
+295
+00:27:16.620 --> 00:27:19.250
+Takashi Ninjouji: and it's some type at least, be this one
+
+296
+00:27:20.230 --> 00:27:26.480
+Takashi Ninjouji: sure, as I mentioned earlier, she said, only makes it optional for aspiration goals.
+
+297
+00:27:27.910 --> 00:27:35.999
+Takashi Ninjouji: and, on the other hand, the Bsa. Doesn't this s 1 type as a requirement, however, Bsa seems to be based on build s. 1.
+
+298
+00:27:37.780 --> 00:27:43.119
+Takashi Ninjouji: this seems to be understandable. Given that the tr. 0 31, it's
+
+299
+00:27:43.190 --> 00:27:44.810
+Takashi Ninjouji: it's certain
+
+300
+00:27:45.290 --> 00:27:47.589
+Takashi Ninjouji: 0 31, 8, 32
+
+301
+00:27:48.253 --> 00:28:05.819
+Takashi Ninjouji: part 2 is a guide for Sm for preparing for Cra, and the kind of additional devices are the main target. So when comparing and considering a Css. Document and Bss documents, it may be good idea to assume the build. Spom. This is my personal opinion.
+
+302
+00:28:09.910 --> 00:28:15.480
+Takashi Ninjouji: I think we've got the idea of the direction.
+
+303
+00:28:15.700 --> 00:28:21.049
+Takashi Ninjouji: But let's take a closer look at maturity levels on the level of details. Briefly.
+
+304
+00:28:21.510 --> 00:28:23.589
+Takashi Ninjouji: this is the lowest level
+
+305
+00:28:24.940 --> 00:28:29.910
+Takashi Ninjouji: system in my expected covers, primary component and dialect dependencies.
+
+306
+00:28:30.360 --> 00:28:41.209
+Takashi Ninjouji: On the other hand, BSI top level S bomb covers a primary component and all components which primary component directly depends on. So it seems to be a very similar definition.
+
+307
+00:28:41.810 --> 00:28:43.479
+Takashi Ninjouji: The that's it
+
+308
+00:28:45.180 --> 00:28:46.310
+Takashi Ninjouji: for the
+
+309
+00:28:46.380 --> 00:28:51.850
+Takashi Ninjouji: later discussion. So I'm shortly, briefly introduce the this
+
+310
+00:28:53.760 --> 00:28:56.129
+Takashi Ninjouji: marks. What does it means?
+
+311
+00:28:56.310 --> 00:28:58.670
+Takashi Ninjouji: The 5th circle are
+
+312
+00:28:59.030 --> 00:29:00.150
+Takashi Ninjouji: internal
+
+313
+00:29:00.530 --> 00:29:09.650
+Takashi Ninjouji: components, and the fields square are external components and eternal component is one food created. It's different from that, the primary component
+
+314
+00:29:10.660 --> 00:29:11.950
+Takashi Ninjouji: and the
+
+315
+00:29:12.270 --> 00:29:12.980
+Takashi Ninjouji: if we
+
+316
+00:29:14.210 --> 00:29:18.870
+Takashi Ninjouji: yes, and the example for the external components. 3rd party components.
+
+317
+00:29:19.260 --> 00:29:20.159
+Takashi Ninjouji: it's
+
+318
+00:29:21.480 --> 00:29:22.230
+Takashi Ninjouji: it.
+
+319
+00:29:22.500 --> 00:29:32.429
+Takashi Ninjouji: and the rectangle, just the frame frame to the cotangle is just indicates. The component is outside the scope of the delivery.
+
+320
+00:29:32.490 --> 00:29:37.700
+Takashi Ninjouji: and this gray crowd indicates the range of included into sable.
+
+321
+00:29:41.180 --> 00:29:49.060
+Takashi Ninjouji: and the next level is, she says, recommended practices. This is supposed to include all components
+
+322
+00:29:50.039 --> 00:29:56.189
+Takashi Ninjouji: included in the distribution. It is just a distribution, and it's just a distribution.
+
+323
+00:29:56.690 --> 00:30:00.549
+Takashi Ninjouji: And the BSI defines a level such as an N level
+
+324
+00:30:00.740 --> 00:30:08.159
+Takashi Ninjouji: and a transitive and a transitive delivery item en level is a step of depth from the primary component.
+
+325
+00:30:08.550 --> 00:30:14.360
+Takashi Ninjouji: So, therefore, the top level s. 1 we saw earlier is one level of s 1
+
+326
+00:30:15.030 --> 00:30:16.990
+Takashi Ninjouji: in this copy.
+
+327
+00:30:17.640 --> 00:30:23.630
+Takashi Ninjouji: and the scope gradually expands transitively means the 4th external component is listed.
+
+328
+00:30:24.470 --> 00:30:25.380
+Takashi Ninjouji: and
+
+329
+00:30:25.990 --> 00:30:31.220
+Takashi Ninjouji: as we saw earlier, the delivery item is bombed. The 1st component outside the
+
+330
+00:30:31.350 --> 00:30:32.350
+Takashi Ninjouji: dirty buddy.
+
+331
+00:30:36.390 --> 00:30:37.850
+Takashi Ninjouji: There a final level.
+
+332
+00:30:37.880 --> 00:30:40.829
+Takashi Ninjouji: The Csa's aspiration goal is
+
+333
+00:30:40.960 --> 00:30:43.690
+Takashi Ninjouji: to include as many dynamic
+
+334
+00:30:43.890 --> 00:30:47.330
+Takashi Ninjouji: and the remote components as possible in system.
+
+335
+00:30:47.540 --> 00:30:55.099
+Takashi Ninjouji: On the other hand, Bsr's complete as well means to include all components that can be traced from the primary component.
+
+336
+00:30:55.680 --> 00:30:57.579
+Takashi Ninjouji: This increase components
+
+337
+00:30:57.650 --> 00:31:04.080
+Takashi Ninjouji: outside the scope. Sorry scope of the delivery as well as a full, open.
+
+338
+00:31:04.820 --> 00:31:07.850
+Takashi Ninjouji: direct, or transcript dependent issues.
+
+339
+00:31:11.880 --> 00:31:17.790
+Takashi Ninjouji: Now, I'd like to introduce something that caught my attention again. Relationship, resolution.
+
+340
+00:31:19.630 --> 00:31:25.550
+Takashi Ninjouji: She says the patient was remote and no levels mentioned outside scope of delivery. On the other hand.
+
+341
+00:31:25.700 --> 00:31:32.859
+Takashi Ninjouji: BSI, in the BSI documents no mention about remote but needs the 1st component that is outside the scope of delivery.
+
+342
+00:31:33.040 --> 00:31:42.129
+Takashi Ninjouji: My impression is it's necessary to give sufficient consideration to whether the Csis maturity, database, and the Vsi's level of detail quantify
+
+343
+00:31:42.280 --> 00:31:46.140
+Takashi Ninjouji: our transaction requirements and regulated requirements as well.
+
+344
+00:31:48.030 --> 00:31:56.620
+Takashi Ninjouji: And the second topic is the license. It seems that the scope of the components covered the license information with expanding according to
+
+345
+00:31:56.870 --> 00:32:02.099
+Takashi Ninjouji: maturity level. But there is one thing in the description about aspiration goal.
+
+346
+00:32:02.370 --> 00:32:06.599
+Takashi Ninjouji: Now, this is the 1st time to get referred to, concluded license.
+
+347
+00:32:06.800 --> 00:32:16.220
+Takashi Ninjouji: Does this mean that it's okay. If minimum, unexpected or recommended practice should at least covers the credit license. I'm not sure.
+
+348
+00:32:16.430 --> 00:32:20.499
+Takashi Ninjouji: But, on the other hand, BSI. Requires associated license
+
+349
+00:32:20.640 --> 00:32:27.700
+Takashi Ninjouji: required associated license and additional concluded license and optional decreed license.
+
+350
+00:32:28.500 --> 00:32:36.070
+Takashi Ninjouji: The order but priority of for declared and conclude the license does match between both
+
+351
+00:32:36.270 --> 00:32:36.850
+Takashi Ninjouji: documents.
+
+352
+00:32:37.730 --> 00:32:39.040
+Takashi Ninjouji: but the.
+
+353
+00:32:39.210 --> 00:32:44.680
+Takashi Ninjouji: as we can see in the telecom guide, both types concluded and declared
+
+354
+00:32:44.980 --> 00:32:52.420
+Takashi Ninjouji: information are required for license compliances. So this difference is unlikely to cause any problems. But however.
+
+355
+00:32:52.500 --> 00:32:56.070
+Takashi Ninjouji: the fact that BSI requires associated rises
+
+356
+00:32:56.220 --> 00:33:00.339
+Takashi Ninjouji: is an incremental change. I'm curious to know
+
+357
+00:33:00.390 --> 00:33:06.290
+Takashi Ninjouji: how many companies are careful to include this kind of license mission in their
+
+358
+00:33:10.530 --> 00:33:12.560
+Takashi Ninjouji: okay. The next one is the
+
+359
+00:33:12.940 --> 00:33:17.049
+Takashi Ninjouji: hashtag. There seem to be a difference even with the hashtag rules.
+
+360
+00:33:17.410 --> 00:33:24.870
+Takashi Ninjouji: She's the specified sha 2, 256, or higher.
+
+361
+00:33:25.630 --> 00:33:26.620
+Takashi Ninjouji: by the way.
+
+362
+00:33:27.853 --> 00:33:29.999
+Takashi Ninjouji: Sorry. But.
+
+363
+00:33:30.160 --> 00:33:32.590
+Takashi Ninjouji: on the other hand, the biggest size fish bytes.
+
+364
+00:33:33.270 --> 00:33:34.250
+Takashi Ninjouji: 5
+
+365
+00:33:34.510 --> 00:33:35.590
+Takashi Ninjouji: 100
+
+366
+00:33:35.940 --> 00:33:36.730
+Takashi Ninjouji: 12.
+
+367
+00:33:38.600 --> 00:33:40.509
+Takashi Ninjouji: So it's a difference.
+
+368
+00:33:45.730 --> 00:33:47.520
+Takashi Ninjouji: and that this is.
+
+369
+00:33:47.650 --> 00:33:59.270
+Takashi Ninjouji: could we need to use s. 1 and Csfpx for cyber security here? There is a debate about whether s. 1 and Csfpx should be used same data, file or separate files.
+
+370
+00:33:59.710 --> 00:34:08.659
+Takashi Ninjouji: Psychon Dx has introduced vulnerabilities model which can express begs also Spdx, 3.0 can also express bags with security profile.
+
+371
+00:34:08.980 --> 00:34:29.289
+Takashi Ninjouji: From this it's technically possible to express Sbom and Bex in the same. Json versus Json led file in each data format. However, the question is whether or not it's necessary to combine the contents which are distributed with additional signature and have different updated freak sheets into one data file.
+
+372
+00:34:29.949 --> 00:34:35.160
+Takashi Ninjouji: There appears to be a difference in nuance between Shisa and the BSI document
+
+373
+00:34:35.280 --> 00:34:39.060
+Takashi Ninjouji: that there is a description like this.
+
+374
+00:34:39.370 --> 00:34:40.510
+Takashi Ninjouji: Sheesa
+
+375
+00:34:40.610 --> 00:34:47.600
+Takashi Ninjouji: insist document says, nor expected to be included in the Spom itself.
+
+376
+00:34:48.090 --> 00:34:48.949
+Takashi Ninjouji: Why
+
+377
+00:34:49.130 --> 00:34:50.570
+Takashi Ninjouji: BSI sits
+
+378
+00:34:50.690 --> 00:34:52.199
+Takashi Ninjouji: not contain.
+
+379
+00:34:52.810 --> 00:35:04.219
+Takashi Ninjouji: Furthermore, it stated that it is required not to include vulnerability information in an Sbom, even though an Sbom format specification supports that
+
+380
+00:35:05.780 --> 00:35:11.470
+Takashi Ninjouji: from this point of view it seems that the direction is to operate them separately
+
+381
+00:35:12.140 --> 00:35:14.619
+Takashi Ninjouji: by the way as a side note
+
+382
+00:35:14.720 --> 00:35:20.419
+Takashi Ninjouji: at the same time as Bsat 0 3, 1, 82, part 2,
+
+383
+00:35:20.730 --> 00:35:25.310
+Takashi Ninjouji: part 3, version 0 point 0 dot 9 dot 0
+
+384
+00:35:25.490 --> 00:35:26.220
+Takashi Ninjouji: buzz
+
+385
+00:35:26.330 --> 00:35:30.149
+Takashi Ninjouji: also released as a guide for vulnerability management.
+
+386
+00:35:30.400 --> 00:35:37.860
+Takashi Ninjouji: This document mentioned the Csf. As a data format, and Cis has already published minimum requirements for becs.
+
+387
+00:35:37.870 --> 00:35:46.829
+Takashi Ninjouji: Natural openbex is being implemented in open Ssf. Compared to Shesf, it seems openbex is a lighter structure and description.
+
+388
+00:35:47.270 --> 00:35:53.919
+Takashi Ninjouji: so it will be interesting to see how it open backs with the proper and the modules, and how to
+
+389
+00:35:54.500 --> 00:35:55.640
+Takashi Ninjouji: use
+
+390
+00:35:55.730 --> 00:35:59.910
+Takashi Ninjouji: the OP. Shisa for open decks or boards.
+
+391
+00:36:00.810 --> 00:36:02.920
+Takashi Ninjouji: Just my curiosity.
+
+392
+00:36:06.470 --> 00:36:09.480
+Takashi Ninjouji: and this is the last thing we are going to introduce today.
+
+393
+00:36:09.780 --> 00:36:11.110
+Takashi Ninjouji: Endobix.
+
+394
+00:36:11.410 --> 00:36:16.579
+Takashi Ninjouji: in Shesa's document. It's supplemental information to support use cases.
+
+395
+00:36:16.880 --> 00:36:33.860
+Takashi Ninjouji: The example seems to be required by Mdrf. Under FDA that we've already seen earlier. On the other hand, in BSI document, it says, the version number version number of should reflect the minimum required version. Sorry I'm not highlighted.
+
+396
+00:36:33.920 --> 00:36:40.040
+Takashi Ninjouji: but it makes easy to know the skip button that end of life for security vulnerabilities.
+
+397
+00:36:40.180 --> 00:36:48.450
+Takashi Ninjouji: So, however, there is no requirement to clarify clearly to indicate information such as end of life, date or so.
+
+398
+00:36:56.420 --> 00:36:57.909
+Takashi Ninjouji: We have groups.
+
+399
+00:36:57.970 --> 00:37:02.250
+Takashi Ninjouji: a lot of things. But I've only got one more thing to say
+
+400
+00:37:02.390 --> 00:37:13.320
+Takashi Ninjouji: when it comes to risk management in the software supply chain, it seems important to carefully consider stakeholders what kind of information is handled and how it's shared.
+
+401
+00:37:13.810 --> 00:37:18.059
+Takashi Ninjouji: It seems that we need to be aware of the flow of
+
+402
+00:37:18.430 --> 00:37:20.959
+Takashi Ninjouji: information in B, 2 B.
+
+403
+00:37:20.970 --> 00:37:22.490
+Takashi Ninjouji: Sorry I'm not
+
+404
+00:37:24.040 --> 00:37:29.140
+Takashi Ninjouji: illustrated, but the b 2 c, and also and the regulatory authorities.
+
+405
+00:37:33.220 --> 00:37:47.000
+Takashi Ninjouji: This is the final side. I hope we can have various discussion with everyone in the community. She says, maturity level, a much mixture of depth and the broads broadness of dependency and the information richness. So
+
+406
+00:37:47.446 --> 00:37:50.820
+Takashi Ninjouji: smo quality is likely to be almost like, is it okay?
+
+407
+00:37:51.050 --> 00:37:57.440
+Takashi Ninjouji: And in the sense of the difference between, she says, document and Vsi's document.
+
+408
+00:37:57.820 --> 00:38:02.409
+Takashi Ninjouji: how how to handle maturity level versus develop details.
+
+409
+00:38:02.590 --> 00:38:05.050
+Takashi Ninjouji: and what river with attribute
+
+410
+00:38:05.240 --> 00:38:09.650
+Takashi Ninjouji: is adequate for every stakeholders in the software chain
+
+411
+00:38:09.970 --> 00:38:12.960
+Takashi Ninjouji: and how to how to express.
+
+412
+00:38:14.490 --> 00:38:18.179
+Takashi Ninjouji: the smog document, both Sbdx and second Dx.
+
+413
+00:38:19.710 --> 00:38:30.010
+Takashi Ninjouji: Also, also, it's not mentioned here that I'm also interested in automating the management of S. Bombs and vulnerability across the software development lifecycle.
+
+414
+00:38:31.560 --> 00:38:34.950
+Takashi Ninjouji: Thank you so much for your listening.
+
+415
+00:38:35.100 --> 00:38:35.990
+Takashi Ninjouji: My
+
+416
+00:38:36.120 --> 00:38:37.890
+Takashi Ninjouji: presentation is finished.
+
+417
+00:38:39.360 --> 00:38:40.140
+Takashi Ninjouji: Thank you.
+
+418
+00:38:41.050 --> 00:38:42.429
+Norio Kobota (Sony Group Corporation): Thank you. And easier, Sam.
+
+419
+00:38:42.590 --> 00:38:51.510
+Norio Kobota (Sony Group Corporation): And as our last slide, I needed some mention. Are there any comments or discussion questions.
+
+420
+00:38:55.740 --> 00:38:58.260
+Shane Coughlan (The Linux Foundation): I see quite a lot of.
+
+421
+00:39:00.070 --> 00:39:02.360
+Shane Coughlan (The Linux Foundation): and comments in the chat.
+
+422
+00:39:03.201 --> 00:39:06.429
+Shane Coughlan (The Linux Foundation): It's been very exciting over there. So
+
+423
+00:39:06.640 --> 00:39:07.520
+Shane Coughlan (The Linux Foundation): of.
+
+424
+00:39:08.280 --> 00:39:18.154
+Shane Coughlan (The Linux Foundation): There's so many comments here that I think it might be useful if it's okay to ask people to speak to their ideas and notes.
+
+425
+00:39:18.610 --> 00:39:27.140
+Shane Coughlan (The Linux Foundation): Anthony, I noticed you had quite a lot to say. I was wondering if you'd like to summarize some of the key points that
+
+426
+00:39:27.290 --> 00:39:33.229
+Shane Coughlan (The Linux Foundation): you know you found interesting. You think that should be looked at next.
+
+427
+00:39:33.649 --> 00:39:39.520
+Anthony Harrison (Not Applicable): I think it's very useful to see the comparison of all these different guidelines.
+
+428
+00:39:40.920 --> 00:39:51.410
+Anthony Harrison (Not Applicable): I wish there was a single one personally, because it's going to make, you know, software, global. And I would really like everyone to harmonize on one set.
+
+429
+00:39:51.801 --> 00:40:15.660
+Anthony Harrison (Not Applicable): It might be a low, low level initially. But we are. We're still in the crawling stage of S bombs, and I would like us to get the quality of S bombs. Simple S bombs sorted out 1st before we get too detailed and making them better. Having said that, I think the use of the different types of S bombs, I think, is really important.
+
+430
+00:40:16.230 --> 00:40:32.220
+Anthony Harrison (Not Applicable): You can't just say an S bomb when there's 6 different types of S bombs, I think is really important. You think about your who's going to use us bomb? Because each as you go through the lifecycle, you get more and more information. So
+
+431
+00:40:32.230 --> 00:40:56.720
+Anthony Harrison (Not Applicable): if I'm in a production environment, I want to know the versions of the components that are running in production, and that's not going to be available at a source S bomb, because I don't know the dynamic linkage of the components. So I think you really need to be very careful when you ask for an S bomb, you need to be more precise. So it's great the discussion about S bomb type. And I think that's an evolving
+
+432
+00:40:57.095 --> 00:41:07.119
+Anthony Harrison (Not Applicable): discussion within the community. So I see a lot just as source S bombs. That doesn't give me enough information when I want to do vulnerability risk management.
+
+433
+00:41:07.130 --> 00:41:18.219
+Anthony Harrison (Not Applicable): So I think that's a really important point that I do, I think, was well articulated in the discussion, and personally, I think we have a lot to lot to get to, because
+
+434
+00:41:18.290 --> 00:41:20.460
+Anthony Harrison (Not Applicable): the tooling isn't quite there yet.
+
+435
+00:41:20.560 --> 00:41:40.739
+Anthony Harrison (Not Applicable): And the second point is, I think we also need to think about the vulnerabilities and S. Bombs. S. Bombs have static vulnerabilities are very dynamic. I wouldn't want to be updating my Sbom. Every time a new vulnerability comes up or a new assessment comes up. So I'm I'm very, very
+
+436
+00:41:40.880 --> 00:42:00.230
+Anthony Harrison (Not Applicable): an advocate of keeping Sbom static and having a more dynamic vex format. I know this is. There's a different opinions, I know. Thomas came up with a comment, challenging me, but from a personal perspective, I think it's going to be far easier to say I have product. And this is the version of the Sbom.
+
+437
+00:42:00.230 --> 00:42:12.200
+Anthony Harrison (Not Applicable): the separatist separate life cycle for vulnerabilities. So I think they need to be kept separate. So I agree with what was being recommended by the BSI in that. And I would. You know I would support that.
+
+438
+00:42:12.650 --> 00:42:13.949
+Anthony Harrison (Not Applicable): So there's a lot there.
+
+439
+00:42:18.520 --> 00:42:25.320
+Norio Kobota (Sony Group Corporation): Thank you very much, and I'd like to hear the thought from the Thomas.
+
+440
+00:42:25.380 --> 00:42:35.080
+Norio Kobota (Sony Group Corporation): He is who is one contributor to the Spds. $3 or security profile. Thomas, do you have any thoughts on this.
+
+441
+00:42:38.120 --> 00:42:44.910
+Thomas Steenbergen: Yeah, thank you. Hassan. Yeah, there was a whole discussion since I worked on the 2 pro security profile.
+
+442
+00:42:45.040 --> 00:42:47.859
+Thomas Steenbergen: whether to include vex or not. And
+
+443
+00:42:49.050 --> 00:42:51.789
+Thomas Steenbergen: I think the fundamental question is.
+
+444
+00:42:52.070 --> 00:42:53.750
+Thomas Steenbergen: is, actually.
+
+445
+00:42:54.030 --> 00:42:55.850
+Thomas Steenbergen: there's 2 streams of thoughts.
+
+446
+00:42:56.330 --> 00:42:59.819
+Thomas Steenbergen: So one is there. An S bomb is a static document
+
+447
+00:43:00.200 --> 00:43:07.070
+Thomas Steenbergen: that you ship over like it's a physical. Think of it as a word document or a quality insurance document that you ship with a product.
+
+448
+00:43:08.420 --> 00:43:16.189
+Thomas Steenbergen: And the other one train of thought is that the S bomb is more an Api stream.
+
+449
+00:43:16.410 --> 00:43:21.350
+Thomas Steenbergen: So basically, the suppliers and the consumers are part of a
+
+450
+00:43:21.785 --> 00:43:30.054
+Thomas Steenbergen: network communication. And then the question comes, the S bomb is not necessarily the document, but the S bomb is kind of
+
+451
+00:43:30.490 --> 00:43:35.559
+Thomas Steenbergen: in that, you see, in 3.0 is kind of a container where you can link multiple informations together.
+
+452
+00:43:36.890 --> 00:43:44.099
+Thomas Steenbergen: And and so these are the 2 faults. Why, in Spx 3.0, you see that basically.
+
+453
+00:43:44.250 --> 00:43:46.669
+Thomas Steenbergen: the both scenarios are supported.
+
+454
+00:43:46.780 --> 00:43:51.459
+Thomas Steenbergen: So one is a scenario where basically what I believe for the document S bomb
+
+455
+00:43:51.570 --> 00:43:55.289
+Thomas Steenbergen: right? The right way is to in your S bomb
+
+456
+00:43:55.760 --> 00:43:59.040
+Thomas Steenbergen: when you publish it, have some kind of link
+
+457
+00:43:59.180 --> 00:44:02.470
+Thomas Steenbergen: pointing from like. Here is my vex information.
+
+458
+00:44:02.620 --> 00:44:04.760
+Thomas Steenbergen: So I strongly
+
+459
+00:44:04.890 --> 00:44:11.920
+Thomas Steenbergen: pros of, just like Anthony to include vexes in document
+
+460
+00:44:12.270 --> 00:44:28.530
+Thomas Steenbergen: S bombs that are like static and and can be downloadable like like Json File or Xml files. But you should link to where your vexes can be found, and that can be a vex api, or another system where you can find vexes. But the other case is where you have
+
+461
+00:44:28.630 --> 00:44:33.642
+Thomas Steenbergen: kind of like S bomb streams. So there's a continuous communication where?
+
+462
+00:44:34.900 --> 00:44:39.432
+Thomas Steenbergen: what most people don't. Most people the standard use case is still
+
+463
+00:44:40.050 --> 00:44:43.849
+Thomas Steenbergen: you have S-bomb document, but you can also make an S bombs of S bombs
+
+464
+00:44:44.120 --> 00:44:57.040
+Thomas Steenbergen: where you link. Use the s 1 format to link things together, and then you can. It makes sense to links vex things together. Because then you can just basically communicate
+
+465
+00:44:57.790 --> 00:45:02.630
+Thomas Steenbergen: via the same as bond techniques. You can communicate vex changes as well.
+
+466
+00:45:03.130 --> 00:45:19.470
+Thomas Steenbergen: But I think this is the problem that most people don't understand the different way or different use cases. But this has to do that. Some of the organizations that we worked with use the S bomb standards like to internally communicate between as streams of data that are continuously flowing.
+
+467
+00:45:21.470 --> 00:45:27.110
+Thomas Steenbergen: But between organizations we have like external organizations. We haven't seen that yet.
+
+468
+00:45:27.810 --> 00:45:29.790
+Thomas Steenbergen: but that may be. Why.
+
+469
+00:45:30.010 --> 00:45:38.309
+Thomas Steenbergen: there's a lot of confusion between facts inside s bomb. Not inside S bomb. I think they should be separated, but if there is an Api use case, they might be come together.
+
+470
+00:45:40.190 --> 00:45:41.610
+Thomas Steenbergen: I hope this helps.
+
+471
+00:45:43.170 --> 00:45:44.059
+Norio Kobota (Sony Group Corporation): Thank you.
+
+472
+00:45:47.600 --> 00:45:49.610
+Norio Kobota (Sony Group Corporation): Sean. Do you have any
+
+473
+00:45:50.430 --> 00:45:51.270
+Norio Kobota (Sony Group Corporation): comment.
+
+474
+00:45:52.970 --> 00:45:54.990
+Norio Kobota (Sony Group Corporation): or some other people?
+
+475
+00:45:55.580 --> 00:45:56.530
+Shane Coughlan (The Linux Foundation): I just noted that.
+
+476
+00:45:56.530 --> 00:45:56.880
+Norio Kobota (Sony Group Corporation): Oh, man!
+
+477
+00:45:56.880 --> 00:46:01.869
+Shane Coughlan (The Linux Foundation): I had a few comments earlier. Yari, might you want to speak to some of those.
+
+478
+00:46:06.790 --> 00:46:12.059
+Jari Koivisto (OpenChain Project): Well, I guess I'm I'm just repeating what Thomas was just saying, that, you know, there might be
+
+479
+00:46:12.500 --> 00:46:17.650
+Jari Koivisto (OpenChain Project): good use cases when the vulnerability information, or the vex information is
+
+480
+00:46:17.880 --> 00:46:18.840
+Jari Koivisto (OpenChain Project): dynamic
+
+481
+00:46:19.110 --> 00:46:26.839
+Jari Koivisto (OpenChain Project): within the the spom. But, on the other hand, at least for today I'm in the static spom
+
+482
+00:46:27.040 --> 00:46:31.760
+Jari Koivisto (OpenChain Project): and and dynamic vulnerability, or or vex vex camp. But
+
+483
+00:46:32.390 --> 00:46:36.290
+Jari Koivisto (OpenChain Project): let's see, you know, we are still in early days, so how the
+
+484
+00:46:36.610 --> 00:46:38.230
+Jari Koivisto (OpenChain Project): industry will
+
+485
+00:46:38.380 --> 00:46:39.260
+Jari Koivisto (OpenChain Project): form.
+
+486
+00:46:40.000 --> 00:46:44.640
+Jari Koivisto (OpenChain Project): I think we will see that. And well, maybe we are the ones who are forming the industry as well. So
+
+487
+00:46:45.140 --> 00:46:47.460
+Jari Koivisto (OpenChain Project): let's let's take a stand here. Maybe.
+
+488
+00:46:54.300 --> 00:47:02.689
+Norio Kobota (Sony Group Corporation): Okay, thank you. And actually, can I share one slide about the related to this topic.
+
+489
+00:47:03.120 --> 00:47:05.819
+Norio Kobota (Sony Group Corporation): ninja side, can I share my screen.
+
+490
+00:47:14.000 --> 00:47:17.840
+Shane Coughlan (The Linux Foundation): You should be able to share it. Yeah, there you go.
+
+491
+00:47:18.220 --> 00:47:18.890
+Shane Coughlan (The Linux Foundation): Okay, okay.
+
+492
+00:47:19.460 --> 00:47:27.540
+Norio Kobota (Sony Group Corporation): Yes, recently the bomb subgroup discussed about what should be needed to future discussion.
+
+493
+00:47:27.800 --> 00:47:30.075
+Norio Kobota (Sony Group Corporation): and a lady did it
+
+494
+00:47:31.900 --> 00:47:33.470
+Norio Kobota (Sony Group Corporation): previous topics.
+
+495
+00:47:34.930 --> 00:47:43.819
+Norio Kobota (Sony Group Corporation): It is dependent S form and effects depends on the context and the receiving, timing and the distributing time.
+
+496
+00:47:44.330 --> 00:47:54.509
+Norio Kobota (Sony Group Corporation): And we think when receiving timing, we should discuss maturity levels upstream entity.
+
+497
+00:47:54.860 --> 00:47:56.889
+Norio Kobota (Sony Group Corporation): This is very important.
+
+498
+00:47:57.260 --> 00:48:02.769
+Norio Kobota (Sony Group Corporation): And of course, security perspective and the license compliance perspective.
+
+499
+00:48:02.970 --> 00:48:07.800
+Norio Kobota (Sony Group Corporation): What information we need is different.
+
+500
+00:48:08.060 --> 00:48:15.110
+Norio Kobota (Sony Group Corporation): So this r 1, from r. 1 to R. 3 should be discussed in the future.
+
+501
+00:48:15.120 --> 00:48:22.050
+Norio Kobota (Sony Group Corporation): and some parts have already discussed in many Islam subgroup.
+
+502
+00:48:22.470 --> 00:48:24.100
+Norio Kobota (Sony Group Corporation): Understand?
+
+503
+00:48:24.150 --> 00:48:32.139
+Norio Kobota (Sony Group Corporation): What information do we manage inside our company. That's a security perspective on the license perspective.
+
+504
+00:48:32.550 --> 00:48:35.710
+Norio Kobota (Sony Group Corporation): And a big difference is the servicing time.
+
+505
+00:48:36.698 --> 00:48:40.202
+Norio Kobota (Sony Group Corporation): When we ship the product to our software
+
+506
+00:48:40.950 --> 00:48:47.449
+Norio Kobota (Sony Group Corporation): usage of the software is defined by download and downstream companies.
+
+507
+00:48:47.930 --> 00:49:01.669
+Norio Kobota (Sony Group Corporation): So in this use case, specific use case, we needed to discuss about what information is needed to the downstream company downstream entity
+
+508
+00:49:02.430 --> 00:49:04.639
+Norio Kobota (Sony Group Corporation): and a security perspective.
+
+509
+00:49:04.650 --> 00:49:10.479
+Norio Kobota (Sony Group Corporation): What information do they company customer needed?
+
+510
+00:49:11.470 --> 00:49:14.750
+Norio Kobota (Sony Group Corporation): On the other hand, license, compliance, perspective?
+
+511
+00:49:14.810 --> 00:49:18.189
+Norio Kobota (Sony Group Corporation): What information must we provide.
+
+512
+00:49:18.770 --> 00:49:21.520
+Norio Kobota (Sony Group Corporation): Then this is a license compliance, perspective.
+
+513
+00:49:21.610 --> 00:49:25.349
+Norio Kobota (Sony Group Corporation): So I illustrated
+
+514
+00:49:26.242 --> 00:49:37.090
+Norio Kobota (Sony Group Corporation): change, the current maturity level of upstream entity and the different usage of software by download and downstream entity and the license compliance perspective.
+
+515
+00:49:37.150 --> 00:49:42.650
+Norio Kobota (Sony Group Corporation): This 3 point is needed needed to be categorized.
+
+516
+00:49:42.700 --> 00:49:45.129
+Norio Kobota (Sony Group Corporation): And what information is needed.
+
+517
+00:49:45.170 --> 00:49:48.941
+Norio Kobota (Sony Group Corporation): Hey, we list. These
+
+518
+00:49:49.760 --> 00:49:53.469
+Norio Kobota (Sony Group Corporation): from this perspective is important, I think.
+
+519
+00:49:54.550 --> 00:49:59.159
+Norio Kobota (Sony Group Corporation): What this are there any comments or question comments.
+
+520
+00:50:15.800 --> 00:50:23.870
+Anthony Harrison (Not Applicable): I think it would be interesting to look at what an end user needs, as I think, from another company, because I think the software supply chain
+
+521
+00:50:24.852 --> 00:50:33.640
+Anthony Harrison (Not Applicable): in the upstream and downstream are probably very similar. But actually, what what does an end user really value?
+
+522
+00:50:33.680 --> 00:50:39.229
+Anthony Harrison (Not Applicable): Is it? Is he, too? Both. Is he really bothered about the license as much as security?
+
+523
+00:50:39.711 --> 00:50:45.499
+Anthony Harrison (Not Applicable): It would be interesting, you know, if I'm an end user, I'm more concerned about, am I vulnerable?
+
+524
+00:50:46.050 --> 00:50:46.870
+Anthony Harrison (Not Applicable): And
+
+525
+00:50:47.130 --> 00:50:56.130
+Anthony Harrison (Not Applicable): the license information is probably the risk, maybe not as great as the as a security risk.
+
+526
+00:50:58.193 --> 00:51:13.079
+Norio Kobota (Sony Group Corporation): Yes, I agree. But cra requires us. For example, Cra requires us to provide s. 1 and back when we, for example, we ship the headphone.
+
+527
+00:51:13.430 --> 00:51:17.009
+Norio Kobota (Sony Group Corporation): Cra required us to provide the estimate.
+
+528
+00:51:17.450 --> 00:51:24.360
+Norio Kobota (Sony Group Corporation): but end user customers. When end user customers receive the bunch of as well.
+
+529
+00:51:24.730 --> 00:51:32.179
+Norio Kobota (Sony Group Corporation): They don't they? I I think they don't want to receive such bunch of f 1 Json files.
+
+530
+00:51:32.920 --> 00:51:54.100
+Norio Kobota (Sony Group Corporation): On the other hand, some companies buy the routers from the upstream company and connect their network and manage their it. Infrastructure. It is needed to be provided detailed information such as exponent, including bags, and so on.
+
+531
+00:51:54.530 --> 00:52:00.329
+Norio Kobota (Sony Group Corporation): This is depend. This depends on the context or usage of the downstream entities.
+
+532
+00:52:01.030 --> 00:52:10.889
+Norio Kobota (Sony Group Corporation): So we needed to. I think it. It's my opinion, but we should separate these information from the use case.
+
+533
+00:52:11.920 --> 00:52:12.710
+Norio Kobota (Sony Group Corporation): What I think.
+
+534
+00:52:12.710 --> 00:52:14.410
+Anthony Harrison (Not Applicable): Yeah, I think.
+
+535
+00:52:14.570 --> 00:52:32.140
+Anthony Harrison (Not Applicable): And this is for debate as well, and I am not an advocate of having different S bombs for different end users. So say a regulator only gets a subset of an S bomb that you may pass to a another software organization.
+
+536
+00:52:32.587 --> 00:52:38.012
+Anthony Harrison (Not Applicable): I'm a view that you provide the same S bomb to multiple users.
+
+537
+00:52:39.320 --> 00:53:01.319
+Anthony Harrison (Not Applicable): how that user consumes the S bomb will depend on his use case. So it might be. If it's a light. If it's a compliance team, they're probably only going to be interested in the license information. If it's the security team they're going to be interested in the versions of the components. Maybe so. That would be an interesting view in terms of whether people think we should have
+
+538
+00:53:01.490 --> 00:53:05.719
+Anthony Harrison (Not Applicable): different viewpoints of an S bomb or not now.
+
+539
+00:53:10.940 --> 00:53:36.430
+Anthony Harrison (Not Applicable): but I think we probably need more end users of S. Bombs to be involved. What do they value? I know, looking on the group. We've probably got various organizations who are providing products. But how do we, you know, do we have a an a end user? Let's say a government. How they would interpret, you know, what do they value within the S bomb? Now, that would be a really interesting discussion.
+
+540
+00:53:47.370 --> 00:53:48.050
+Anthony Harrison (Not Applicable): Right.
+
+541
+00:53:48.050 --> 00:53:48.760
+Norio Kobota (Sony Group Corporation): To.
+
+542
+00:53:50.790 --> 00:53:53.310
+Norio Kobota (Sony Group Corporation): Jimmy, do you have any opinion?
+
+543
+00:53:53.850 --> 00:53:55.820
+Norio Kobota (Sony Group Corporation): Can you share your opinion.
+
+544
+00:53:58.100 --> 00:54:09.609
+Jimmy Ahlberg (Ericsson): I can certainly try, at least, so I I don't see that there needs to be a sort of either, or I think that's an ideal scenario. One S bomb can
+
+545
+00:54:10.020 --> 00:54:16.289
+Jimmy Ahlberg (Ericsson): sort of both provide for for license, compliance, information as needed or license information as needed
+
+546
+00:54:16.360 --> 00:54:19.190
+Jimmy Ahlberg (Ericsson): and the necessary information needed for
+
+547
+00:54:19.420 --> 00:54:24.649
+Jimmy Ahlberg (Ericsson): security. And just as a reply to Anthony, I'm probably myself more
+
+548
+00:54:24.890 --> 00:54:29.189
+Jimmy Ahlberg (Ericsson): concerned with licensing as an end user than I am
+
+549
+00:54:29.240 --> 00:54:35.339
+Jimmy Ahlberg (Ericsson): security. But that doesn't mean that I that security is not important, or that there aren't people within my company
+
+550
+00:54:35.350 --> 00:54:40.170
+Jimmy Ahlberg (Ericsson): that would certainly be more more interested and more concerned with security aspects.
+
+551
+00:54:40.390 --> 00:54:41.230
+Jimmy Ahlberg (Ericsson): But
+
+552
+00:54:41.500 --> 00:54:49.559
+Jimmy Ahlberg (Ericsson): I I neither do I want to see sort of multiple S bombs depending on on the person. I would much
+
+553
+00:54:49.650 --> 00:54:52.590
+Jimmy Ahlberg (Ericsson): rather prefer one s-bomb
+
+554
+00:54:53.111 --> 00:54:59.619
+Jimmy Ahlberg (Ericsson): containing all the necessary information for the various use cases and various persona and user personas that will
+
+555
+00:54:59.860 --> 00:55:01.830
+Jimmy Ahlberg (Ericsson): will consume that.
+
+556
+00:55:02.621 --> 00:55:08.649
+Jimmy Ahlberg (Ericsson): And I I would also to stress that. And that was one of the points of of the telquest bomb
+
+557
+00:55:08.990 --> 00:55:12.710
+Jimmy Ahlberg (Ericsson): is really that we don't want to cater to
+
+558
+00:55:13.010 --> 00:55:15.919
+Jimmy Ahlberg (Ericsson): necessarily multiple customers or multiple
+
+559
+00:55:16.010 --> 00:55:21.470
+Jimmy Ahlberg (Ericsson): sort of receivers of this s pumps with their specific requirements.
+
+560
+00:55:22.160 --> 00:55:24.130
+Jimmy Ahlberg (Ericsson): So instead of having one s-pop
+
+561
+00:55:24.430 --> 00:55:29.339
+Jimmy Ahlberg (Ericsson): for that sector, or for that that kind of customer, and the same then
+
+562
+00:55:29.410 --> 00:55:34.079
+Jimmy Ahlberg (Ericsson): for for people supplying in that value chain to simplify things.
+
+563
+00:55:38.200 --> 00:55:38.960
+Norio Kobota (Sony Group Corporation): Thank you.
+
+564
+00:55:41.080 --> 00:55:42.240
+Norio Kobota (Sony Group Corporation): Okay.
+
+565
+00:55:42.360 --> 00:55:43.165
+Norio Kobota (Sony Group Corporation): And
+
+566
+00:55:45.450 --> 00:55:47.990
+Norio Kobota (Sony Group Corporation): the next comment is.
+
+567
+00:55:48.240 --> 00:55:49.270
+Norio Kobota (Sony Group Corporation): Stefan.
+
+568
+00:55:49.980 --> 00:55:51.710
+Norio Kobota (Sony Group Corporation): can you share your thought?
+
+569
+00:55:56.703 --> 00:56:02.210
+Stephen Pollard: Yes, yeah, thank you. Yeah. I was just very interested by your by the diagram here.
+
+570
+00:56:02.912 --> 00:56:08.127
+Stephen Pollard: And I just wondered if there was a a use case that people could
+
+571
+00:56:08.520 --> 00:56:14.269
+Stephen Pollard: envisage where a downstream company might actually require a dynamic S bomb.
+
+572
+00:56:14.440 --> 00:56:19.509
+Stephen Pollard: because somehow the the delivery was quite closely integrated with the architecture upstream
+
+573
+00:56:19.710 --> 00:56:22.639
+Stephen Pollard: that would require a dynamic
+
+574
+00:56:22.740 --> 00:56:24.910
+Stephen Pollard: Sbom service, as you described
+
+575
+00:56:25.320 --> 00:56:31.779
+Stephen Pollard: someone else, I think, described like an Api stream. Are there any kind of use, cases that come to mind as to that. Would that would really
+
+576
+00:56:32.570 --> 00:56:34.240
+Stephen Pollard: suggest that was needed.
+
+577
+00:56:38.460 --> 00:56:39.360
+Norio Kobota (Sony Group Corporation): Really
+
+578
+00:56:46.260 --> 00:56:49.120
+Norio Kobota (Sony Group Corporation): sorry I don't have the
+
+579
+00:56:49.220 --> 00:56:50.250
+Norio Kobota (Sony Group Corporation): profile
+
+580
+00:56:50.290 --> 00:56:51.560
+Norio Kobota (Sony Group Corporation): I'll serve.
+
+581
+00:56:52.260 --> 00:56:53.500
+Norio Kobota (Sony Group Corporation): Was there any
+
+582
+00:56:55.214 --> 00:56:59.750
+Norio Kobota (Sony Group Corporation): Are there any thoughts anyone does? Does anyone have any thought.
+
+583
+00:57:07.310 --> 00:57:17.092
+Ummo Schwarting (Carl Zeiss AG): I mean, it probably depends on how the use of S from will continue in the future. I think this is kind of what we had as a discussion earlier with the security assessment.
+
+584
+00:57:17.810 --> 00:57:25.760
+Ummo Schwarting (Carl Zeiss AG): I agree with with Thomas and where the discussion was going earlier that you don't want this too dynamic in the S bomb.
+
+585
+00:57:25.800 --> 00:57:40.836
+Ummo Schwarting (Carl Zeiss AG): But where I see a use case is that you might want assessments in there, and this is something that we also discuss now for operations use where you might want to include export control information in the S. Bomber. At least link it to the S form. I think this is.
+
+586
+00:57:41.140 --> 00:57:56.029
+Ummo Schwarting (Carl Zeiss AG): there's still no final say how to really do this. But this is an area. This is, in my, from my point of view, very new that in the past you were dealing with open source licenses where you would expect there wouldn't be much change over time.
+
+587
+00:57:56.040 --> 00:58:10.189
+Ummo Schwarting (Carl Zeiss AG): But of course, with vulnerabilities, and also something like export control assessments. This might change in the future. So you would just put probably something like a timestamp on that information and say, okay, this was the assessment at that time.
+
+588
+00:58:10.210 --> 00:58:32.370
+Ummo Schwarting (Carl Zeiss AG): Then I see. Use cases there that you will have these discussions in. I don't know customer intake control when you're supplying to other businesses that they want to see this in contract negotiation, that okay, at that point in time when we agree on the contract, there was this assessment, and this is now the risk attached to this.
+
+589
+00:58:32.520 --> 00:58:34.519
+Ummo Schwarting (Carl Zeiss AG): Then, of course, you would need to
+
+590
+00:58:34.710 --> 00:58:40.140
+Ummo Schwarting (Carl Zeiss AG): come up with a way to supply this information dynamically, but I don't see this in
+
+591
+00:58:40.210 --> 00:58:48.680
+Ummo Schwarting (Carl Zeiss AG): larger cycles. Then it's probably relevant for the actual vex information which you would use daily and system more
+
+592
+00:58:48.710 --> 00:58:52.070
+Ummo Schwarting (Carl Zeiss AG): kind of a topic for the technical departments.
+
+593
+00:58:52.190 --> 00:59:05.679
+Ummo Schwarting (Carl Zeiss AG): whereas something like export control might change over time, and there you might have might see some kind of dynamic in these S bombs, but with longer cycles in between, maybe yearly update on on the assessment, or something like that.
+
+594
+00:59:08.470 --> 00:59:13.510
+Norio Kobota (Sony Group Corporation): Thank you very much. And you later, Han.
+
+595
+00:59:14.250 --> 00:59:26.899
+Alin Jerpelea (Sony Group Corporation): Yeah, thank you. In my opinion, we will see something in between, because the companies have to pay to generate ice bonds. So that is a cost for them, and they will do the minimum
+
+596
+00:59:27.350 --> 00:59:29.429
+Alin Jerpelea (Sony Group Corporation): requirements by law.
+
+597
+00:59:30.380 --> 00:59:35.530
+Alin Jerpelea (Sony Group Corporation): So I personally think that we will have a mix between dynamic and static.
+
+598
+00:59:40.960 --> 00:59:55.299
+Ummo Schwarting (Carl Zeiss AG): Yes, exactly. I think this is very dependent on on the actual use, case and agreement between companies. How they set up their contracts, what information should be provided and was consumed, or if you're responsible on your own to generate it.
+
+599
+00:59:57.920 --> 00:59:59.149
+Norio Kobota (Sony Group Corporation): Thank you very much.
+
+600
+00:59:59.840 --> 01:00:03.040
+Norio Kobota (Sony Group Corporation): Okay. Last 7 min.
+
+601
+01:00:03.630 --> 01:00:05.679
+Norio Kobota (Sony Group Corporation): So are there any
+
+602
+01:00:05.720 --> 01:00:07.220
+Norio Kobota (Sony Group Corporation): thoughts or comments.
+
+603
+01:00:12.740 --> 01:00:28.562
+Marc-Etienne Vargenau (Nokia Corporation): Hello, yes, so thank you for the very good comparison between different documents. That is quite useful. So my question was,
+
+604
+01:00:30.230 --> 01:00:33.359
+Marc-Etienne Vargenau (Nokia Corporation): Now we have this many documents.
+
+605
+01:00:33.370 --> 01:00:39.610
+Marc-Etienne Vargenau (Nokia Corporation): So what do we want to achieve?
+
+606
+01:00:39.830 --> 01:00:47.109
+Marc-Etienne Vargenau (Nokia Corporation): Should we produce a document recommending how to
+
+607
+01:00:47.260 --> 01:00:50.245
+Marc-Etienne Vargenau (Nokia Corporation): adhere to this
+
+608
+01:00:51.630 --> 01:00:57.909
+Marc-Etienne Vargenau (Nokia Corporation): different standards? And how do we proceed to to create it?
+
+609
+01:01:00.320 --> 01:01:04.940
+Norio Kobota (Sony Group Corporation): Thank you. Do you have any comment on this.
+
+610
+01:01:06.910 --> 01:01:08.440
+Takashi Ninjouji: From me from my side.
+
+611
+01:01:09.283 --> 01:01:10.230
+Takashi Ninjouji: Yeah.
+
+612
+01:01:12.650 --> 01:01:13.570
+Takashi Ninjouji: of.
+
+613
+01:01:14.330 --> 01:01:18.629
+Takashi Ninjouji: I have also same questions to this community.
+
+614
+01:01:20.173 --> 01:01:21.099
+Takashi Ninjouji: I'm sorry.
+
+615
+01:01:21.100 --> 01:01:21.680
+Norio Kobota (Sony Group Corporation): Okay.
+
+616
+01:01:26.790 --> 01:01:27.380
+Takashi Ninjouji: Yeah.
+
+617
+01:01:29.260 --> 01:01:33.799
+Takashi Ninjouji: So we're discussing on the Islam study groups to
+
+618
+01:01:34.120 --> 01:01:35.609
+Takashi Ninjouji: treat the
+
+619
+01:01:36.463 --> 01:01:39.080
+Takashi Ninjouji: issues, just marketing you some
+
+620
+01:01:39.560 --> 01:01:44.520
+Takashi Ninjouji: pointed out or other aspects. We will another how to say
+
+621
+01:01:44.620 --> 01:01:49.249
+Takashi Ninjouji: more prioritized issues for the s. 1 promotion were how to
+
+622
+01:01:49.280 --> 01:01:56.720
+Takashi Ninjouji: make more enhance some quality or more automated initiatives. Also, I'm not sure but what is
+
+623
+01:01:57.080 --> 01:02:02.269
+Takashi Ninjouji: important and how to lead the information sharing
+
+624
+01:02:02.730 --> 01:02:04.940
+Takashi Ninjouji: in the software separate chain.
+
+625
+01:02:08.890 --> 01:02:12.160
+Norio Kobota (Sony Group Corporation): Does anyone does anyone have any thoughts.
+
+626
+01:02:20.850 --> 01:02:22.399
+Shane Coughlan (The Linux Foundation): Ito San has his hand.
+
+627
+01:02:23.730 --> 01:02:30.240
+Yoshiyuki Ito (Renesas Electronics Corporation): Here. I what as I mentioned I think there
+
+628
+01:02:30.270 --> 01:02:31.280
+Yoshiyuki Ito (Renesas Electronics Corporation): already.
+
+629
+01:02:31.630 --> 01:02:38.370
+Yoshiyuki Ito (Renesas Electronics Corporation): Is this the several purpose of this from already discussed in many place one in the
+
+630
+01:02:39.180 --> 01:02:41.580
+Yoshiyuki Ito (Renesas Electronics Corporation): some sort of national security
+
+631
+01:02:42.160 --> 01:02:44.950
+Yoshiyuki Ito (Renesas Electronics Corporation): and customer protection
+
+632
+01:02:45.150 --> 01:02:49.499
+Yoshiyuki Ito (Renesas Electronics Corporation): and in exchange in Japan. It's from
+
+633
+01:02:49.600 --> 01:02:53.530
+Yoshiyuki Ito (Renesas Electronics Corporation): mentioned in the sentence of the
+
+634
+01:02:53.620 --> 01:02:56.380
+Yoshiyuki Ito (Renesas Electronics Corporation): industrial promotion
+
+635
+01:02:57.890 --> 01:03:03.217
+Yoshiyuki Ito (Renesas Electronics Corporation): for example, s form utilizing s form in export control
+
+636
+01:03:03.990 --> 01:03:07.149
+Yoshiyuki Ito (Renesas Electronics Corporation): mentioned in this meeting. That
+
+637
+01:03:07.230 --> 01:03:14.879
+Yoshiyuki Ito (Renesas Electronics Corporation): that's related related in some aspects in the industry promotion and national security.
+
+638
+01:03:15.546 --> 01:03:16.143
+Yoshiyuki Ito (Renesas Electronics Corporation): So
+
+639
+01:03:16.910 --> 01:03:18.440
+Yoshiyuki Ito (Renesas Electronics Corporation): it's though.
+
+640
+01:03:19.263 --> 01:03:19.956
+Yoshiyuki Ito (Renesas Electronics Corporation): similar
+
+641
+01:03:21.167 --> 01:03:24.502
+Yoshiyuki Ito (Renesas Electronics Corporation): target of this form already exists. And perhaps
+
+642
+01:03:24.940 --> 01:03:27.600
+Yoshiyuki Ito (Renesas Electronics Corporation): we have put more
+
+643
+01:03:29.814 --> 01:03:36.350
+Yoshiyuki Ito (Renesas Electronics Corporation): methodology required to to fulfill those requirements. Perhaps more
+
+644
+01:03:36.410 --> 01:03:40.019
+Yoshiyuki Ito (Renesas Electronics Corporation): requirement, more target of the S from
+
+645
+01:03:40.260 --> 01:03:44.400
+Yoshiyuki Ito (Renesas Electronics Corporation): might be promoted in future. So.
+
+646
+01:03:44.710 --> 01:03:46.769
+Yoshiyuki Ito (Renesas Electronics Corporation): but we have
+
+647
+01:03:46.910 --> 01:03:49.990
+Yoshiyuki Ito (Renesas Electronics Corporation): to check the many
+
+648
+01:03:51.750 --> 01:03:52.640
+Yoshiyuki Ito (Renesas Electronics Corporation): corresponds
+
+649
+01:03:52.680 --> 01:03:57.180
+Yoshiyuki Ito (Renesas Electronics Corporation): on each industry, each public sector, and many, many
+
+650
+01:03:57.835 --> 01:04:02.434
+Yoshiyuki Ito (Renesas Electronics Corporation): correspond people. Perhaps. It might be
+
+651
+01:04:03.070 --> 01:04:04.180
+Yoshiyuki Ito (Renesas Electronics Corporation): improve
+
+652
+01:04:04.310 --> 01:04:07.250
+Yoshiyuki Ito (Renesas Electronics Corporation): more member in
+
+653
+01:04:07.790 --> 01:04:08.750
+Yoshiyuki Ito (Renesas Electronics Corporation): in the world.
+
+654
+01:04:09.380 --> 01:04:10.013
+Yoshiyuki Ito (Renesas Electronics Corporation): But
+
+655
+01:04:12.585 --> 01:04:20.250
+Yoshiyuki Ito (Renesas Electronics Corporation): concluded, today's document, and after
+
+656
+01:04:21.000 --> 01:04:24.650
+Yoshiyuki Ito (Renesas Electronics Corporation): quite useful to start the discussion about those
+
+657
+01:04:24.980 --> 01:04:28.429
+Yoshiyuki Ito (Renesas Electronics Corporation): how we treat the S form.
+
+658
+01:04:29.410 --> 01:04:31.500
+Yoshiyuki Ito (Renesas Electronics Corporation): or for each entity
+
+659
+01:04:31.530 --> 01:04:32.710
+Yoshiyuki Ito (Renesas Electronics Corporation): of this one
+
+660
+01:04:33.233 --> 01:04:38.199
+Yoshiyuki Ito (Renesas Electronics Corporation): supplier to in the in the sales supply chain. I think.
+
+661
+01:04:41.980 --> 01:04:42.990
+Norio Kobota (Sony Group Corporation): Thank you, Josephone.
+
+662
+01:04:43.240 --> 01:04:44.330
+Norio Kobota (Sony Group Corporation): I know.
+
+663
+01:04:44.842 --> 01:04:51.629
+Norio Kobota (Sony Group Corporation): Thank you. Very good discussion. But we will have only 2 min. So
+
+664
+01:04:53.240 --> 01:04:54.710
+Norio Kobota (Sony Group Corporation): you think, can we
+
+665
+01:04:54.900 --> 01:04:56.870
+Norio Kobota (Sony Group Corporation): across this meeting.
+
+666
+01:04:57.180 --> 01:04:57.720
+Shane Coughlan (The Linux Foundation): Yeah.
+
+667
+01:04:58.734 --> 01:04:59.750
+Norio Kobota (Sony Group Corporation): Yeah.
+
+668
+01:05:00.090 --> 01:05:01.130
+Shane Coughlan (The Linux Foundation): No choice.
+
+669
+01:05:03.660 --> 01:05:04.100
+Norio Kobota (Sony Group Corporation): Is it.
+
+670
+01:05:04.100 --> 01:05:11.889
+Shane Coughlan (The Linux Foundation): Oh, a fantastic meeting, so much covered! That's really wonderful. Thank you very much for hosting Kubota, Sam.
+
+671
+01:05:12.240 --> 01:05:16.440
+Shane Coughlan (The Linux Foundation): and thank you everyone for who, for everyone who contributed.
+
+672
+01:05:18.070 --> 01:05:19.390
+Norio Kobota (Sony Group Corporation): Thank you very much.
+
+673
+01:05:20.860 --> 01:05:28.389
+Norio Kobota (Sony Group Corporation): and I'm looking forward to seeing some people in next week at the open filter in Japan
+
+674
+01:05:29.390 --> 01:05:32.640
+Norio Kobota (Sony Group Corporation): and open for open, comprehensive as well.
+
+675
+01:05:34.600 --> 01:05:39.320
+Norio Kobota (Sony Group Corporation): Thank you for attending today. Today we will close this meeting.
+
+676
+01:05:39.700 --> 01:05:40.720
+Norio Kobota (Sony Group Corporation): Have a good day.
+
+677
+01:05:41.200 --> 01:05:43.389
+Shane Coughlan (The Linux Foundation): Thank you, Kubota. Sam, take care all.
+
+678
+01:05:44.660 --> 01:05:45.420
+Norio Kobota (Sony Group Corporation): Thank you.
+
+679
+01:05:45.770 --> 01:05:46.500
+Norio Kobota (Sony Group Corporation): Bye, bye.
+
+680
+01:05:46.710 --> 01:05:47.220
+Alin Jerpelea (Sony Group Corporation): Thank you. Bye.
+
+681
+01:05:47.220 --> 01:05:48.310
+Yoshiyuki Ito (Renesas Electronics Corporation): Bye-bye, bye.
+
+682
+01:05:48.310 --> 01:05:48.960
+Takashi Ninjouji: Thank you.
+
