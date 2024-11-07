@@ -1,0 +1,77 @@
+00:02:46	Shane Coughlan (The Linux Foundation):	https://openchainproject.org/news/2024/09/26/openchain-sbom-study-group-2024-09-25-full-recording
+00:03:10	Alin Jerpelea (Sony Group Corporation):	thanks for checking the weather
+00:03:39	Shane Coughlan (The Linux Foundation):	Secondary Service
+00:05:05	Alin Jerpelea (Sony Group Corporation):	I will try to join
+00:05:28	Jari Koivisto (OpenChain Project):	Reacted to "thanks for checking ..." with 👍
+00:05:31	Jari Koivisto (OpenChain Project):	Reacted to "Secondary Service" with 👍
+00:05:35	Jari Koivisto (OpenChain Project):	Reacted to "I will try to join" with 👍
+00:05:44	Ummo Schwarting (Carl Zeiss AG):	In the webinar earlier, we had the note, that CycloneDX has a working group on tracking patent information.Do any of you have a contact for that?I would like to connect our discussions we have for the SPDX Operations profile to that.
+00:08:19	Shane Coughlan (The Linux Foundation):	scoughlan@linuxfoundation.org
+00:13:55	Anthony Harrison (Not Applicable):	CRA will be publishing guidelines in the next 2 years.
+00:15:32	Jari Koivisto (OpenChain Project):	For those who are interested to check the guideline from India: https://www.cert-in.org.in/PDF/SBOM_Guidelines.pdf
+00:16:05	Ayumi Watanabe (Hitachi, Ltd.):	Reacted to "For those who are in..." with ❤️
+00:18:42	Helio Chissini de Castro (CARIAD SE):	If it’s possible share the slides already, I’ll appreciate it, because I have an internal company meeting that can be resolved by that
+00:18:58	Norio Kobota (Sony Group Corporation):	"If it’s possible ..." に対して 👍 で対応しました
+00:19:01	Jari Koivisto (OpenChain Project):	Reacted to "If it’s possible sha..." with 👍
+00:19:22	Norio Kobota (Sony Group Corporation):	I will share all slides here later: https://github.com/OpenChain-Project/SBOM-sg
+00:19:27	Thomas Steenbergen:	Reacted to "I will share all sli..." with 👍
+00:19:29	Helio Chissini de Castro (CARIAD SE):	Reacted to "I will share all sli..." with 👍
+00:19:39	Shane Coughlan (The Linux Foundation):	Reacted to "If it’s possible sha..." with 👏
+00:19:43	Shane Coughlan (The Linux Foundation):	Reacted to "I will share all sli..." with 👏
+00:19:47	Shane Coughlan (The Linux Foundation):	Reacted to "For those who are in..." with 👍
+00:19:51	Shane Coughlan (The Linux Foundation):	Reacted to "CRA will be publishi..." with 👍
+00:20:01	Norio Kobota (Sony Group Corporation):	And Tak has already shared here: https://openchainproject.slack.com/files/UHMDQ6NT0/F07T431M9C3/openchain-sbom-sg-20241023.pdf
+00:20:08	Nobuyuki Tanaka (Sony Group Corporation):	"For those who are ..." に対して ❤️ で対応しました
+00:20:28	Anthony Harrison (Not Applicable):	SBOM type depends on how the SBOM is to be used. The most useful for vulnerability management is a Deployed SBOM as that represents what is in the production environment. Build SBOM doesn’t resolve dynamic dependencies
+00:21:20	Norio Kobota (Sony Group Corporation):	"SBOM type depends ..." に対して 👍 で対応しました
+00:23:13	Jari Koivisto (OpenChain Project):	IMHO: valid until date would be good to have (let's discuss), there seems to be a lot of out-of-date components used. But on the other hand there are a lot of projects that are simply abandoned.
+00:23:48	Norio Kobota (Sony Group Corporation):	への応答 "SBOM type depends ..."
+
+on the other hands, we sometimes need toolchains information for detailed analysys. Do you have any idea which type we should use?
+00:25:32	Anthony Harrison (Not Applicable):	Replying to "IMHO: valid until da..."
+
+There is work ongoing about support of components (EOL, EOS). However this works well for commercial projects, less useful for OSS. I would rather include the release date of the component which can then be used to identify software which is ‘old’ e.g. over x years old.
+00:25:54	Jari Koivisto (OpenChain Project):	Reacted to "There is work ongoin..." with 👍
+00:27:09	Norio Kobota (Sony Group Corporation):	への応答 "IMHO: valid until ..."
+
+https://openeox.org/
+00:27:30	Anthony Harrison (Not Applicable):	Replying to "SBOM type depends on..."
+
+Source SBOMs are only good for direct dependencies; build SBOMs can bring some transitive dependencies but not all (and probably not the versions of all components)
+00:29:44	Norio Kobota (Sony Group Corporation):	"Source SBOMs are o..." に対して ❤️ で対応しました
+00:29:58	Anthony Harrison (Not Applicable):	The type of SBOM is very important to specify when you ask for a SBOM from your supplier. The type depends on how you are going to consume the SBOM. And different consumers need different information so unlikely that Source SBOM for example will meet all of the needs.
+00:30:17	Fuminobu Takeyama:	Replying to "SBOM type depends on..."
+
+If we use containers. we can understand all dependencies at built time. In this case, does a build SBOM become equal to deployed SBOM?
+00:31:20	Anthony Harrison (Not Applicable):	Replying to "SBOM type depends on..."
+
+SBOMs for containers should be close to a deployed SBOM. But experience of various SBOM generators for containers has shown there is a lot of differences in what is included in scope!
+00:31:51	Fuminobu Takeyama:	Reacted to "SBOMs for containers..." with 👍
+00:32:14	Norio Kobota (Sony Group Corporation):	"The type of SBOM i..." に対して 👍 で対応しました
+00:35:16	Anthony Harrison (Not Applicable):	SBOM is static, vulnerabilities are dynamic so vulnerabilities should not be in the SBOM even if the format supports it.
+00:35:59	Thomas Steenbergen:	Replying to "SBOM is static, vuln..."
+
+That said there are valid use cases to include vulnerability information in a SBOM
+00:36:11	Anthony Harrison (Not Applicable):	The focus on the guidelines should be on the information to be provided rather than the format of the SBOM.
+00:37:06	Anthony Harrison (Not Applicable):	Replying to "SBOM is static, vuln..."
+
+Maybe when the SBOM is released with an product release, but I wouldn’t want the SBOM to be continually updated every time an new vulnerability is reported.
+00:38:43	Thomas Steenbergen:	Replying to "SBOM is static, vuln..."
+
+Me neither but whilst working on SPDX 3.0 Security profile there was an request from the community to support this use case
+00:39:40	Itaru Hosomi:	Reacted to "The focus on the gui..." with 👍
+00:39:47	Itaru Hosomi:	Reacted to "SBOM is static, vuln..." with 👍
+00:40:20	Jari Koivisto (OpenChain Project):	Replying to "SBOM is static, vuln..."
+
+Downstream would need to be able to handle new VEX document whenever there is a new vulnerability or a new SBOM (if VEX is embedded). How different it would be to handle either new VEX or new SBOM?? I do not know.
+00:42:35	Jari Koivisto (OpenChain Project):	I'm in the same camp what Anthony just said. SBOM is static and VEX is dynamic. 
+But let's see where the industry goes. 
+00:44:34	Anthony Harrison (Not Applicable):	Replying to "SBOM is static, vuln..."
+
+👍
+00:51:55	Jimmy Ahlberg (Ericsson):	Depends on who the end user is, I'm myself more concerned with license compliance, but that is me. I don't think there need to be any competition between License info and Security.
+00:53:37	Stephen Pollard:	Is there a B2B use case that would mean another company would require a dynamic SBOM?
+01:02:54	Anthony Harrison (Not Applicable):	Can I suggest we focus on CONTENT first which us useful to the consumer of an SBOM. SPDX or CycloneDX format should be a secondary consideration IMHO
+01:04:18	Norio Kobota (Sony Group Corporation):	"Can I suggest we f..." に対して 👍 で対応しました
+01:04:49	Itaru Hosomi:	SBOM, if it's dynamic/changeable and multi-purpose, may be better than being an all-in-one portable document, a data set based on the blackboard model that is placed in a common repository ?
+01:04:55	Anthony Harrison (Not Applicable):	Interesting discussion. Got to go to another meeting. Bye
