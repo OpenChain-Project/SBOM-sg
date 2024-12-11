@@ -1,0 +1,33 @@
+00:12:37	Alin Jerpelea (Sony Group Corporation):	hello
+00:36:49	Jari Koivisto (OpenChain Project):	Android
+00:37:04	Jari Koivisto (OpenChain Project):	Automatic updates
+00:41:42	Marc-Etienne Vargenau (Nokia Corporation):	yes
+00:41:43	Jari Koivisto (OpenChain Project):	Yes / hai
+00:44:27	Jari Koivisto (OpenChain Project):	CDX Guides link, so you do not need to type it: https://urldefense.com/v3/__https://cyclonedx.org/guides/__;!!O7_YSHcmd9jp3hj_4dEAcyQ!0u3SCbbfsanDZq0rAmmwI9Q8YmME9sdrnvWAdy7wZzdyq0SnsU0SrLqV3gtaBU8yLa0RxPXIE_zSL0egofPLNtmhRQ$ [cyclonedx[.]org]
+00:44:35	Norio Kobota (Sony Group Corporation):	"CDX Guides link, s..." に対して ❤️ で対応しました
+00:44:41	Ayan Sinha (AboutCode):	Reacted to CDX Guides link, so ... with "❤️"
+00:44:41	Jari Koivisto (OpenChain Project):	Doso
+00:47:27	Norio Kobota (Sony Group Corporation):	Are there any other local chapters?
+00:48:03	Andrew Katz (Orcro):	Your English is excellent, Riotaro-san!
+00:48:25	Riotaro OKADA:	riotaro@owasp.org
+00:48:38	Jari Koivisto (OpenChain Project):	Reacted to "Your English is exce..." with 👍
+00:50:42	Jari Koivisto (OpenChain Project):	Replying to "riotaro@owasp.org"
+
+Okada-san, if you wish to link: https://urldefense.com/v3/__https://www.linkedin.com/in/jarikoivisto/__;!!O7_YSHcmd9jp3hj_4dEAcyQ!0u3SCbbfsanDZq0rAmmwI9Q8YmME9sdrnvWAdy7wZzdyq0SnsU0SrLqV3gtaBU8yLa0RxPXIE_zSL0egofPhASQD-g$ [linkedin[.]com]
+00:52:02	Riotaro OKADA:	x.com/okdt
+00:52:18	Riotaro OKADA:	https://urldefense.com/v3/__https://www.linkedin.com/in/riotaro/__;!!O7_YSHcmd9jp3hj_4dEAcyQ!0u3SCbbfsanDZq0rAmmwI9Q8YmME9sdrnvWAdy7wZzdyq0SnsU0SrLqV3gtaBU8yLa0RxPXIE_zSL0egofP2Lkr4Yw$ [linkedin[.]com]
+00:53:18	Jari Koivisto (OpenChain Project):	Reacted to "https://urldefense.com/v3/__https://www.linkedin__;!!O7_YSHcmd9jp3hj_4dEAcyQ!0u3SCbbfsanDZq0rAmmwI9Q8YmME9sdrnvWAdy7wZzdyq0SnsU0SrLqV3gtaBU8yLa0RxPXIE_zSL0egofO0eTClLw$ [linkedin]..." with 👍
+00:55:03	Jari Koivisto (OpenChain Project):	In case someone does not know CHAOSS: https://urldefense.com/v3/__https://chaoss.community/__;!!O7_YSHcmd9jp3hj_4dEAcyQ!0u3SCbbfsanDZq0rAmmwI9Q8YmME9sdrnvWAdy7wZzdyq0SnsU0SrLqV3gtaBU8yLa0RxPXIE_zSL0egofNZPQ38AA$ [chaoss[.]community]
+00:55:15	Norio Kobota (Sony Group Corporation):	"In case someone do..." に対して 👍 で対応しました
+00:58:33	Marc-Etienne Vargenau (Nokia Corporation):	https://urldefense.com/v3/__https://www.cert-in.org.in/PDF/SBOM_Guidelines.pdf__;!!O7_YSHcmd9jp3hj_4dEAcyQ!0u3SCbbfsanDZq0rAmmwI9Q8YmME9sdrnvWAdy7wZzdyq0SnsU0SrLqV3gtaBU8yLa0RxPXIE_zSL0egofMLxblmCA$ [cert-in[.]org[.]in]
+00:58:53	Ayan Sinha (AboutCode):	Reacted to https://urldefense.com/v3/__https://www.cert-in__;!!O7_YSHcmd9jp3hj_4dEAcyQ!0u3SCbbfsanDZq0rAmmwI9Q8YmME9sdrnvWAdy7wZzdyq0SnsU0SrLqV3gtaBU8yLa0RxPXIE_zSL0egofNVxLPq_A$ [cert-in].... with "👍"
+00:58:58	Itaru Hosomi:	Reacted to "https://urldefense.com/v3/__https://www.cert-in__;!!O7_YSHcmd9jp3hj_4dEAcyQ!0u3SCbbfsanDZq0rAmmwI9Q8YmME9sdrnvWAdy7wZzdyq0SnsU0SrLqV3gtaBU8yLa0RxPXIE_zSL0egofNVxLPq_A$ [cert-in]...." with 👍
+00:59:08	Jari Koivisto (OpenChain Project):	Reacted to "https://urldefense.com/v3/__https://www.cert-in__;!!O7_YSHcmd9jp3hj_4dEAcyQ!0u3SCbbfsanDZq0rAmmwI9Q8YmME9sdrnvWAdy7wZzdyq0SnsU0SrLqV3gtaBU8yLa0RxPXIE_zSL0egofNVxLPq_A$ [cert-in]...." with 👍
+01:00:02	Masahiro DAIKOKU (KDDI Corporation):	Reacted to "https://urldefense.com/v3/__https://www.cert-in__;!!O7_YSHcmd9jp3hj_4dEAcyQ!0u3SCbbfsanDZq0rAmmwI9Q8YmME9sdrnvWAdy7wZzdyq0SnsU0SrLqV3gtaBU8yLa0RxPXIE_zSL0egofNVxLPq_A$ [cert-in]...." with 👍
+01:00:14	Riotaro OKADA:	https://urldefense.com/v3/__https://cyclonedx.org/guides/OWASP_CycloneDX-Authoritative-Guide-to-SBOM-en.pdf__;!!O7_YSHcmd9jp3hj_4dEAcyQ!0u3SCbbfsanDZq0rAmmwI9Q8YmME9sdrnvWAdy7wZzdyq0SnsU0SrLqV3gtaBU8yLa0RxPXIE_zSL0egofPmZ2NrOw$ [cyclonedx[.]org]
+01:00:33	Riotaro OKADA:	from OWASP
+01:00:46	Takashi ninjouji:	I'm here ><
+01:01:58	Riotaro OKADA:	Actually I joined Open Chain slack
+01:02:06	Takashi ninjouji:	"Actually I joined ..." に対して 👍 で対応しました
+01:02:09	Marcel Kurzmann (Bosch):	Reacted to "Actually I joined Op..." with 👍
+01:02:12	Stephen Pollard:	Reacted to "Actually I joined Op..." with 👍
