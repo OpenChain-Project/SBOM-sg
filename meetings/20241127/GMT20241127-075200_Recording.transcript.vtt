@@ -1,0 +1,1694 @@
+WEBVTT
+
+1
+00:04:46.270 --> 00:04:48.329
+Norio Kobota (Sony Group Corporation): Oh, thank you for joining.
+
+2
+00:04:49.293 --> 00:04:51.259
+Norio Kobota (Sony Group Corporation): Please wait for a while.
+
+3
+00:07:12.310 --> 00:07:14.179
+Norio Kobota (Sony Group Corporation): Thank you for joining.
+
+4
+00:07:14.848 --> 00:07:17.900
+Norio Kobota (Sony Group Corporation): Please wait a couple of minutes.
+
+5
+00:07:18.630 --> 00:07:24.520
+Norio Kobota (Sony Group Corporation): and I had shame at the Oh.
+
+6
+00:07:25.590 --> 00:07:26.840
+Norio Kobota (Sony Group Corporation): Cpr.
+
+7
+00:07:26.910 --> 00:07:32.170
+Norio Kobota (Sony Group Corporation): Prior to delay, so he said, he can't join today.
+
+8
+00:07:32.920 --> 00:07:38.479
+Norio Kobota (Sony Group Corporation): I approached Shan from open chain. Gym. Can't attend it today.
+
+9
+00:07:41.720 --> 00:07:48.010
+Norio Kobota (Sony Group Corporation): and we waiting Okasan from us to Japan.
+
+10
+00:07:48.020 --> 00:07:53.839
+Norio Kobota (Sony Group Corporation): I know today he will provide a giver to the presentation.
+
+11
+00:07:55.080 --> 00:08:00.200
+Norio Kobota (Sony Group Corporation): Oh, please. Okada, thank you for joining Okatasan.
+
+12
+00:08:03.890 --> 00:08:04.835
+Riotaro OKADA: Only 2 h.
+
+13
+00:08:06.580 --> 00:08:09.950
+Norio Kobota (Sony Group Corporation): Yeah, you.
+
+14
+00:08:10.390 --> 00:08:14.339
+Norio Kobota (Sony Group Corporation): Oh, okay, parasa is coming. So
+
+15
+00:08:14.850 --> 00:08:19.059
+Norio Kobota (Sony Group Corporation): and it's time to start. We let's get started.
+
+16
+00:08:20.440 --> 00:08:21.310
+Norio Kobota (Sony Group Corporation): Okay.
+
+17
+00:08:21.820 --> 00:08:33.620
+Norio Kobota (Sony Group Corporation): hello, and thank you for joining open study group. And, as I said today, Shane is having a severe flight delay.
+
+18
+00:08:34.110 --> 00:08:38.559
+Norio Kobota (Sony Group Corporation): so he can't join today's meeting. I apologize.
+
+19
+00:08:39.320 --> 00:08:44.920
+Norio Kobota (Sony Group Corporation): And this meeting held. It's a 3rd session after the Kickoff meeting.
+
+20
+00:08:45.490 --> 00:08:55.009
+Norio Kobota (Sony Group Corporation): and I will introduce you later today. But Okada-san from West Japan will give a presentation on f 1 from the security perspective
+
+21
+00:09:00.320 --> 00:09:07.430
+Norio Kobota (Sony Group Corporation): before starting session. As always, I would like to show the antitrust policy.
+
+22
+00:09:07.840 --> 00:09:13.839
+Norio Kobota (Sony Group Corporation): Now, this is an open source community event for the people, belongings to various companies.
+
+23
+00:09:13.990 --> 00:09:17.939
+Norio Kobota (Sony Group Corporation): So please do not violate this and trust policy.
+
+24
+00:09:18.340 --> 00:09:25.689
+Norio Kobota (Sony Group Corporation): And also we, I don't show here the there is a code of conduct in the Linux Foundation.
+
+25
+00:09:25.800 --> 00:09:27.950
+Norio Kobota (Sony Group Corporation): so please forward it to
+
+26
+00:09:29.770 --> 00:09:38.000
+Norio Kobota (Sony Group Corporation): and with the, as you know, cra being issued this month, the S. Vomira is approaching.
+
+27
+00:09:38.380 --> 00:09:44.770
+Norio Kobota (Sony Group Corporation): and I'm sure that many companies, including you, are actively making efforts.
+
+28
+00:09:45.240 --> 00:09:52.929
+Norio Kobota (Sony Group Corporation): However, I heard many opinions that we still have many issues regarding Islamian population.
+
+29
+00:09:53.430 --> 00:10:02.570
+Norio Kobota (Sony Group Corporation): Therefore, over the past, several times we have asked you to share what issues you feel and how to approach them.
+
+30
+00:10:03.130 --> 00:10:05.980
+Norio Kobota (Sony Group Corporation): And in Japan also stimulate situation.
+
+31
+00:10:06.490 --> 00:10:10.330
+Norio Kobota (Sony Group Corporation): And there was an event called the Japanese woman. Summit
+
+32
+00:10:10.490 --> 00:10:17.499
+Norio Kobota (Sony Group Corporation): after open source summit in Japan, and the open conference summit, and various efforts were shared
+
+33
+00:10:18.090 --> 00:10:24.219
+Norio Kobota (Sony Group Corporation): at the Japan Expo. The efforts of West Japan were introduced.
+
+34
+00:10:24.440 --> 00:10:30.819
+Norio Kobota (Sony Group Corporation): So today we ask the presenter to share their knowledge and challenges.
+
+35
+00:10:31.340 --> 00:10:46.419
+Norio Kobota (Sony Group Corporation): And I believe there are few people who have much knowledge about the other community efforts outside the next foundation. So I think it is a great opportunity to hear from Paterson and exchange opinions.
+
+36
+00:10:46.620 --> 00:10:50.500
+Norio Kobota (Sony Group Corporation): Thank you, Okanasa. Could you please start your session.
+
+37
+00:10:51.310 --> 00:10:52.410
+Riotaro OKADA: Okay.
+
+38
+00:10:59.420 --> 00:11:02.171
+Riotaro OKADA: yeah, I'm a little bit nervous.
+
+39
+00:11:02.730 --> 00:11:10.180
+Riotaro OKADA: Yeah, and nice to meet you all, you guys.
+
+40
+00:11:10.260 --> 00:11:19.260
+Riotaro OKADA: And I'm not good at speaking in English presentation. But so thank you for inviting me to have
+
+41
+00:11:19.410 --> 00:11:25.970
+Riotaro OKADA: my torque in this are great community
+
+42
+00:11:27.300 --> 00:11:39.859
+Riotaro OKADA: today. I don't really want to discuss the difference between Cyclone, Dx and Spdx today. But I think there's some value in doing that kind of research. But
+
+43
+00:11:42.530 --> 00:11:48.520
+Riotaro OKADA: I think either of those is fine, and at least, and not
+
+44
+00:11:48.970 --> 00:12:09.939
+Riotaro OKADA: on today's agenda, as I mean. So I don't want to reason about the difference between the 2 format, but I want to reason about the common interest about how to deal with vulnerabilities, software vulnerabilities.
+
+45
+00:12:10.370 --> 00:12:25.509
+Riotaro OKADA: So let's start. So please feel free to give me feedback or your reaction throughout the Zoom chat. Can you put some text
+
+46
+00:12:25.570 --> 00:12:28.340
+Riotaro OKADA: say, Hello or something?
+
+47
+00:12:28.390 --> 00:12:33.009
+Riotaro OKADA: And yeah, and I want to.
+
+48
+00:12:33.420 --> 00:12:36.080
+Riotaro OKADA: I apologize my poor English.
+
+49
+00:12:36.260 --> 00:12:39.149
+Riotaro OKADA: So okay, let's start.
+
+50
+00:12:40.010 --> 00:12:48.790
+Riotaro OKADA: So I'm ryota. Okada asterisk research. And it's Japanese, a company and serving some
+
+51
+00:12:49.780 --> 00:12:54.130
+Riotaro OKADA: application security enhancement or some practice.
+
+52
+00:12:54.280 --> 00:13:04.469
+Riotaro OKADA: And to encourage P, cert, or wow, productive team, software productive team.
+
+53
+00:13:04.670 --> 00:13:07.619
+Riotaro OKADA: Yeah, so like this.
+
+54
+00:13:07.970 --> 00:13:18.240
+Riotaro OKADA: And I'm a lifetime member of Owas foundation. And for 2 decades and like for the 2 decades and
+
+55
+00:13:18.340 --> 00:13:26.839
+Riotaro OKADA: so many documentations were translated, our team by our team. So
+
+56
+00:13:26.860 --> 00:13:33.120
+Riotaro OKADA: maybe you know, what's top 10 in Japan?
+
+57
+00:13:33.960 --> 00:13:35.020
+Riotaro OKADA: Maybe.
+
+58
+00:13:36.920 --> 00:13:38.680
+Riotaro OKADA: Okay, no reaction.
+
+59
+00:13:39.380 --> 00:13:39.790
+Riotaro OKADA: Okay?
+
+60
+00:13:41.170 --> 00:13:50.300
+Riotaro OKADA: Yes. As you know, Cyclone Dx is a full stacks boom standard. So it it says the cyclone Dx is.
+
+61
+00:13:50.510 --> 00:14:01.250
+Riotaro OKADA: and very unique from this perspective. So it can deal with hardware and software. At least.
+
+62
+00:14:01.420 --> 00:14:06.889
+Riotaro OKADA: so I want to introduce what cyclone Dx is.
+
+63
+00:14:07.790 --> 00:14:12.440
+Riotaro OKADA: And it looks like, look like, so.
+
+64
+00:14:12.960 --> 00:14:29.859
+Riotaro OKADA: yeah, this is the Cyclon Dx, the scope. It is not only open source software, but also proprietary software and hardware. And nowadays AI cryptography. So it is like Spdx, 3 point X,
+
+65
+00:14:29.970 --> 00:14:31.160
+Riotaro OKADA: and yeah.
+
+66
+00:14:31.210 --> 00:14:35.829
+Riotaro OKADA: And so nowadays we should deal with the
+
+67
+00:14:35.950 --> 00:14:40.139
+Riotaro OKADA: transparency of software, component or compositions.
+
+68
+00:14:40.200 --> 00:14:44.560
+Riotaro OKADA: So the the main purpose is
+
+69
+00:14:45.370 --> 00:14:49.229
+Riotaro OKADA: not just like is bomb format, but also the
+
+70
+00:14:49.390 --> 00:14:59.170
+Riotaro OKADA: how to exchange the information about software software composition. And so to show that it's transparency right?
+
+71
+00:15:00.830 --> 00:15:12.759
+Riotaro OKADA: And it is community driven. Yeah, it is the very value. Variable things you may think. And siteground. Dx is community driven as well.
+
+72
+00:15:13.260 --> 00:15:20.819
+Riotaro OKADA: So, and the Wasp Foundation is the backup community. And it is really.
+
+73
+00:15:20.940 --> 00:15:27.389
+Riotaro OKADA: as you know, it is open source software or open source how to put
+
+74
+00:15:27.670 --> 00:15:38.239
+Riotaro OKADA: project the hosting project, and these are more than 200 local chapters, including Japan
+
+75
+00:15:38.340 --> 00:15:50.430
+Riotaro OKADA: in Japan, at least, maybe 7 chapters in Japan or in Japan, so that they are really active. And if you want to join the
+
+76
+00:15:50.490 --> 00:15:59.000
+Riotaro OKADA: my closest community, I can introduce that in Kansai, Kyushu, Okinawa, Hokkaido like that.
+
+77
+00:15:59.380 --> 00:16:03.880
+Riotaro OKADA: and more more than 200 projects as well.
+
+78
+00:16:03.930 --> 00:16:19.469
+Riotaro OKADA: So this is the difference different from local chapters. So including Wasp, top 10 project, or now recently, we are now struggling with how to deal with Llm.
+
+79
+00:16:19.490 --> 00:16:27.880
+Riotaro OKADA: But Wasp, Llm. Project is really interesting. So if you want to have, I have a look at
+
+80
+00:16:28.090 --> 00:16:32.859
+Riotaro OKADA: that. So it will be very funny thing. Yes.
+
+81
+00:16:34.540 --> 00:16:35.250
+Riotaro OKADA: Yup.
+
+82
+00:16:36.610 --> 00:16:50.850
+Riotaro OKADA: Oh, so when you want to listen, or the so investigate how.
+
+83
+00:16:50.950 --> 00:16:56.640
+Riotaro OKADA: with about the application security practices. Please take a look on my Youtube channel.
+
+84
+00:16:58.200 --> 00:16:59.899
+Riotaro OKADA: Okay? Okay?
+
+85
+00:17:00.980 --> 00:17:04.910
+Riotaro OKADA: Oh, thank you. The reaction is okay.
+
+86
+00:17:05.099 --> 00:17:14.080
+Riotaro OKADA: The yeah. Nowadays. S-bomb is a really hot topic. Even in application.
+
+87
+00:17:14.670 --> 00:17:22.510
+Riotaro OKADA: Engineers not only manufacture company that s 1 become just a
+
+88
+00:17:22.700 --> 00:17:31.899
+Riotaro OKADA: started just started. And actually, I use checkmarks, sca, but so it can
+
+89
+00:17:32.360 --> 00:17:40.120
+Riotaro OKADA: display the what component is vulnerable or exploitable, or
+
+90
+00:17:40.450 --> 00:17:44.970
+Riotaro OKADA: yeah like that. And it can export the
+
+91
+00:17:45.360 --> 00:17:49.279
+Riotaro OKADA: both of Spdx format and the cyclone Dx format.
+
+92
+00:17:49.350 --> 00:17:52.490
+Riotaro OKADA: And I took a look at the
+
+93
+00:17:52.580 --> 00:17:59.059
+Riotaro OKADA: the contents itself Directory, but it is really complicated, and sometimes it is.
+
+94
+00:17:59.390 --> 00:18:02.709
+Riotaro OKADA: It lacks some metadata.
+
+95
+00:18:02.750 --> 00:18:32.209
+Riotaro OKADA: or that it is not completed. But okay, so I tried to put that data sometimes into the chat. Gpt, so, yeah, so, but it is machine leader. So sometimes the chat Gpt answered some insight to me, and so but it takes maybe more tasks or more cost
+
+96
+00:18:32.310 --> 00:18:36.530
+Riotaro OKADA: to deal with this bomb. So people.
+
+97
+00:18:36.720 --> 00:18:47.199
+Riotaro OKADA: without any information or lecturing or onboarding itself. It is really, it looks a little bit complicated to deal with.
+
+98
+00:18:48.490 --> 00:18:49.005
+Riotaro OKADA: Yeah.
+
+99
+00:18:49.810 --> 00:19:00.810
+Riotaro OKADA: So they say, cyclone Dx characteristics thing is to deal with dealing with vulnerabilities.
+
+100
+00:19:00.880 --> 00:19:10.969
+Riotaro OKADA: not only licenses, so it is the specific thing, but so taking a look at the vulnerabilities scope.
+
+101
+00:19:11.150 --> 00:19:17.590
+Riotaro OKADA: Yeah, so it it reads the direct information about the
+
+102
+00:19:17.720 --> 00:19:31.029
+Riotaro OKADA: component and the information that we can. Of course, we can add or reduce some remove, some component inappropriate
+
+103
+00:19:31.060 --> 00:19:33.260
+Riotaro OKADA: a field like this. Ma.
+
+104
+00:19:34.300 --> 00:19:56.379
+Riotaro OKADA: so maybe the general understanding of West bomb is now like that. So okay, it is. It looks very important. But so why? It is not so, why it is so important, or Eucra, or like that. So why it is
+
+105
+00:19:56.450 --> 00:20:02.500
+Riotaro OKADA: so important, or until the compliance level.
+
+106
+00:20:02.820 --> 00:20:05.159
+Riotaro OKADA: But today I want to reason about.
+
+107
+00:20:05.380 --> 00:20:16.219
+Riotaro OKADA: And how important is this so again, Cyclone Dx is a full stack boom standard, and
+
+108
+00:20:16.350 --> 00:20:18.487
+Riotaro OKADA: yes, it is
+
+109
+00:20:19.420 --> 00:20:31.050
+Riotaro OKADA: It utilized so many enterprises utilize that this format and ecosystem
+
+110
+00:20:31.080 --> 00:20:37.900
+Riotaro OKADA: and so many components represented monthly. So it is.
+
+111
+00:20:38.400 --> 00:20:46.460
+Riotaro OKADA: And yeah, it was sonotype rebooted. Yeah.
+
+112
+00:20:47.530 --> 00:20:53.239
+Riotaro OKADA: And it's community driven. It is like Spdx as well. And
+
+113
+00:20:53.490 --> 00:20:59.760
+Riotaro OKADA: so I suggested. When you are interested in what
+
+114
+00:20:59.810 --> 00:21:03.799
+Riotaro OKADA: second Dx is, they'll join slack.
+
+115
+00:21:04.240 --> 00:21:20.020
+Riotaro OKADA: So I joined Slack recently, and I could interview some key person. What is cyclone, Dx. And how can utilize that? And what is the difference with what's the difference
+
+116
+00:21:20.130 --> 00:21:27.190
+Riotaro OKADA: with other formats or history, or something like that? So today.
+
+117
+00:21:28.330 --> 00:21:48.180
+Riotaro OKADA: actually, I'm not that professional about Cyclone Dx, but and I'm not responsible enough to speak on behalf of the entire Wasp community. But I'm just an engineer with a strong interest in a strong interest and mission in software transparency.
+
+118
+00:21:48.750 --> 00:21:51.150
+Riotaro OKADA: So yeah.
+
+119
+00:21:51.850 --> 00:22:03.539
+Riotaro OKADA: so I had a chance to discuss it. Discuss about Cyclone Dx with some, the core members of the community, this slack on this slack
+
+120
+00:22:03.700 --> 00:22:08.349
+Riotaro OKADA: and that is promoting Cyclone Dx and including the leaders.
+
+121
+00:22:08.540 --> 00:22:12.449
+Riotaro OKADA: You can see the discussion by joining the cyclone. Dx slack.
+
+122
+00:22:12.470 --> 00:22:24.870
+Riotaro OKADA: Yeah, so it will be fruitful, because so I not able to share the all all information I got this month
+
+123
+00:22:25.090 --> 00:22:29.680
+Riotaro OKADA: in this talk. So. Yes, yep.
+
+124
+00:22:30.960 --> 00:22:38.260
+Riotaro OKADA: But at least I introduced in Cyclone Dx. It is a frag, one of a flagship wasp projects.
+
+125
+00:22:38.410 --> 00:22:47.000
+Riotaro OKADA: And so and maybe yeah, I guess some people are
+
+126
+00:22:47.240 --> 00:22:59.850
+Riotaro OKADA: more familiar with Cyclone Dx than me. And so if this is this event is in person event, I want to
+
+127
+00:22:59.970 --> 00:23:03.980
+Riotaro OKADA: ask you raise your hand. But yeah.
+
+128
+00:23:05.110 --> 00:23:14.870
+Riotaro OKADA: so and so many companies or projects support the cyclone Dx, so they want to contribute
+
+129
+00:23:15.070 --> 00:23:19.899
+Riotaro OKADA: to how to deal with vulnerabilities, or how to
+
+130
+00:23:20.260 --> 00:23:29.109
+Riotaro OKADA: gather information or concrete information to deal with vulnerabilities, or easier right?
+
+131
+00:23:29.350 --> 00:23:32.860
+Riotaro OKADA: So that it is just like
+
+132
+00:23:33.120 --> 00:23:41.470
+Riotaro OKADA: my hobby. Not not only not hobby project, but not professional project. I want to appeal that.
+
+133
+00:23:42.570 --> 00:23:45.260
+Riotaro OKADA: Yeah. And this is really
+
+134
+00:23:45.290 --> 00:24:01.049
+Riotaro OKADA: good thing. Good news for me or for all cyclone Dx version 1.6 is now, Ecuma standard. Yeah. So this is a really happy thing. So that's because
+
+135
+00:24:01.360 --> 00:24:05.389
+Riotaro OKADA: anybody want to contribute to this
+
+136
+00:24:05.470 --> 00:24:12.229
+Riotaro OKADA: format. So the this is the internationally standardized and Tc.
+
+137
+00:24:12.340 --> 00:24:15.480
+Riotaro OKADA: 54 hosted. So
+
+138
+00:24:15.490 --> 00:24:30.830
+Riotaro OKADA: my, it is so. I expect this standardized format or the standardization drives the cycronics more mature.
+
+139
+00:24:31.210 --> 00:24:39.439
+Riotaro OKADA: Yeah. But but I want to mention about what is the version? 1.7, or what is the challenge?
+
+140
+00:24:40.446 --> 00:24:43.530
+Riotaro OKADA: For Cyclone Dx, and later
+
+141
+00:24:45.750 --> 00:25:02.980
+Riotaro OKADA: the cyclone Dx design principle is like that. So it is really good to deal with very simple. And so we don't have any light version of Cyclone Dx, because it is really simple, easy to understand. So without any manual.
+
+142
+00:25:03.030 --> 00:25:17.980
+Riotaro OKADA: And so when we take a look at the cyclone Dx format, so that we can understand what it want to tell us about the compositions
+
+143
+00:25:18.050 --> 00:25:27.330
+Riotaro OKADA: in the system. So the so many tools are hosted in Cyclone Dx
+
+144
+00:25:27.470 --> 00:25:37.340
+Riotaro OKADA: website. So please take a look at the Psychron Dx website, it is really easy to access, and we can find various tools. And
+
+145
+00:25:37.590 --> 00:25:46.590
+Riotaro OKADA: and psychrondix scope is really wide. And so the
+
+146
+00:25:46.850 --> 00:25:57.569
+Riotaro OKADA: so we can understand very easily. Psychron, Dx want to focus on the software transparency whole of software transparency?
+
+147
+00:25:57.800 --> 00:26:06.509
+Riotaro OKADA: Yeah. So nowadays, so many things or items or services are. So we our
+
+148
+00:26:06.730 --> 00:26:11.339
+Riotaro OKADA: on the supply chain risk. So like this.
+
+149
+00:26:12.780 --> 00:26:23.120
+Riotaro OKADA: And Ma. So I discussed some, the key persons and the cyclone Dx professionals
+
+150
+00:26:23.260 --> 00:26:31.860
+Riotaro OKADA: and the core developers. So they introduced to utilize owasp dependency track.
+
+151
+00:26:31.870 --> 00:26:54.139
+Riotaro OKADA: It is tool name, this tool by using these tools, and we can deal with cyclone Dx format, or the Sbom or software transparency in conceptual way. So if you want to try this
+
+152
+00:26:54.590 --> 00:27:01.590
+Riotaro OKADA: ecosystem, so maybe you may utilize this wasp dependency track.
+
+153
+00:27:01.850 --> 00:27:04.130
+Riotaro OKADA: Yes, not just the information.
+
+154
+00:27:05.410 --> 00:27:07.660
+Riotaro OKADA: So today's topic might.
+
+155
+00:27:07.840 --> 00:27:10.780
+Riotaro OKADA: Agenda is like this, if we keep
+
+156
+00:27:10.940 --> 00:27:16.939
+Riotaro OKADA: updating software, will we no longer be at risk of vulnerabilities?
+
+157
+00:27:17.750 --> 00:27:41.560
+Riotaro OKADA: This is a very logical question, because nowadays we can see the software version. So Apache, 1.0 point something or some other project name, if you like. And this is the project name. And it's like a tag
+
+158
+00:27:41.980 --> 00:27:53.060
+Riotaro OKADA: as tag the version name version number. Yeah. So this version has tons of vulnerabilities. So we should update something
+
+159
+00:27:54.360 --> 00:28:06.470
+Riotaro OKADA: like that. So but the updating is just only way to conquer software vulnerabilities.
+
+160
+00:28:08.770 --> 00:28:16.330
+Riotaro OKADA: And, as you know, unresolved issue there separating risk.
+
+161
+00:28:16.690 --> 00:28:17.450
+Riotaro OKADA: Yeah.
+
+162
+00:28:17.900 --> 00:28:22.870
+Riotaro OKADA: So let's let's drill down about the supply chain risk.
+
+163
+00:28:25.210 --> 00:28:33.260
+Riotaro OKADA: Yes. So let us define what is supply chain risk in the software.
+
+164
+00:28:33.420 --> 00:28:41.190
+Riotaro OKADA: I tried as this right, the risk posed by an attacker's method
+
+165
+00:28:41.630 --> 00:28:44.590
+Riotaro OKADA: or a malicious person method of
+
+166
+00:28:44.610 --> 00:28:51.040
+Riotaro OKADA: inserting maress code or entire maress components into trusted software or hardware.
+
+167
+00:28:51.530 --> 00:28:55.340
+Riotaro OKADA: So the do you trust open source software?
+
+168
+00:28:57.240 --> 00:28:58.320
+Riotaro OKADA: Yeah. Okay.
+
+169
+00:28:59.790 --> 00:29:00.883
+Riotaro OKADA: Hmm, hmm!
+
+170
+00:29:01.870 --> 00:29:02.455
+Riotaro OKADA: But
+
+171
+00:29:03.100 --> 00:29:09.740
+Riotaro OKADA: So I don't mean it is not trustworthy, but the so. But when we
+
+172
+00:29:10.430 --> 00:29:17.319
+Riotaro OKADA: see it is trustworthy, so that we should have the this.
+
+173
+00:29:17.360 --> 00:29:20.150
+Riotaro OKADA: my 3 points, 3 risk points.
+
+174
+00:29:20.280 --> 00:29:23.679
+Riotaro OKADA: The one is our Ss as a target.
+
+175
+00:29:25.470 --> 00:29:33.199
+Riotaro OKADA: according to initial threat, landscape 202-42-0024,
+
+176
+00:29:33.300 --> 00:29:47.340
+Riotaro OKADA: 24. So some points related to software vulnerabilities are a target of attackers, cyber attackers.
+
+177
+00:29:47.580 --> 00:29:50.800
+Riotaro OKADA: So this is my real risk.
+
+178
+00:29:50.930 --> 00:29:58.750
+Riotaro OKADA: And nowadays so many enterprise systems utilize the open source software.
+
+179
+00:29:59.060 --> 00:30:09.439
+Riotaro OKADA: and so many opens if the open source software is not so trustworthy or some component is outdated.
+
+180
+00:30:09.780 --> 00:30:13.130
+Riotaro OKADA: So this is real risk of enterprises
+
+181
+00:30:13.340 --> 00:30:20.280
+Riotaro OKADA: so, and it was really successful. It has been successful for
+
+182
+00:30:20.720 --> 00:30:32.860
+Riotaro OKADA: hackers, so that this is the fact, and the so hackers sometimes insert
+
+183
+00:30:32.980 --> 00:30:36.840
+Riotaro OKADA: or inject some their Mauritius code
+
+184
+00:30:37.170 --> 00:30:40.669
+Riotaro OKADA: into open source software very easily.
+
+185
+00:30:41.010 --> 00:30:55.819
+Riotaro OKADA: sometimes not type of squatting is a typical thing so very famous. We, if we want to utilize some famous open source software project
+
+186
+00:30:56.050 --> 00:31:06.720
+Riotaro OKADA: and and using some software repository. But sometimes we type typo right now.
+
+187
+00:31:07.220 --> 00:31:20.480
+Riotaro OKADA: So and in Japanese not are generally not good at the exact typing. So joke I'm kidding. But
+
+188
+00:31:20.490 --> 00:31:25.550
+Riotaro OKADA: anyway, so open source software repository is just now
+
+189
+00:31:25.810 --> 00:31:31.820
+Riotaro OKADA: the target of hackers and so many ways to hack.
+
+190
+00:31:32.470 --> 00:31:37.510
+Riotaro OKADA: So I mean, it is not professional hacking programming, but also
+
+191
+00:31:38.110 --> 00:31:42.590
+Riotaro OKADA: it is the intruding or the maneuvering.
+
+192
+00:31:43.060 --> 00:31:48.839
+Riotaro OKADA: Yeah, so many risks are there like this.
+
+193
+00:31:49.120 --> 00:31:58.789
+Riotaro OKADA: So I don't want to read all of these, but so many newss. And my investigations
+
+194
+00:31:58.970 --> 00:32:08.509
+Riotaro OKADA: are appeals. So nowadays open source software repositories are not so completely safe
+
+195
+00:32:09.210 --> 00:32:18.169
+Riotaro OKADA: and malware in project or protest, where in project or the yeah geopolitical thing
+
+196
+00:32:18.240 --> 00:32:36.039
+Riotaro OKADA: affect the peace of open source software repositories. But people, when people update the latest version, latest version, latest version. So the Mauritius code expand, step-by-step manner.
+
+197
+00:32:36.170 --> 00:32:39.949
+Riotaro OKADA: Right? So this is really severe thing. So what is
+
+198
+00:32:40.350 --> 00:32:50.150
+Riotaro OKADA: trustworthy so distinguish what is trustworthy or not is a really important thing nowadays, because Oss is as a target
+
+199
+00:32:51.460 --> 00:32:52.680
+Riotaro OKADA: and secondary.
+
+200
+00:32:52.990 --> 00:32:59.600
+Riotaro OKADA: And now low security maturity of oss developers. This is a really radical program.
+
+201
+00:32:59.750 --> 00:33:03.350
+Riotaro OKADA: So maybe it is a very common program.
+
+202
+00:33:03.370 --> 00:33:08.870
+Riotaro OKADA: So we'll look for all of us like this.
+
+203
+00:33:12.300 --> 00:33:18.580
+Riotaro OKADA: Noticed opens Ssf report released in last August.
+
+204
+00:33:18.750 --> 00:33:22.680
+Riotaro OKADA: The survey data reveals that nearly 1 3rd of professionals
+
+205
+00:33:22.700 --> 00:33:32.615
+Riotaro OKADA: report feeling unfamiliar with the secure software development practices. This is the really shocking thing, because,
+
+206
+00:33:33.760 --> 00:33:39.100
+Riotaro OKADA: so very, it is not good thing
+
+207
+00:33:39.170 --> 00:33:42.809
+Riotaro OKADA: the airm engines now support to
+
+208
+00:33:42.890 --> 00:33:46.800
+Riotaro OKADA: produce code, right? So they're co-pilots
+
+209
+00:33:46.810 --> 00:33:52.969
+Riotaro OKADA: or casar, or something like that. So it is really good teacher.
+
+210
+00:33:52.990 --> 00:33:59.620
+Riotaro OKADA: And so they, the tools like these gave us
+
+211
+00:34:00.260 --> 00:34:12.260
+Riotaro OKADA: give will give us some good hints to implement something right? But they're learning. Data was has been
+
+212
+00:34:12.389 --> 00:34:14.460
+Riotaro OKADA: open source software.
+
+213
+00:34:14.840 --> 00:34:20.790
+Riotaro OKADA: But 70% of open source software is
+
+214
+00:34:21.000 --> 00:34:30.050
+Riotaro OKADA: has no, not sufficient code reviews or very high risk area.
+
+215
+00:34:30.060 --> 00:34:33.659
+Riotaro OKADA: And the code itself is not so mature.
+
+216
+00:34:33.830 --> 00:34:34.210
+Riotaro OKADA: Right?
+
+217
+00:34:34.780 --> 00:34:44.840
+Riotaro OKADA: So this is very sad story. And so 1 point we should do is
+
+218
+00:34:44.850 --> 00:34:53.069
+Riotaro OKADA: to encourage the open source software programmer to study about the security and the secure to have to
+
+219
+00:34:53.650 --> 00:34:56.540
+Riotaro OKADA: implement their code in a secure way.
+
+220
+00:34:56.900 --> 00:35:05.629
+Riotaro OKADA: So this is a very big challenge. So we know. So there are so many approach or so many efforts
+
+221
+00:35:05.800 --> 00:35:11.659
+Riotaro OKADA: are ongoing. But so it is, the current very big.
+
+222
+00:35:11.670 --> 00:35:20.019
+Riotaro OKADA: The big issue to utilize open source software, right or open source software project.
+
+223
+00:35:21.280 --> 00:35:25.579
+Riotaro OKADA: The 3rd point is users who blindly trust updates
+
+224
+00:35:26.220 --> 00:35:29.149
+Riotaro OKADA: so and it is based on
+
+225
+00:35:29.160 --> 00:35:34.649
+Riotaro OKADA: one oss as a target, 2, a low security maturity of Oss developers.
+
+226
+00:35:34.690 --> 00:35:45.910
+Riotaro OKADA: So the on this a situation that if there only there only
+
+227
+00:35:46.040 --> 00:35:50.679
+Riotaro OKADA: users who blindly trust updates, it is very sad story.
+
+228
+00:35:51.620 --> 00:35:58.119
+Riotaro OKADA: So the let's take a look at about the resolution of vulnerability.
+
+229
+00:35:58.430 --> 00:36:09.839
+Riotaro OKADA: So so as users, so we we should have. We may might have the smartphone right like this.
+
+230
+00:36:09.900 --> 00:36:15.326
+Riotaro OKADA: So many applications in this in this device, the the.
+
+231
+00:36:16.720 --> 00:36:25.060
+Riotaro OKADA: So if you want to. If if you use android, please raise your hand.
+
+232
+00:36:27.280 --> 00:36:27.990
+Riotaro OKADA: No.
+
+233
+00:36:28.800 --> 00:36:32.975
+Riotaro OKADA: And the iphone, okay? So he's okay. Okay, thank you.
+
+234
+00:36:34.136 --> 00:36:34.803
+Riotaro OKADA: Yeah.
+
+235
+00:36:35.830 --> 00:36:44.739
+Riotaro OKADA: Anyway. So okay, I'm very happy to see your reaction. And anyway, so we
+
+236
+00:36:45.500 --> 00:36:50.390
+Riotaro OKADA: update so many applications every day. Right?
+
+237
+00:36:50.600 --> 00:36:54.810
+Riotaro OKADA: So and do you update every day?
+
+238
+00:36:55.953 --> 00:37:10.306
+Riotaro OKADA: It's no more thing. So and not only be, because vulnerability. But also there's some new feature we want to. Yeah, yeah, automatic updates, it's okay. Yeah.
+
+239
+00:37:10.920 --> 00:37:20.800
+Riotaro OKADA: So updating is really essential for users, because the this is the only way to have the more stable
+
+240
+00:37:21.160 --> 00:37:32.770
+Riotaro OKADA: stable or might improve our environment and the using environment user experiences. Right?
+
+241
+00:37:33.150 --> 00:37:36.350
+Riotaro OKADA: So the it depends on the vendor.
+
+242
+00:37:36.840 --> 00:37:46.680
+Riotaro OKADA: So ma, including me. So ma, I support some manufacturers, manufacturers
+
+243
+00:37:46.740 --> 00:37:51.519
+Riotaro OKADA: and the software suppliers. So the
+
+244
+00:37:52.170 --> 00:37:55.659
+Riotaro OKADA: from this point point of view.
+
+245
+00:37:56.706 --> 00:38:04.103
+Riotaro OKADA: Yeah. So I am one over there. And okay, so 70, 30.
+
+246
+00:38:04.800 --> 00:38:07.729
+Riotaro OKADA: Okay, platform chat. Let's go on.
+
+247
+00:38:09.030 --> 00:38:11.660
+Riotaro OKADA: But taking a look at the software.
+
+248
+00:38:12.000 --> 00:38:22.209
+Riotaro OKADA: the more software, the system, the open source. 3rd party Apis, we should change the verification operation and application update
+
+249
+00:38:22.670 --> 00:38:32.960
+Riotaro OKADA: and the program when we code some program. So we should fix double vulnerability in the code and the
+
+250
+00:38:33.630 --> 00:38:43.230
+Riotaro OKADA: but some so many components. And the program code is depending on or connected with a configuration
+
+251
+00:38:43.420 --> 00:38:57.060
+Riotaro OKADA: or protocol. So it means when we see the open source software security, we should know the how to
+
+252
+00:38:57.210 --> 00:39:07.090
+Riotaro OKADA: the version, of course, but how to utilize that or the program code is, of course, the expected
+
+253
+00:39:07.330 --> 00:39:16.380
+Riotaro OKADA: to fix the vulnerability. But we can check the program code directory, but so nobody check the
+
+254
+00:39:16.650 --> 00:39:23.970
+Riotaro OKADA: the difference or diff, or the patch of cold.
+
+255
+00:39:24.510 --> 00:39:34.359
+Riotaro OKADA: whether it could fix the vulnerability correctly or properly right.
+
+256
+00:39:34.560 --> 00:39:38.660
+Riotaro OKADA: So now, of course, there's somebody.
+
+257
+00:39:39.020 --> 00:39:54.370
+Riotaro OKADA: What did that? Or checked that? But so maybe so many. Most of users don't care about the okay. The new version will be nicer than older version or the
+
+258
+00:39:54.590 --> 00:40:01.519
+Riotaro OKADA: release note. So we fixed the vulnerability. But the user most users
+
+259
+00:40:01.530 --> 00:40:07.370
+Riotaro OKADA: don't check about into check into the code drill down into code.
+
+260
+00:40:07.450 --> 00:40:25.050
+Riotaro OKADA: So this is very big problem. Because 1 3rd of open source software, professional don't want to code security or are not interested in secure coding. Right? So it is big program, very headache program. So
+
+261
+00:40:26.480 --> 00:40:31.769
+Riotaro OKADA: so when and software composition analysis.
+
+262
+00:40:32.030 --> 00:40:42.940
+Riotaro OKADA: we do. And actually I sell. But but so we don't be. We shouldn't be satisfied with just finding program components.
+
+263
+00:40:43.130 --> 00:40:49.029
+Riotaro OKADA: and that the only the tag did it is really risky or not.
+
+264
+00:40:49.160 --> 00:40:52.709
+Riotaro OKADA: But so we should drill down more
+
+265
+00:40:52.750 --> 00:41:08.849
+Riotaro OKADA: like the perspectives on whether to continue to use or not. Right? So we should. Sometimes we should drill down the project or so the code it is
+
+266
+00:41:09.380 --> 00:41:17.650
+Riotaro OKADA: appropriate, and to it is a right to think
+
+267
+00:41:17.860 --> 00:41:24.009
+Riotaro OKADA: whether it is right thing to continue to utilize this a project or not.
+
+268
+00:41:25.490 --> 00:41:32.020
+Riotaro OKADA: So I want to show I want to introduce one project, the software Heritage project.
+
+269
+00:41:32.240 --> 00:41:35.789
+Riotaro OKADA: And do you know the software? This project?
+
+270
+00:41:36.130 --> 00:41:37.280
+Riotaro OKADA: So
+
+271
+00:41:37.410 --> 00:41:46.490
+Riotaro OKADA: I recently, I met a core person of a software heritage project. Yeah, yeah, yeah, thank you. Thank you.
+
+272
+00:41:46.650 --> 00:41:51.900
+Riotaro OKADA: And this is archive project of various
+
+273
+00:41:52.070 --> 00:42:01.690
+Riotaro OKADA: repositories, and it increasing, including the patch or the who provide that patch or the
+
+274
+00:42:01.800 --> 00:42:09.970
+Riotaro OKADA: yeah. So I I mean, so we can track the engineers so to the detail.
+
+275
+00:42:09.990 --> 00:42:21.260
+Riotaro OKADA: So if when we drill down the software project, or we want to check the reputation like the
+
+276
+00:42:21.330 --> 00:42:25.420
+Riotaro OKADA: frequency to update or the quality of update.
+
+277
+00:42:25.490 --> 00:42:32.360
+Riotaro OKADA: So we can my track the some, the and
+
+278
+00:42:32.890 --> 00:42:53.839
+Riotaro OKADA: historical records throughout this project. So it is really useful to check. If a certain project is really trustworthy, or if certain engineers or programmer is really trustworthy or something.
+
+279
+00:42:53.870 --> 00:43:01.729
+Riotaro OKADA: So it is really good news for me. And I want. So that's why I wanted to introduce this
+
+280
+00:43:01.850 --> 00:43:03.280
+Riotaro OKADA: a project to you.
+
+281
+00:43:03.700 --> 00:43:13.070
+Riotaro OKADA: Yeah. So I'm very happy. Yeah, you know, you know, you most of you know software Heritage project. But so it is really good usage
+
+282
+00:43:13.150 --> 00:43:16.580
+Riotaro OKADA: about that. This project. Yes.
+
+283
+00:43:17.210 --> 00:43:31.420
+Riotaro OKADA: yeah. Back to Cyclone Dx, the Cyclone Dx project released. Very good S bomb tools. And so oh, no, no.
+
+284
+00:43:31.760 --> 00:43:39.290
+Riotaro OKADA: So please take a look and download this and a tot.
+
+285
+00:43:42.510 --> 00:44:06.360
+Riotaro OKADA: I didn't translate into Japanese, but I want to try, or I want to encourage our team to translate into Japanese. But nowadays the cost to read or utilize English materials is really low. So I want to encourage Japanese people to read the
+
+286
+00:44:06.440 --> 00:44:15.120
+Riotaro OKADA: some guidelines or guides from cyclone. Dx is ready.
+
+287
+00:44:15.310 --> 00:44:21.340
+Riotaro OKADA: easy to understand it. And a really reasonable thing. So and I want to encourage.
+
+288
+00:44:21.710 --> 00:44:24.580
+Riotaro OKADA: yeah, these are now available.
+
+289
+00:44:24.920 --> 00:44:30.449
+Riotaro OKADA: Yes, and I want to mention Darwestry. Yes, thank you.
+
+290
+00:44:30.900 --> 00:44:34.069
+Riotaro OKADA: You've done this. Oh, thank you very much.
+
+291
+00:44:34.450 --> 00:44:41.080
+Riotaro OKADA: And I want to mention about the challenge of Cyclone Dx. Lastly, the
+
+292
+00:44:42.050 --> 00:44:45.860
+Riotaro OKADA: one thing is that despite wide adoption.
+
+293
+00:44:45.870 --> 00:44:50.620
+Riotaro OKADA: and there is a lack of public case studies
+
+294
+00:44:50.660 --> 00:44:58.670
+Riotaro OKADA: and so collaboration with the organization to produce and share these, these is needed. This is one challenge
+
+295
+00:44:59.270 --> 00:45:12.390
+Riotaro OKADA: and tool classification is the second challenge. The cyclone Dx tool center hosting over 250 tools requires reclassifications and updates to improve
+
+296
+00:45:12.400 --> 00:45:21.660
+Riotaro OKADA: usability. Yeah, so many tools. But it is a little bit chaotic. So I felt, yeah.
+
+297
+00:45:22.080 --> 00:45:31.990
+Riotaro OKADA: And the so second Ds can deal with hardware. Yeah. So I told you. But
+
+298
+00:45:32.040 --> 00:45:43.670
+Riotaro OKADA: limited input from device and hardware makers, constrains bomb format optimization for hardware needs. This is a 3rd challenge.
+
+299
+00:45:43.850 --> 00:45:47.570
+Riotaro OKADA: I interviewed them so it will be true. Yeah.
+
+300
+00:45:47.770 --> 00:45:48.700
+Riotaro OKADA: So
+
+301
+00:45:49.250 --> 00:46:14.010
+Riotaro OKADA: the so and recruiting additional maintenance to support its expanding ecosystem. So the cyclone Dx is open and the community driven. So the challenge is has been to recruiting additional maintainers or the ecosystem contributors. So I want to be.
+
+302
+00:46:14.030 --> 00:46:27.979
+Riotaro OKADA: But so the. As for Cyclone Dx, the challenge is like this so? Well, I I think that's simply
+
+303
+00:46:29.570 --> 00:46:31.600
+Riotaro OKADA: hmm to.
+
+304
+00:46:34.550 --> 00:46:39.480
+Riotaro OKADA: I hope.
+
+305
+00:46:40.950 --> 00:46:41.650
+Riotaro OKADA: Yup.
+
+306
+00:46:44.670 --> 00:47:09.749
+Riotaro OKADA: I hope everyone in Japan will be interested in wasps activities. We will have another contact somewhere. So please gather information through Twitter and other means. So we also have a mailing list and a slack channel. And I encourage all of you guys to join the Cyclone Dx community as well.
+
+307
+00:47:09.950 --> 00:47:16.350
+Riotaro OKADA: Please take a look at the document, the slide deck, which I hope to share in some way later.
+
+308
+00:47:16.500 --> 00:47:17.870
+Riotaro OKADA: and
+
+309
+00:47:18.110 --> 00:47:39.609
+Riotaro OKADA: it's difficult to exchange business card today. So I'm in on Linkedin or Twitter. Yeah. So I would appreciate it if you could follow me on Twitter or connect on Linkedin. Also, if you would like to email me with feedback.
+
+310
+00:47:39.620 --> 00:47:53.280
+Riotaro OKADA: and don't mention about my silly English. But maybe you kindly focus on my content. So I would really appreciate it. And I look forward to working with you in the future.
+
+311
+00:47:53.290 --> 00:47:57.589
+Riotaro OKADA: And so thank you very much for your time today.
+
+312
+00:48:01.160 --> 00:48:11.820
+Norio Kobota (Sony Group Corporation): Thank you very much, Okraham, and I very appreciate it. And are there any questions and comments
+
+313
+00:48:12.940 --> 00:48:14.250
+Norio Kobota (Sony Group Corporation): from attendees?
+
+314
+00:48:18.431 --> 00:48:20.538
+Norio Kobota (Sony Group Corporation): So I have one question.
+
+315
+00:48:20.960 --> 00:48:21.350
+Riotaro OKADA: Okay.
+
+316
+00:48:21.350 --> 00:48:30.630
+Norio Kobota (Sony Group Corporation): Many people from many countries. So I I'd like to ask you, are there any other local chapters.
+
+317
+00:48:32.470 --> 00:48:37.509
+Riotaro OKADA: Oh, local chapters, and from all over the world, right.
+
+318
+00:48:38.207 --> 00:48:40.710
+Norio Kobota (Sony Group Corporation): Yes, other than the Japan chapters.
+
+319
+00:48:42.153 --> 00:48:43.259
+Riotaro OKADA: Japan. Chapter.
+
+320
+00:48:44.050 --> 00:48:46.170
+Norio Kobota (Sony Group Corporation): Other than Jeff. Jump on chapters.
+
+321
+00:48:46.170 --> 00:48:48.879
+Riotaro OKADA: Other other than Japan Japanese. Okay, thank you.
+
+322
+00:48:49.540 --> 00:48:59.700
+Riotaro OKADA: Okay, so please take Erica Wasborg and talk and the
+
+323
+00:49:00.250 --> 00:49:10.689
+Riotaro OKADA: chapters right chapters. So there are so many chapters now listed on this. And yeah. So
+
+324
+00:49:10.690 --> 00:49:39.130
+Riotaro OKADA: the chapter based meeting is really frequent, like monthly or quarterly. So you can very easy to find application security team or the application security guys, and not only the application, but also the manufacturing. So please, I want to encourage you to if you are manufacturer. So the project
+
+325
+00:49:39.240 --> 00:49:44.759
+Riotaro OKADA: browse like that. So sometimes we can enjoy the
+
+326
+00:49:46.050 --> 00:50:00.699
+Riotaro OKADA: to IoT or money for money manufacturer, or, if you are now the very interested in Llm. So you can search the Llm. Project.
+
+327
+00:50:00.860 --> 00:50:02.150
+Riotaro OKADA: The
+
+328
+00:50:02.470 --> 00:50:18.550
+Riotaro OKADA: so so many up to date project are there, and they have only they have own slack channel or the communication tool like that. So maybe maybe most of
+
+329
+00:50:18.870 --> 00:50:26.029
+Riotaro OKADA: most project has owned their project or the Wasp slack
+
+330
+00:50:26.130 --> 00:50:46.320
+Riotaro OKADA: and their own channel right? And but the cyclone Dx is independent, slack channel so that you can enjoy that. So it is really funny. And so many open source software key persons are now gathering on the
+
+331
+00:50:46.340 --> 00:50:57.069
+Riotaro OKADA: this cyclone Dx Channel. So maybe you can find you are a very familiar person in in this track, so I want to invite you, all of you.
+
+332
+00:50:57.110 --> 00:51:06.470
+Riotaro OKADA: So to discuss and corroborate. I exchanged some information or ideas, and and but
+
+333
+00:51:06.540 --> 00:51:32.470
+Riotaro OKADA: concepts it would be very nice, even me. So I'm very strange for them, but so they welcomed me, and so they answered my interview very frequently and easily, even I am Japanese. But yeah, like this. So this is really open project. So if you are now dealing with S-bomb various way.
+
+334
+00:51:32.470 --> 00:51:45.000
+Riotaro OKADA: or if you're not so apart from Xbomb, but you are now interested in software transparency. Maybe it will be very beneficial to join and discuss with them.
+
+335
+00:51:45.480 --> 00:51:46.300
+Riotaro OKADA: Okay.
+
+336
+00:51:47.030 --> 00:51:48.570
+Norio Kobota (Sony Group Corporation): Yeah, thank you very much.
+
+337
+00:51:50.590 --> 00:51:54.270
+Norio Kobota (Sony Group Corporation): Okay. Any other graph. 2 comments.
+
+338
+00:52:01.480 --> 00:52:02.290
+Norio Kobota (Sony Group Corporation): nothing.
+
+339
+00:52:02.290 --> 00:52:09.970
+Jari Koivisto (OpenChain Project): So maybe if nobody else has anything to ask like, you mentioned the software heritage
+
+340
+00:52:09.980 --> 00:52:17.260
+Jari Koivisto (OpenChain Project): and how to use that to get, let's say, historical information about the project. How does that
+
+341
+00:52:17.380 --> 00:52:23.509
+Jari Koivisto (OpenChain Project): differentiate from what chaos project is doing? If all? Are you familiar with the chaos project?
+
+342
+00:52:24.900 --> 00:52:34.140
+Riotaro OKADA: I'm sorry I know the name of project, but I'm not familiar with that project. So it is up to you.
+
+343
+00:52:34.500 --> 00:52:35.450
+Jari Koivisto (OpenChain Project): Okay. Yeah.
+
+344
+00:52:35.450 --> 00:52:36.170
+Riotaro OKADA: Yeah.
+
+345
+00:52:36.170 --> 00:52:42.830
+Jari Koivisto (OpenChain Project): So maybe maybe a question like, how have you been using the software heritage to to gather the information.
+
+346
+00:52:43.590 --> 00:53:02.740
+Riotaro OKADA: Yeah, actually. So I I am one of the security guy. So and I have, even, I have been software pro programmer. But I wanted to check to about the protest where, in my case.
+
+347
+00:53:02.920 --> 00:53:10.089
+Riotaro OKADA: so the I want to track some some developers or the
+
+348
+00:53:10.150 --> 00:53:17.389
+Riotaro OKADA: people people. A person who was involved
+
+349
+00:53:17.530 --> 00:53:32.129
+Riotaro OKADA: involved to involve the protest where or malware deployment, so that I wanted to track that this, this, the same person, is now now
+
+350
+00:53:32.260 --> 00:53:34.999
+Riotaro OKADA: contributed. Other project or not
+
+351
+00:53:35.380 --> 00:53:47.279
+Riotaro OKADA: like that. So this is really rare case, maybe from your point of view. But so it is. It was really useful, and I could find some other risky point.
+
+352
+00:53:47.510 --> 00:53:49.850
+Riotaro OKADA: and they are so.
+
+353
+00:53:49.880 --> 00:53:53.840
+Riotaro OKADA: So. It is one story I utilize that project.
+
+354
+00:53:55.970 --> 00:53:58.580
+Jari Koivisto (OpenChain Project): Perfect. Thank you, and I see Marcel has his hand up.
+
+355
+00:53:59.140 --> 00:54:05.629
+Marcel Kurzmann (Bosch): Yeah, thank you very much so, and thank you for your presentation. That was really great. And also I.
+
+356
+00:54:05.660 --> 00:54:10.789
+Marcel Kurzmann (Bosch): Your English is probably better than mine, so excuse me now for my question.
+
+357
+00:54:10.790 --> 00:54:11.680
+Riotaro OKADA: Yeah.
+
+358
+00:54:12.077 --> 00:54:36.739
+Marcel Kurzmann (Bosch): Or or this German. My my daughter always called it potato English that we we talk. But yeah, as as you know, we heard in the S bomb group from from open chain. So our main goal is now to to have a focus on the supply chain, right? So how we hand over from along from upstream to downstream.
+
+359
+00:54:36.960 --> 00:54:51.089
+Marcel Kurzmann (Bosch): and where we try also to be agnostic to the, to the final format, if they may be Spd cyclonics hash id whatever. Yeah. So there are several. So we want to really concentrate on on the contents.
+
+360
+00:54:51.230 --> 00:54:56.869
+Marcel Kurzmann (Bosch): And I think that will also have potential impact on all of those
+
+361
+00:54:57.020 --> 00:55:22.180
+Marcel Kurzmann (Bosch): formats, at least, that we ideally should sit together right and and talk about it. And what would you recommend? What would be a good entry point for such discussions when we say, Hey! On from the Spoon Tooling study group, we would expect all those contents that are handed over along the supply chain. Is there any?
+
+362
+00:55:22.310 --> 00:55:30.260
+Marcel Kurzmann (Bosch): Yeah architect who would be a contact point? Is it you? Or is it? Yeah, that would be my question.
+
+363
+00:55:31.660 --> 00:55:37.562
+Riotaro OKADA: Yeah, ma, as an individual.
+
+364
+00:55:38.680 --> 00:56:00.120
+Riotaro OKADA: Yes, it is really good opportunity you invite kindly invited me to share my idea. Even. I am Japanese, and not so good at speak. But it is good idea to invite some core person from Cyclone Dx to your community, and
+
+365
+00:56:00.120 --> 00:56:08.770
+Riotaro OKADA: if you, if you are not. You don't mind. So let's go to the cyclone Dx community.
+
+366
+00:56:09.150 --> 00:56:17.690
+Riotaro OKADA: And because this is not competitive thing, and it is re collaborate right?
+
+367
+00:56:17.750 --> 00:56:34.019
+Riotaro OKADA: So the corroborate and the change discussion or, yeah. So the the so one purpose, various way, would be welcome. Right? So so the this discuss about the
+
+368
+00:56:34.060 --> 00:56:39.189
+Riotaro OKADA: so the it is really good thing. So, ma, I hope
+
+369
+00:56:39.260 --> 00:56:43.350
+Riotaro OKADA: it is really good. One step to corroborate together
+
+370
+00:56:43.400 --> 00:57:03.150
+Riotaro OKADA: and to get some transparency, because Eucra as well. Now, of course the Us. Has some compliance, and then Japan will maybe should follow these compliances. This is a really good
+
+371
+00:57:03.150 --> 00:57:13.489
+Riotaro OKADA: trigger to corroborate that so. But the main purpose. I think the main purpose is how to get the transparency of software.
+
+372
+00:57:13.540 --> 00:57:14.340
+Riotaro OKADA: Yeah.
+
+373
+00:57:14.430 --> 00:57:20.479
+Riotaro OKADA: And the S-bomb is not the goal.
+
+374
+00:57:20.810 --> 00:57:32.189
+Riotaro OKADA: I guess it is too complicated, and it is very immature, not mature a way, but it is the 1st step to get
+
+375
+00:57:32.200 --> 00:57:36.960
+Riotaro OKADA: our 1st step to discuss about the transparency of
+
+376
+00:57:37.010 --> 00:57:41.249
+Riotaro OKADA: as a software or system or product. Right?
+
+377
+00:57:42.250 --> 00:57:49.469
+Riotaro OKADA: So from this point of view, the corroboration or the discuss, some information, discuss some
+
+378
+00:57:49.640 --> 00:57:56.910
+Riotaro OKADA: concept is very useful for the how to get the common goal right? So the
+
+379
+00:57:56.970 --> 00:58:06.049
+Riotaro OKADA: I don't know the what is the appropriate project, or the body or community or place.
+
+380
+00:58:06.210 --> 00:58:15.400
+Riotaro OKADA: but so we can make that, or we can corroborate that. So so the now let's go together.
+
+381
+00:58:17.910 --> 00:58:18.590
+Marcel Kurzmann (Bosch): What do you think?
+
+382
+00:58:18.590 --> 00:58:19.309
+Norio Kobota (Sony Group Corporation): I agree.
+
+383
+00:58:19.310 --> 00:58:20.130
+Marcel Kurzmann (Bosch): Good spirit.
+
+384
+00:58:22.100 --> 00:58:25.430
+Norio Kobota (Sony Group Corporation): Market, and please take care.
+
+385
+00:58:25.900 --> 00:58:40.699
+Marc-Etienne Vargenau (Nokia Corporation): Yes, so I'm just wanted to mention something is that in India they have published now an S bomb guide.
+
+386
+00:58:41.200 --> 00:58:50.849
+Marc-Etienne Vargenau (Nokia Corporation): I have guidelines. I've put a link in the chat, and I send it also on the mailing list
+
+387
+00:58:51.480 --> 00:58:57.809
+Marc-Etienne Vargenau (Nokia Corporation): a few days ago, so you can have a look at this
+
+388
+00:58:58.080 --> 00:59:02.209
+Marc-Etienne Vargenau (Nokia Corporation): at this as bomb guidelines. Document for for India.
+
+389
+00:59:02.940 --> 00:59:03.910
+Riotaro OKADA: Thank you.
+
+390
+00:59:07.620 --> 00:59:08.709
+Riotaro OKADA: I would check.
+
+391
+00:59:12.440 --> 00:59:13.829
+Norio Kobota (Sony Group Corporation): Yeah, thank you.
+
+392
+00:59:14.895 --> 00:59:18.779
+Norio Kobota (Sony Group Corporation): Are there any other questions and comments?
+
+393
+00:59:20.760 --> 00:59:22.050
+Norio Kobota (Sony Group Corporation): There's nothing.
+
+394
+00:59:22.120 --> 00:59:25.839
+Norio Kobota (Sony Group Corporation): Thank you very much. Okrasan. Big hands.
+
+395
+00:59:26.520 --> 00:59:27.920
+Norio Kobota (Sony Group Corporation): Thank you.
+
+396
+00:59:29.310 --> 00:59:30.990
+Norio Kobota (Sony Group Corporation): Okay.
+
+397
+00:59:31.690 --> 00:59:38.280
+Norio Kobota (Sony Group Corporation): We have 10 min left, and okay, I'll
+
+398
+00:59:39.106 --> 00:59:48.309
+Norio Kobota (Sony Group Corporation): I'll share my idea for the next meeting, and I will close this meeting, and I have a
+
+399
+00:59:49.160 --> 00:59:53.320
+Norio Kobota (Sony Group Corporation): I'd like to ask all of you from
+
+400
+00:59:53.600 --> 01:00:17.429
+Norio Kobota (Sony Group Corporation): past few meetings we share the knowledges and insights, and so on. And from the next meeting I'd like to start a specific discussion on how to use S bomb. And what should we do, or how? What should we create such as a guideline? And so on
+
+401
+01:00:17.460 --> 01:00:23.709
+Norio Kobota (Sony Group Corporation): and in the past few days talk from ninja, from
+
+402
+01:00:24.800 --> 01:00:27.019
+Norio Kobota (Sony Group Corporation): yes, sir. Are are you here
+
+403
+01:00:28.310 --> 01:00:34.470
+Norio Kobota (Sony Group Corporation): interesting? Shared the material and the blueprint to the mail list.
+
+404
+01:00:34.680 --> 01:00:42.359
+Norio Kobota (Sony Group Corporation): and of course there is Telco asthma guide we have. So
+
+405
+01:00:42.430 --> 01:00:50.430
+Norio Kobota (Sony Group Corporation): from the it is a good start point we've seen, and I think, and Shane mentioned as well.
+
+406
+01:00:50.680 --> 01:00:55.979
+Norio Kobota (Sony Group Corporation): So we'd like to. I'd like to start with the
+
+407
+01:00:56.682 --> 01:01:01.177
+Norio Kobota (Sony Group Corporation): from the discussion or standing on the Brooklyn.
+
+408
+01:01:02.240 --> 01:01:07.230
+Norio Kobota (Sony Group Corporation): So I will draft next time.
+
+409
+01:01:07.470 --> 01:01:14.500
+Norio Kobota (Sony Group Corporation): and I I will share the on the github, or slack, or a mail list.
+
+410
+01:01:14.660 --> 01:01:20.240
+Norio Kobota (Sony Group Corporation): so please let us know your opinion or your thoughts.
+
+411
+01:01:20.560 --> 01:01:21.250
+Norio Kobota (Sony Group Corporation): Okay?
+
+412
+01:01:21.470 --> 01:01:26.359
+Norio Kobota (Sony Group Corporation): And of course there are some. There are some.
+
+413
+01:01:26.460 --> 01:01:44.740
+Norio Kobota (Sony Group Corporation): If you want to make a presentation or some knowledge to be shared. Please let us know we will. I com. I communicate. I consult with Shane, and make a arranging schedule.
+
+414
+01:01:44.830 --> 01:01:46.229
+Norio Kobota (Sony Group Corporation): Please let us know.
+
+415
+01:01:47.390 --> 01:01:50.329
+Norio Kobota (Sony Group Corporation): Okay, that's all from me.
+
+416
+01:01:50.360 --> 01:01:58.460
+Norio Kobota (Sony Group Corporation): And thank you again, Okada-san, let's communicate keeping that in the near in future.
+
+417
+01:01:59.330 --> 01:02:01.289
+Norio Kobota (Sony Group Corporation): Hello, thank you for attending
+
+418
+01:02:02.900 --> 01:02:09.230
+Norio Kobota (Sony Group Corporation): all of you, and I will. I'd like to close today's meeting.
+
+419
+01:02:09.520 --> 01:02:10.169
+Alin Jerpelea (Sony Group Corporation): Thank you very much.
+
+420
+01:02:10.170 --> 01:02:11.040
+Alin Jerpelea (Sony Group Corporation): Thank you.
+
+421
+01:02:15.800 --> 01:02:17.710
+Yoshiyuki Ito (Renesas Electronics Corporation): Thank you so much. Bye-bye.
+
+422
+01:02:19.750 --> 01:02:20.340
+Takashi ninjouji: Thank you.
+
+423
+01:02:21.860 --> 01:02:22.820
+Norio Kobota (Sony Group Corporation): Thank you.
+
