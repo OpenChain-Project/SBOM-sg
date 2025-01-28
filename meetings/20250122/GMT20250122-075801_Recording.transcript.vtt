@@ -1,0 +1,1834 @@
+WEBVTT
+
+1
+00:00:24.590 --> 00:00:26.410
+Shane Coughlan (The Linux Foundation): Hello! Oadison!
+
+2
+00:00:28.150 --> 00:00:29.489
+Kiyoshi Owada (Socionext Inc.): Oh! Hi! Chantel!
+
+3
+00:00:30.800 --> 00:00:32.500
+Shane Coughlan (The Linux Foundation): I will. Happy New Year.
+
+4
+00:00:32.500 --> 00:00:35.404
+Kiyoshi Owada (Socionext Inc.): Oh, yeah. Happy here.
+
+5
+00:00:36.180 --> 00:00:40.910
+Shane Coughlan (The Linux Foundation): I hope you are well. I hope you had a good holiday.
+
+6
+00:00:40.910 --> 00:00:42.440
+Kiyoshi Owada (Socionext Inc.): Oh, thank you!
+
+7
+00:02:06.760 --> 00:02:19.990
+Shane Coughlan (The Linux Foundation): Just letting our various channels know that the meeting is starting to make sure people have a ping.
+
+8
+00:02:29.060 --> 00:02:29.690
+Norio Kobota (Sony Group Corporation): Hello!
+
+9
+00:02:31.140 --> 00:02:32.050
+Norio Kobota (Sony Group Corporation): Hi shane!
+
+10
+00:02:35.240 --> 00:02:36.830
+Shane Coughlan (The Linux Foundation): I hope you are well.
+
+11
+00:02:38.360 --> 00:02:39.120
+Norio Kobota (Sony Group Corporation): Thank you.
+
+12
+00:02:40.460 --> 00:02:48.920
+Shane Coughlan (The Linux Foundation): I'm just sending a note round to all the various places to remind them at this meeting.
+
+13
+00:02:49.200 --> 00:02:52.480
+Shane Coughlan (The Linux Foundation): His starting.
+
+14
+00:03:00.970 --> 00:03:07.040
+Shane Coughlan (The Linux Foundation): Is this the 1st time we have spoken since the beginning of the year.
+
+15
+00:03:07.510 --> 00:03:10.610
+Norio Kobota (Sony Group Corporation): Oh, yes, Happy New Year we need.
+
+16
+00:03:11.040 --> 00:03:12.760
+Norio Kobota (Sony Group Corporation): It's a later day.
+
+17
+00:03:13.760 --> 00:03:14.750
+Norio Kobota (Sony Group Corporation): Happy New Year.
+
+18
+00:03:15.620 --> 00:03:18.459
+Shane Coughlan (The Linux Foundation): It's still the correct year. It's okay.
+
+19
+00:03:19.910 --> 00:03:29.070
+Shane Coughlan (The Linux Foundation): Actually, I have before we officially start, I have an important topic related to the onsen study group.
+
+20
+00:03:30.010 --> 00:03:30.500
+Norio Kobota (Sony Group Corporation): Yes!
+
+21
+00:03:30.500 --> 00:03:36.440
+Shane Coughlan (The Linux Foundation): Yes, because of your encouragement, I have started to explore more onsense.
+
+22
+00:03:36.750 --> 00:03:37.659
+Norio Kobota (Sony Group Corporation): Oh, waiter!
+
+23
+00:03:37.660 --> 00:03:47.510
+Shane Coughlan (The Linux Foundation): Yes, I found some near my house that also have working spaces. So a whole new
+
+24
+00:03:47.610 --> 00:03:49.979
+Shane Coughlan (The Linux Foundation): whole new time has been discovered.
+
+25
+00:04:11.615 --> 00:04:14.535
+Shane Coughlan (The Linux Foundation): Kubotus, and I know you have some slides
+
+26
+00:04:15.950 --> 00:04:16.510
+Norio Kobota (Sony Group Corporation): Yes.
+
+27
+00:04:16.519 --> 00:04:21.739
+Shane Coughlan (The Linux Foundation): Do your slides have the antitrust policy notice, and so on.
+
+28
+00:04:23.034 --> 00:04:25.566
+Norio Kobota (Sony Group Corporation): Sorry I didn't.
+
+29
+00:04:26.570 --> 00:04:27.350
+Norio Kobota (Sony Group Corporation): Sorry.
+
+30
+00:04:27.590 --> 00:04:36.599
+Shane Coughlan (The Linux Foundation): No, not at all. What I'll do is I will share a slide with the antitrust policy to start the meeting.
+
+31
+00:04:37.120 --> 00:04:40.010
+Shane Coughlan (The Linux Foundation): and then I will hand over to you so.
+
+32
+00:04:40.010 --> 00:04:40.740
+Norio Kobota (Sony Group Corporation): Thank you.
+
+33
+00:04:41.560 --> 00:04:48.840
+Shane Coughlan (The Linux Foundation): One second we'll begin sharing our slides. I see we have
+
+34
+00:04:49.220 --> 00:04:52.919
+Shane Coughlan (The Linux Foundation): a lot of people on the call today. So that's wonderful.
+
+35
+00:04:55.060 --> 00:04:55.970
+Shane Coughlan (The Linux Foundation): All right.
+
+36
+00:04:58.840 --> 00:05:01.920
+Shane Coughlan (The Linux Foundation): So everyone. Welcome.
+
+37
+00:05:02.560 --> 00:05:09.699
+Shane Coughlan (The Linux Foundation): Welcome to another open chain. Sbom, study group. Call this call today is
+
+38
+00:05:09.900 --> 00:05:18.290
+Shane Coughlan (The Linux Foundation): obviously going to be a busy one for those of you who are new. Our Sbom study group started
+
+39
+00:05:18.590 --> 00:05:21.240
+Shane Coughlan (The Linux Foundation): around the second half of last year
+
+40
+00:05:21.800 --> 00:05:30.650
+Shane Coughlan (The Linux Foundation): to talk about how, in very practical ways we can use S-bombs in the supply chain.
+
+41
+00:05:31.030 --> 00:05:35.120
+Shane Coughlan (The Linux Foundation): So our topic is higher level than discussing
+
+42
+00:05:35.240 --> 00:05:39.150
+Shane Coughlan (The Linux Foundation): a format per se. It's about, how
+
+43
+00:05:39.420 --> 00:05:47.549
+Shane Coughlan (The Linux Foundation): do we use Sulphur bill of materials in the supply chain. What's needed? What might be a quality
+
+44
+00:05:47.780 --> 00:05:53.550
+Shane Coughlan (The Linux Foundation): software bill of material? What are the challenges, as usual? Then?
+
+45
+00:05:53.960 --> 00:05:59.379
+Shane Coughlan (The Linux Foundation): A big topic, a high level topic, a typical open chain topic.
+
+46
+00:06:00.200 --> 00:06:21.780
+Shane Coughlan (The Linux Foundation): This meeting, like every other meeting in the Open Chain project and every other meeting across the Linux Foundation, is held under the Lf. Antitrust policy. You can find the full policy on the Linux Foundation website. If you're from a member company, you can ask any questions of our Council, Andrew up to Grove.
+
+47
+00:06:21.970 --> 00:06:26.739
+Shane Coughlan (The Linux Foundation): and if you're not from a member company, you can ask any questions of your own counsel.
+
+48
+00:06:27.670 --> 00:06:34.349
+Shane Coughlan (The Linux Foundation): Long story short, it's a way that we have clear rules to allow us to collaborate openly.
+
+49
+00:06:34.810 --> 00:06:44.939
+Shane Coughlan (The Linux Foundation): Now, without further ado, I'm going to hand over to the chair of the Sbom Study group, Kubotusan from Sony. He's also
+
+50
+00:06:45.210 --> 00:06:50.460
+Shane Coughlan (The Linux Foundation): the voting representative for Sony, which is a platinum member of the Open Chain project.
+
+51
+00:06:50.560 --> 00:06:56.359
+Shane Coughlan (The Linux Foundation): Indeed, on this call we have a Who's Who of Open chain members
+
+52
+00:06:57.050 --> 00:07:09.080
+Shane Coughlan (The Linux Foundation): picking randomly. We have Watanabe-san from Hitachi, who's a board member, but also the chair of the open chain, Japan planning sub working group.
+
+53
+00:07:09.420 --> 00:07:11.040
+Shane Coughlan (The Linux Foundation): We have ninjoji-sen.
+
+54
+00:07:11.210 --> 00:07:12.520
+Shane Coughlan (The Linux Foundation): Who's with Honda?
+
+55
+00:07:12.800 --> 00:07:15.840
+Shane Coughlan (The Linux Foundation): We have Marcel with Bosch.
+
+56
+00:07:16.320 --> 00:07:20.609
+Shane Coughlan (The Linux Foundation): and there's many names on the screen. So I'm going to pick 2 more and then stop.
+
+57
+00:07:20.800 --> 00:07:33.239
+Shane Coughlan (The Linux Foundation): We have a Wadasan who has arranged and hosted many meetings. He's from Socionext and Yari, a frequent community collaborator based in Switzerland, right?
+
+58
+00:07:33.580 --> 00:07:42.339
+Shane Coughlan (The Linux Foundation): Lots of people, lots of discussion to be had, and our chair, Kubota-san from Sony, will guide this discussion. Kubota-san, over to you.
+
+59
+00:07:43.520 --> 00:07:44.509
+Norio Kobota (Sony Group Corporation): Thank you, Shane.
+
+60
+00:07:46.190 --> 00:07:52.410
+Norio Kobota (Sony Group Corporation): Today. I'd like to share my screen. And can you see my screen.
+
+61
+00:07:53.490 --> 00:07:55.460
+Shane Coughlan (The Linux Foundation): Yes, it's looking great.
+
+62
+00:07:55.880 --> 00:07:58.630
+Norio Kobota (Sony Group Corporation): Okay, thank you.
+
+63
+00:07:58.950 --> 00:08:10.859
+Norio Kobota (Sony Group Corporation): And Hello, everyone. And Happy New Year. It's a little late. But it is our 1st time meeting this year for s 1 study group.
+
+64
+00:08:11.520 --> 00:08:13.500
+Norio Kobota (Sony Group Corporation): And I
+
+65
+00:08:13.850 --> 00:08:26.979
+Norio Kobota (Sony Group Corporation): remember that last year we studied as bomb study group, as Shane explained. And we had a host time this meetings last year.
+
+66
+00:08:27.250 --> 00:08:46.749
+Norio Kobota (Sony Group Corporation): and we learned a lot from the several activities around the S bomb. And someone explained from the Wasp perspective or some Telco activities about the S-bomb Telco guide, and so on.
+
+67
+00:08:47.390 --> 00:08:56.090
+Norio Kobota (Sony Group Corporation): So today, I'd like to propose what's next for this S bomb study group.
+
+68
+00:08:57.160 --> 00:09:04.397
+Norio Kobota (Sony Group Corporation): And oh, personally. And for Sony Group Corporation, we are now
+
+69
+00:09:05.500 --> 00:09:12.929
+Norio Kobota (Sony Group Corporation): challenging to implement to create and operate the s-bone matters.
+
+70
+00:09:13.090 --> 00:09:18.940
+Norio Kobota (Sony Group Corporation): But actually, we have many challenges.
+
+71
+00:09:19.100 --> 00:09:24.670
+Norio Kobota (Sony Group Corporation): and there are many guidelines or regulations around the world.
+
+72
+00:09:24.960 --> 00:09:29.510
+Norio Kobota (Sony Group Corporation): It's very useful. But we still have some challenges.
+
+73
+00:09:30.350 --> 00:09:42.800
+Norio Kobota (Sony Group Corporation): And I think, and for Japanese S bombs subgroup we had some many discussions among the Japanese people.
+
+74
+00:09:43.000 --> 00:09:47.280
+Norio Kobota (Sony Group Corporation): and many members say similar situations.
+
+75
+00:09:47.620 --> 00:09:59.509
+Norio Kobota (Sony Group Corporation): So today, I'd like to propose to cater, or pick up some challenges that we still have.
+
+76
+00:10:00.450 --> 00:10:14.229
+Norio Kobota (Sony Group Corporation): So, firstly, I'd like to share our studies, and after that, please comment. Or please let us please share your perspective.
+
+77
+00:10:15.090 --> 00:10:20.170
+Norio Kobota (Sony Group Corporation): Okay, so we I'll start my presentation.
+
+78
+00:10:20.270 --> 00:10:26.329
+Norio Kobota (Sony Group Corporation): I think it, and there's some discussion will be occurred. But I
+
+79
+00:10:26.620 --> 00:10:36.839
+Norio Kobota (Sony Group Corporation): can't. I? I think I can't catch up with native or English speakers discussion. But please proceed the discussion.
+
+80
+00:10:37.590 --> 00:10:50.229
+Norio Kobota (Sony Group Corporation): I will check the recordings and transcripts after the meeting, and I will catch up my discussions and summarize as a meeting notes afterwards.
+
+81
+00:10:50.830 --> 00:10:51.500
+Norio Kobota (Sony Group Corporation): And
+
+82
+00:10:52.330 --> 00:10:53.210
+Norio Kobota (Sony Group Corporation): I'm sorry.
+
+83
+00:10:53.390 --> 00:11:03.250
+Shane Coughlan (The Linux Foundation): Oh, sorry, Kubota San. I was just going to say I'll be here on the line to help as well. So if people ask anything
+
+84
+00:11:03.370 --> 00:11:15.499
+Shane Coughlan (The Linux Foundation): that's difficult to understand for non-native speaker. I'll be here to help catch the question and summarize it for our discussion.
+
+85
+00:11:16.450 --> 00:11:17.260
+Norio Kobota (Sony Group Corporation): Thank you.
+
+86
+00:11:18.240 --> 00:11:20.330
+Norio Kobota (Sony Group Corporation): Okay, let's get started.
+
+87
+00:11:21.170 --> 00:11:30.389
+Norio Kobota (Sony Group Corporation): Okay? And firstly, I think I needed to explain some definitions. And as a background
+
+88
+00:11:32.290 --> 00:11:39.250
+Norio Kobota (Sony Group Corporation): after this slide I use. I will use these icons and keywords.
+
+89
+00:11:39.580 --> 00:11:46.629
+Norio Kobota (Sony Group Corporation): And I think it would be good to express whole world. Whole definitions.
+
+90
+00:11:46.980 --> 00:11:56.650
+Norio Kobota (Sony Group Corporation): 1st one is Spoon Sbom. In this slide, Sbom means software component information itself.
+
+91
+00:11:57.840 --> 00:12:03.519
+Norio Kobota (Sony Group Corporation): Sometimes we discuss about the S bomb. We use S bomb.
+
+92
+00:12:04.000 --> 00:12:17.449
+Norio Kobota (Sony Group Corporation): But someone explained S bomb, especially from the vulnerability or security perspective. Someone use S bomb as a software component information itself.
+
+93
+00:12:17.840 --> 00:12:24.550
+Norio Kobota (Sony Group Corporation): Usually it is populated in the database or some kind of system.
+
+94
+00:12:26.070 --> 00:12:29.590
+Norio Kobota (Sony Group Corporation): And another one is S bomb document.
+
+95
+00:12:29.990 --> 00:12:37.800
+Norio Kobota (Sony Group Corporation): This is this means a file that contains software component information in a specific format
+
+96
+00:12:38.220 --> 00:12:41.290
+Norio Kobota (Sony Group Corporation): such as Spdx or Cyclone Dx.
+
+97
+00:12:42.730 --> 00:12:47.959
+Norio Kobota (Sony Group Corporation): At a next one is public source packages.
+
+98
+00:12:48.890 --> 00:12:52.330
+Norio Kobota (Sony Group Corporation): This means that the source code package.
+
+99
+00:12:52.910 --> 00:12:57.180
+Norio Kobota (Sony Group Corporation): whose source code is publicly available on
+
+100
+00:12:57.780 --> 00:13:00.689
+Norio Kobota (Sony Group Corporation): such as Github or Github, and so on.
+
+101
+00:13:01.740 --> 00:13:05.489
+Norio Kobota (Sony Group Corporation): And another next one is a private source package.
+
+102
+00:13:06.140 --> 00:13:13.570
+Norio Kobota (Sony Group Corporation): This means a source code package that is shared only between 2 or more specific parties
+
+103
+00:13:14.150 --> 00:13:17.420
+Norio Kobota (Sony Group Corporation): and the source code is not publicly available.
+
+104
+00:13:18.960 --> 00:13:23.629
+Norio Kobota (Sony Group Corporation): Now, the other icons are understandable.
+
+105
+00:13:23.740 --> 00:13:27.540
+Norio Kobota (Sony Group Corporation): leading the world and the icons, I think.
+
+106
+00:13:33.230 --> 00:13:41.090
+Norio Kobota (Sony Group Corporation): And this is today's proposal from me and from Japan working group as well.
+
+107
+00:13:43.180 --> 00:13:51.300
+Norio Kobota (Sony Group Corporation): This as from study group, I'd like to discuss, not the quality of the software information itself
+
+108
+00:13:51.630 --> 00:13:55.240
+Norio Kobota (Sony Group Corporation): being managed during that development process.
+
+109
+00:13:55.420 --> 00:14:00.110
+Norio Kobota (Sony Group Corporation): but rather focus on the quality of the Sbom document.
+
+110
+00:14:00.670 --> 00:14:03.150
+Norio Kobota (Sony Group Corporation): I explained previous.
+
+111
+00:14:03.290 --> 00:14:04.240
+Norio Kobota (Sony Group Corporation): That's right.
+
+112
+00:14:04.720 --> 00:14:09.549
+Norio Kobota (Sony Group Corporation): It is exchanged between 2 or more different parties.
+
+113
+00:14:11.650 --> 00:14:19.820
+Norio Kobota (Sony Group Corporation): This means that sometimes spom quality means that I'll explain next slide.
+
+114
+00:14:20.530 --> 00:14:24.500
+Norio Kobota (Sony Group Corporation): And what is a high quality spom document.
+
+115
+00:14:25.360 --> 00:14:32.829
+Norio Kobota (Sony Group Corporation): and interlink provided a description of the high quality s-bone.
+
+116
+00:14:34.640 --> 00:14:38.619
+Norio Kobota (Sony Group Corporation): a high quality ass pump should apply, apply
+
+117
+00:14:38.880 --> 00:14:52.109
+Norio Kobota (Sony Group Corporation): upright support, managing software assets, license information and interact property as well as providing a base for configuration, management, vulnerability, handling and incident response.
+
+118
+00:14:53.000 --> 00:15:01.969
+Norio Kobota (Sony Group Corporation): This means, in short, the quality of the Sbom document depends on whether the Sbom document
+
+119
+00:15:02.150 --> 00:15:12.920
+Norio Kobota (Sony Group Corporation): contains information that uniquely identifies software and license, interactive property and vulnerability information and so on.
+
+120
+00:15:14.570 --> 00:15:23.819
+Norio Kobota (Sony Group Corporation): So I'd like to focus on the quality of the Sbom document in this Sbom study group.
+
+121
+00:15:24.400 --> 00:15:34.619
+Norio Kobota (Sony Group Corporation): So if you have any objection or some opinion, please. Let me know, let us know.
+
+122
+00:15:37.230 --> 00:15:43.790
+Norio Kobota (Sony Group Corporation): Okay, so when we sync the high quality Sbom document.
+
+123
+00:15:45.330 --> 00:15:52.780
+Norio Kobota (Sony Group Corporation): I think we need to break down the source software supply chain from source to binary.
+
+124
+00:15:52.990 --> 00:15:56.000
+Norio Kobota (Sony Group Corporation): the lead sack inside of the lead, sack
+
+125
+00:15:57.170 --> 00:16:03.370
+Norio Kobota (Sony Group Corporation): sars, diagram shows that producer provides a source code package.
+
+126
+00:16:03.870 --> 00:16:10.929
+Norio Kobota (Sony Group Corporation): and I build with some dependencies, and after that generates a binary packages.
+
+127
+00:16:13.940 --> 00:16:16.700
+Norio Kobota (Sony Group Corporation): So in this workflow.
+
+128
+00:16:17.190 --> 00:16:20.150
+Norio Kobota (Sony Group Corporation): I listed all actors.
+
+129
+00:16:22.840 --> 00:16:30.710
+Norio Kobota (Sony Group Corporation): I will not explain everything. But firstly, some parties
+
+130
+00:16:31.430 --> 00:16:43.780
+Norio Kobota (Sony Group Corporation): output public source packages like Oss developers or Oss communities and someone produce private source packages.
+
+131
+00:16:43.980 --> 00:16:48.160
+Norio Kobota (Sony Group Corporation): And this means similar to the proprietary software.
+
+132
+00:16:48.690 --> 00:16:52.330
+Norio Kobota (Sony Group Corporation): and after that someone modify it
+
+133
+00:16:52.470 --> 00:16:57.939
+Norio Kobota (Sony Group Corporation): and provide modified source code packages to another parties
+
+134
+00:16:58.800 --> 00:17:09.204
+Norio Kobota (Sony Group Corporation): and someone uses a public software or a private software kind of provide. And some
+
+135
+00:17:11.089 --> 00:17:13.480
+Norio Kobota (Sony Group Corporation): packages to another parties.
+
+136
+00:17:14.450 --> 00:17:23.920
+Norio Kobota (Sony Group Corporation): And this in these operations. There are no requirement to provide the Cibel.
+
+137
+00:17:24.740 --> 00:17:33.079
+Norio Kobota (Sony Group Corporation): I think it's of course it is useful, somewhat useful, to provide the S bomb with source code packages.
+
+138
+00:17:33.430 --> 00:17:43.130
+Norio Kobota (Sony Group Corporation): but it's not required, and we can investigate some information software information with the software source code packages.
+
+139
+00:17:44.640 --> 00:17:53.307
+Norio Kobota (Sony Group Corporation): On the other hand, source will be built in binary format in such case
+
+140
+00:17:54.240 --> 00:17:59.889
+Norio Kobota (Sony Group Corporation): some binary packages are provided with Sbom document.
+
+141
+00:18:00.820 --> 00:18:12.070
+Norio Kobota (Sony Group Corporation): and as someone aggregate binary packages into some distribution distribution with many spom documents.
+
+142
+00:18:15.350 --> 00:18:18.970
+Norio Kobota (Sony Group Corporation): And this is a example on
+
+143
+00:18:19.320 --> 00:18:23.580
+Norio Kobota (Sony Group Corporation): for the development chain for public source packages.
+
+144
+00:18:23.850 --> 00:18:30.759
+Norio Kobota (Sony Group Corporation): Someone this is very small icons. So please let check later.
+
+145
+00:18:30.950 --> 00:18:37.659
+Norio Kobota (Sony Group Corporation): But someone produced public source code packages and someone modify it.
+
+146
+00:18:37.940 --> 00:18:45.570
+Norio Kobota (Sony Group Corporation): After that, someone build it with and provides a binary back cases with S bomb document.
+
+147
+00:18:46.320 --> 00:18:58.979
+Norio Kobota (Sony Group Corporation): And someone just as a source code packages and aggregate source code packages. And someone built in a 1. Binary packages
+
+148
+00:18:59.850 --> 00:19:10.329
+Norio Kobota (Sony Group Corporation): after that binary package is aggregated and the cassibly used used build a process the cassibly.
+
+149
+00:19:11.060 --> 00:19:15.969
+Norio Kobota (Sony Group Corporation): This is an example of a development chain for public source packages.
+
+150
+00:19:18.440 --> 00:19:22.460
+Norio Kobota (Sony Group Corporation): and this is a simplified oss package distributor.
+
+151
+00:19:23.490 --> 00:19:35.130
+Norio Kobota (Sony Group Corporation): So someone well, it's same someone build into binary packages and aggregate some back binary packages and build it with
+
+152
+00:19:36.100 --> 00:19:40.649
+Norio Kobota (Sony Group Corporation): other public source code packages with some dependencies.
+
+153
+00:19:41.040 --> 00:19:49.329
+Norio Kobota (Sony Group Corporation): Finally, some open source software package distributor provide many binary packages with Spo document.
+
+154
+00:19:52.010 --> 00:19:55.719
+Norio Kobota (Sony Group Corporation): and this is a proprietary application creator.
+
+155
+00:19:57.360 --> 00:20:05.390
+Norio Kobota (Sony Group Corporation): In many cases, propriety, application, creator, create their own private source packages.
+
+156
+00:20:05.780 --> 00:20:18.539
+Norio Kobota (Sony Group Corporation): And it's many cases. In many cases it depends on many open source public software packages in the dependency with many dependencies.
+
+157
+00:20:19.290 --> 00:20:26.359
+Norio Kobota (Sony Group Corporation): and they finally build and provides a binary packages with S form document
+
+158
+00:20:28.070 --> 00:20:35.089
+Norio Kobota (Sony Group Corporation): in this case, Oss. Package dispute distributor will provide some spom document
+
+159
+00:20:35.610 --> 00:20:44.820
+Norio Kobota (Sony Group Corporation): and a propriety application. Creator matches S bomb document into their own S bomb document.
+
+160
+00:20:46.480 --> 00:20:51.820
+Norio Kobota (Sony Group Corporation): In this case we face some challenges.
+
+161
+00:20:52.260 --> 00:20:54.660
+Norio Kobota (Sony Group Corporation): And this is one example.
+
+162
+00:20:55.760 --> 00:21:00.890
+Norio Kobota (Sony Group Corporation): We face one challenge identity program.
+
+163
+00:21:02.510 --> 00:21:16.549
+Norio Kobota (Sony Group Corporation): open source, public software distributors use different names, open source software use different names and versions in many cases, and are making it difficult to identify the same packages.
+
+164
+00:21:17.160 --> 00:21:27.769
+Norio Kobota (Sony Group Corporation): This means that, for example, letterhead provides legacy packages and ubuntu provide the same legacy packages.
+
+165
+00:21:28.190 --> 00:21:37.279
+Norio Kobota (Sony Group Corporation): but the package, name and versions are written in the defined format in the Espo.
+
+166
+00:21:38.020 --> 00:21:47.890
+Norio Kobota (Sony Group Corporation): so it is a little difficult to find out same packages from only with S. Bones
+
+167
+00:21:48.030 --> 00:21:49.580
+Norio Kobota (Sony Group Corporation): as bomb document.
+
+168
+00:21:50.390 --> 00:22:00.579
+Norio Kobota (Sony Group Corporation): So in this case there is one possibility to use a purl or a software, hedge, id, and so on.
+
+169
+00:22:01.500 --> 00:22:07.050
+Norio Kobota (Sony Group Corporation): This is a simple questions and challenges, and the next one
+
+170
+00:22:07.160 --> 00:22:21.210
+Norio Kobota (Sony Group Corporation): is a proprieties. It is the same example, proprietary application Creator. But this application Creator, receive also proprietary library distributor.
+
+171
+00:22:22.790 --> 00:22:33.359
+Norio Kobota (Sony Group Corporation): propriety. If the proprietary library distributor created a propriety library with many open source software packages.
+
+172
+00:22:34.200 --> 00:22:39.830
+Norio Kobota (Sony Group Corporation): they provide the S-bomb document to the application Creator.
+
+173
+00:22:40.810 --> 00:22:41.770
+Norio Kobota (Sony Group Corporation): But
+
+174
+00:22:42.110 --> 00:22:51.590
+Norio Kobota (Sony Group Corporation): as far as I know, there is no rules or no format to describe the private source package information.
+
+175
+00:22:52.200 --> 00:22:56.149
+Norio Kobota (Sony Group Corporation): This is one big challenge. I think.
+
+176
+00:22:57.430 --> 00:23:00.559
+Norio Kobota (Sony Group Corporation): So. This is a definition program.
+
+177
+00:23:00.780 --> 00:23:06.200
+Norio Kobota (Sony Group Corporation): What should we view the private package information in Spom document?
+
+178
+00:23:06.700 --> 00:23:14.240
+Norio Kobota (Sony Group Corporation): There are no, there are no 3rd package 3rd party, verifiable package name and Belgium
+
+179
+00:23:14.380 --> 00:23:22.210
+Norio Kobota (Sony Group Corporation): and the the proprietary software don't have Prl or software heritage. Id.
+
+180
+00:23:22.470 --> 00:23:24.129
+Norio Kobota (Sony Group Corporation): This is a challenge.
+
+181
+00:23:26.170 --> 00:23:37.780
+Norio Kobota (Sony Group Corporation): This is an example. So I'd like to propose the listing the challenges in the Github discussions
+
+182
+00:23:38.680 --> 00:23:45.250
+Norio Kobota (Sony Group Corporation): and share your challenges in spom document challenges category.
+
+183
+00:23:45.680 --> 00:23:52.829
+Norio Kobota (Sony Group Corporation): And after that later challenges. If you have similar challenges and share your solution idea in the thread.
+
+184
+00:23:54.070 --> 00:24:03.079
+Norio Kobota (Sony Group Corporation): And I created as Github discussions in the S bomb study group Github Repository.
+
+185
+00:24:03.230 --> 00:24:05.560
+Norio Kobota (Sony Group Corporation): Hello! This is a sample challenge.
+
+186
+00:24:07.850 --> 00:24:19.137
+Norio Kobota (Sony Group Corporation): This example is, I've already explained, proprietary application. Creator achieves a proprietary library distributor in this case.
+
+187
+00:24:20.100 --> 00:24:26.119
+Norio Kobota (Sony Group Corporation): what should we? This is a challenges and share the solution idea.
+
+188
+00:24:26.310 --> 00:24:34.650
+Norio Kobota (Sony Group Corporation): provide the following information for all included software, public software and private software with spom document.
+
+189
+00:24:35.320 --> 00:24:46.289
+Norio Kobota (Sony Group Corporation): And in this case we should provide fields, and we should define fields and value or public software component
+
+190
+00:24:47.530 --> 00:24:50.620
+Norio Kobota (Sony Group Corporation): light like upper side.
+
+191
+00:24:51.780 --> 00:24:55.830
+Norio Kobota (Sony Group Corporation): We should provide we expect
+
+192
+00:24:55.930 --> 00:25:00.410
+Norio Kobota (Sony Group Corporation): it is very useful to identify the software packages.
+
+193
+00:25:00.730 --> 00:25:06.459
+Norio Kobota (Sony Group Corporation): Unique id, it means purl or software heritage Id, and so on.
+
+194
+00:25:07.230 --> 00:25:12.360
+Norio Kobota (Sony Group Corporation): The public software has Prl or software heritage Id, I think.
+
+195
+00:25:12.830 --> 00:25:22.170
+Norio Kobota (Sony Group Corporation): and a package name should be the provided public software distributor and version is also provided public software distributor
+
+196
+00:25:22.660 --> 00:25:30.469
+Norio Kobota (Sony Group Corporation): and the dependencies at the ideal, providing a delivery item or a complete item
+
+197
+00:25:31.000 --> 00:25:36.809
+Norio Kobota (Sony Group Corporation): defined in the BSI tr. 0, 3, 1, 8, 3 document
+
+198
+00:25:37.710 --> 00:25:49.339
+Norio Kobota (Sony Group Corporation): and a timestamp is when the binary package was built and a component hash is a actual binary. Package is hash value of the binary package.
+
+199
+00:25:49.690 --> 00:25:58.240
+Norio Kobota (Sony Group Corporation): and the license information is provided should be provided, declared, and concluded with the Spdx short identifier.
+
+200
+00:25:58.710 --> 00:26:04.350
+Norio Kobota (Sony Group Corporation): On the other hand, it's recommended to provide the contact information.
+
+201
+00:26:05.540 --> 00:26:11.419
+Norio Kobota (Sony Group Corporation): This is a little ambiguous, as every guideline or definitions.
+
+202
+00:26:12.053 --> 00:26:12.486
+Norio Kobota (Sony Group Corporation): But
+
+203
+00:26:13.360 --> 00:26:21.220
+Norio Kobota (Sony Group Corporation): Public software has some separate some open source software originator information.
+
+204
+00:26:21.380 --> 00:26:31.020
+Norio Kobota (Sony Group Corporation): But we need this in this case we need a supplier information and also
+
+205
+00:26:31.580 --> 00:26:38.969
+Norio Kobota (Sony Group Corporation): builder configuration should be is recommended to provide in the Sbop document.
+
+206
+00:26:39.980 --> 00:26:46.179
+Norio Kobota (Sony Group Corporation): on the other hand, for private software required. Items are like this
+
+207
+00:26:46.470 --> 00:26:51.310
+Norio Kobota (Sony Group Corporation): unique Id is not private software doesn't have a
+
+208
+00:26:51.500 --> 00:26:58.270
+Norio Kobota (Sony Group Corporation): Prl or software heritage. Id. So any unique id defined by the supplier
+
+209
+00:26:58.440 --> 00:27:02.960
+Norio Kobota (Sony Group Corporation): and package name and budget also defined by the supplier.
+
+210
+00:27:03.710 --> 00:27:15.590
+Norio Kobota (Sony Group Corporation): But we need a contact information, actual contact information from the supplier for the Supplier. So company, name or email address, and so on, is required
+
+211
+00:27:16.230 --> 00:27:18.019
+Norio Kobota (Sony Group Corporation): and the dependencies.
+
+212
+00:27:18.770 --> 00:27:25.850
+Norio Kobota (Sony Group Corporation): Private software has many dependencies. But it is difficult to describe.
+
+213
+00:27:26.330 --> 00:27:31.059
+Norio Kobota (Sony Group Corporation): That's delivery item or complete item.
+
+214
+00:27:31.450 --> 00:27:39.550
+Norio Kobota (Sony Group Corporation): And the delivery item on the complete item, dependence is provided in the public software as Com.
+
+215
+00:27:39.820 --> 00:27:45.889
+Norio Kobota (Sony Group Corporation): So we need only top level dependencies for the private software.
+
+216
+00:27:47.600 --> 00:27:58.349
+Norio Kobota (Sony Group Corporation): And this is my opinion, it's enough to provide that top level, and a timestamp and a component hash is also provide should be provided.
+
+217
+00:27:58.700 --> 00:28:02.829
+Norio Kobota (Sony Group Corporation): and the license information is a difficult. So
+
+218
+00:28:03.220 --> 00:28:06.619
+Norio Kobota (Sony Group Corporation): proprietary is one option, I think.
+
+219
+00:28:07.220 --> 00:28:24.809
+Norio Kobota (Sony Group Corporation): and also sometimes the proprietary software provider can't reveal or can't disclose a build of configuration so on. But we should. It is recommended to provide such information.
+
+220
+00:28:25.810 --> 00:28:31.450
+Norio Kobota (Sony Group Corporation): This is a sample of the creating the challenges and solution idea.
+
+221
+00:28:32.470 --> 00:28:40.870
+Norio Kobota (Sony Group Corporation): And I create your challenge is freely in this. Keep up discussions
+
+222
+00:28:41.040 --> 00:28:51.099
+Norio Kobota (Sony Group Corporation): and continue to discussions and share your idea for solutions, solved challenges, and so on.
+
+223
+00:28:52.050 --> 00:28:59.910
+Norio Kobota (Sony Group Corporation): And once we conclude, or we can agree to the solution.
+
+224
+00:29:00.340 --> 00:29:08.969
+Norio Kobota (Sony Group Corporation): It's a 1 indicator for the Sbom document quality. I think
+
+225
+00:29:10.110 --> 00:29:15.600
+Norio Kobota (Sony Group Corporation): so. I'd like to propose all over you to
+
+226
+00:29:16.720 --> 00:29:22.070
+Norio Kobota (Sony Group Corporation): create the your share your challenges in the Github discussions.
+
+227
+00:29:22.740 --> 00:29:25.510
+Norio Kobota (Sony Group Corporation): This is today's my proposal.
+
+228
+00:29:30.080 --> 00:29:33.546
+Norio Kobota (Sony Group Corporation): Okay, at this moment, at
+
+229
+00:29:34.290 --> 00:29:41.249
+Norio Kobota (Sony Group Corporation): this is all from my side, so please share your idea or your opinion.
+
+230
+00:29:42.160 --> 00:29:46.860
+Shane Coughlan (The Linux Foundation): I see we have 2 comments so far in the chat
+
+231
+00:29:47.150 --> 00:29:59.439
+Shane Coughlan (The Linux Foundation): now. Everyone, of course, can also unmute themselves. Anthony had a comment that purl is already looking at how to include
+
+232
+00:29:59.610 --> 00:30:07.110
+Shane Coughlan (The Linux Foundation): private or proprietary software. So this is a comment from Anthony.
+
+233
+00:30:07.420 --> 00:30:15.140
+Shane Coughlan (The Linux Foundation): I'm not sure if Anthony, you want to give us just a little bit more background on that, so that we can
+
+234
+00:30:16.460 --> 00:30:17.970
+Shane Coughlan (The Linux Foundation): explore the topic.
+
+235
+00:30:18.340 --> 00:30:20.670
+Shane Coughlan (The Linux Foundation): You can unmute yourself if you want.
+
+236
+00:30:22.000 --> 00:30:23.610
+Anthony Harrison (Not Applicable): Hello! Hello! Can you hear me?
+
+237
+00:30:23.830 --> 00:30:24.670
+Shane Coughlan (The Linux Foundation): Yes.
+
+238
+00:30:24.670 --> 00:30:25.489
+Anthony Harrison (Not Applicable): Name it.
+
+239
+00:30:26.060 --> 00:30:26.610
+Shane Coughlan (The Linux Foundation): Yes, we can hear.
+
+240
+00:30:26.610 --> 00:30:34.855
+Anthony Harrison (Not Applicable): And okay. So pearl is the old at the open source, ecosystems and
+
+241
+00:30:37.160 --> 00:30:46.120
+Anthony Harrison (Not Applicable): the challenge you have is proprietary software, which is currently the things like the national publicity database. Mvd have Cpe
+
+242
+00:30:47.110 --> 00:30:50.819
+Anthony Harrison (Not Applicable): where you have like a vendor and the product name.
+
+243
+00:30:51.250 --> 00:30:55.379
+Anthony Harrison (Not Applicable): And if you because Cpe is
+
+244
+00:30:55.510 --> 00:30:59.630
+Anthony Harrison (Not Applicable): not maintain, not be well maintained, and then managed.
+
+245
+00:31:00.090 --> 00:31:03.690
+Anthony Harrison (Not Applicable): need to come up with a way of having
+
+246
+00:31:04.080 --> 00:31:07.230
+Anthony Harrison (Not Applicable): a good way of managing propriety. Software
+
+247
+00:31:07.370 --> 00:31:10.730
+Anthony Harrison (Not Applicable): that is managed by the proprietary software producer.
+
+248
+00:31:12.680 --> 00:31:19.501
+Anthony Harrison (Not Applicable): I'm not 100% certain where it's getting to. But I know they've been looking at, maybe using
+
+249
+00:31:20.100 --> 00:31:24.910
+Anthony Harrison (Not Applicable): a different namespace, maybe a squid namespace.
+
+250
+00:31:25.750 --> 00:31:31.780
+Anthony Harrison (Not Applicable): because I think a lot of proprietary software has a software id identifier
+
+251
+00:31:33.770 --> 00:31:45.280
+Anthony Harrison (Not Applicable): or it might be using a Dns, you know, like a you know microsoft.com as a as a name, and then you see my Microsoft com slash windows slash 11 or whatever
+
+252
+00:31:46.809 --> 00:31:52.240
+Anthony Harrison (Not Applicable): I mean post them next week in Brussels. I will have a discussion with the
+
+253
+00:31:52.850 --> 00:31:55.219
+Anthony Harrison (Not Applicable): some of the people who are looking at Pearl
+
+254
+00:31:55.654 --> 00:32:02.760
+Anthony Harrison (Not Applicable): so I might know a little bit more about what they are. But I know proprietary software is still is very much on their horizon.
+
+255
+00:32:02.920 --> 00:32:05.520
+Anthony Harrison (Not Applicable): because they would like to come up with a single
+
+256
+00:32:05.800 --> 00:32:09.920
+Anthony Harrison (Not Applicable): standard that addresses proprietary and open source software.
+
+257
+00:32:12.340 --> 00:32:18.529
+Shane Coughlan (The Linux Foundation): Thank you very much, Anthony. That's some useful background, and it would be deeply appreciated.
+
+258
+00:32:19.119 --> 00:32:26.419
+Shane Coughlan (The Linux Foundation): Once, you, you know, have some more information from the upcoming meetings. If you could
+
+259
+00:32:26.570 --> 00:32:31.539
+Shane Coughlan (The Linux Foundation): update us on the mailing list to help guide the discussion into the next month.
+
+260
+00:32:33.946 --> 00:32:37.670
+Anthony Harrison (Not Applicable): Yeah, we'll try and do that. Yeah, there's a lot happening. But yeah.
+
+261
+00:32:38.110 --> 00:32:46.509
+Shane Coughlan (The Linux Foundation): That's absolutely fantastic. You're you know. It's it's really good to have you connect us with that information.
+
+262
+00:32:50.400 --> 00:33:01.379
+Shane Coughlan (The Linux Foundation): We also have a comment from Yari Yari just noted that package hash should come from the distributor, too. So it's it's a comment from Yari.
+
+263
+00:33:04.919 --> 00:33:08.690
+Shane Coughlan (The Linux Foundation): Everyone else. The floor is open. If you want.
+
+264
+00:33:09.550 --> 00:33:18.600
+Shane Coughlan (The Linux Foundation): If you want to unmute, you're very welcome to share ideas and comments, as Kubota-san said, based on his presentation.
+
+265
+00:33:20.410 --> 00:33:22.150
+Anthony Harrison (Not Applicable): Can I? Can I come in again?
+
+266
+00:33:23.100 --> 00:33:23.810
+Shane Coughlan (The Linux Foundation): Of course.
+
+267
+00:33:26.340 --> 00:33:30.699
+Anthony Harrison (Not Applicable): I don't think we need to make any difference between proprietary and
+
+268
+00:33:31.876 --> 00:33:37.579
+Anthony Harrison (Not Applicable): open source software. I think we need all software to be the same considered the same.
+
+269
+00:33:38.110 --> 00:33:49.930
+Anthony Harrison (Not Applicable): Add, I know there's a there's a little bit of concern about contractual information being shared, I think
+
+270
+00:33:50.070 --> 00:33:57.739
+Anthony Harrison (Not Applicable): you know. So that said, we look to. So you know, people leave revealing, you know, sensitive information.
+
+271
+00:33:58.620 --> 00:34:03.120
+Anthony Harrison (Not Applicable): But I think that can be handled outside. You know.
+
+272
+00:34:03.240 --> 00:34:08.270
+Anthony Harrison (Not Applicable): document that can help that can be handled by a legal contract.
+
+273
+00:34:08.489 --> 00:34:14.020
+Anthony Harrison (Not Applicable): I think we should be having a document that has the information which supports transparency.
+
+274
+00:34:14.230 --> 00:34:23.280
+Anthony Harrison (Not Applicable): and then how that document is shared is a separate separate discussion issue.
+
+275
+00:34:23.610 --> 00:34:31.079
+Anthony Harrison (Not Applicable): So when you started the discussion about focusing on the sharing of the document.
+
+276
+00:34:31.639 --> 00:34:34.809
+Anthony Harrison (Not Applicable): I was wondering what you were thinking about
+
+277
+00:34:36.370 --> 00:34:38.290
+Anthony Harrison (Not Applicable): where that was going to go.
+
+278
+00:34:39.730 --> 00:34:40.949
+Anthony Harrison (Not Applicable): Didn't see.
+
+279
+00:34:41.400 --> 00:34:44.340
+Anthony Harrison (Not Applicable): Are we looking to say that we? We want to share
+
+280
+00:34:44.610 --> 00:34:56.320
+Anthony Harrison (Not Applicable): document with 2 people different, you know a different set of parties. We may have different ways different bits of information about the shared with party. A. Different to party. B.
+
+281
+00:34:58.110 --> 00:35:06.230
+Anthony Harrison (Not Applicable): What's your what's your thoughts or do? My personal view is, we have the same document for everybody, but I don't know whether there's any what what people think about that.
+
+282
+00:35:11.820 --> 00:35:14.880
+Marcel Kurzmann (Bosch): I raised my hand. Can I directly jump in?
+
+283
+00:35:15.740 --> 00:35:16.639
+Marcel Kurzmann (Bosch): Can you hear me.
+
+284
+00:35:16.640 --> 00:35:18.473
+Shane Coughlan (The Linux Foundation): Yes, we can hear you.
+
+285
+00:35:18.840 --> 00:35:21.220
+Shane Coughlan (The Linux Foundation): Doesn't, says No, yes, you can.
+
+286
+00:35:21.690 --> 00:35:37.989
+Marcel Kurzmann (Bosch): Okay, thank you. So yes and no. I would say, what you say. So yes, from this what you said about contracts. So that, yeah, potentially well, this is
+
+287
+00:35:38.110 --> 00:35:47.320
+Marcel Kurzmann (Bosch): information that is typically not shared because it's also the contractual situation. Also, from what you said that we should have the same structure in the document.
+
+288
+00:35:47.360 --> 00:36:11.549
+Marcel Kurzmann (Bosch): I think that we do not distinguish between proprietary and and public there. As as a envelope, more or less I would also agree. But there is one aspect, and therefore I also like the this setup you showed now here with the challenges. Because here I think we need to distinguish especially what we observe
+
+289
+00:36:11.710 --> 00:36:34.529
+Marcel Kurzmann (Bosch): for public software. Obviously, we also have public sources for vulnerabilities. For example, right? But for proprietary software there are cases where the supplier only shares the vulnerability information obviously only with his customers or his users, and and that is not made public. There may be also cases in between.
+
+290
+00:36:34.650 --> 00:36:46.599
+Marcel Kurzmann (Bosch): but in in that case I think it would be necessary also to distinguish between public information and and and proprietary information at that point. Yeah.
+
+291
+00:36:47.070 --> 00:36:59.190
+Marcel Kurzmann (Bosch): So, as I said, yes and no and also what we we observed the same thing here, and what we did is we
+
+292
+00:36:59.763 --> 00:37:27.970
+Marcel Kurzmann (Bosch): we tried to also distinguish not only the S bomb from that direction or this disclosure documents from that direction of is it. Now a source. S bomb, build, s bomb, whatever S bomb like. I think it was an anti Ioc definition, but we try to distinguish it from exactly what you just mentioned with this, what is the overall information that we have
+
+293
+00:37:28.410 --> 00:37:29.610
+Marcel Kurzmann (Bosch): ourselves.
+
+294
+00:37:29.750 --> 00:37:41.530
+Marcel Kurzmann (Bosch): and what is what we share? Right? Because there might be an difference right the the information that we collect and and manage and things that we we share.
+
+295
+00:37:41.680 --> 00:38:05.919
+Marcel Kurzmann (Bosch): for example, only in business to business cases. If there's a contractual agreement. Or finally, then, to the end user, because to the end user from the open source license perspective, typically you only need to fulfill obligations. Right? So. And you don't need to proactively do things so that might be a a real
+
+296
+00:38:06.040 --> 00:38:18.709
+Marcel Kurzmann (Bosch): minimal subset of what you really have as an information and also from security perspective that might also be counterproductive. If you share too much right to to open them as a attack, vector something like that.
+
+297
+00:38:21.150 --> 00:38:28.939
+Marcel Kurzmann (Bosch): And therefore we we tried to have also this other dimension of, Okay, this is everything we have.
+
+298
+00:38:29.503 --> 00:38:34.580
+Marcel Kurzmann (Bosch): And these are the portions that we share with specific target groups.
+
+299
+00:38:41.620 --> 00:38:43.150
+Shane Coughlan (The Linux Foundation): Thank you, Marcel.
+
+300
+00:38:44.440 --> 00:38:47.970
+Shane Coughlan (The Linux Foundation): Does anyone else have any comments on this topic?
+
+301
+00:39:01.540 --> 00:39:02.900
+Anthony Harrison (Not Applicable): Enlightened people.
+
+302
+00:39:03.370 --> 00:39:05.290
+Shane Coughlan (The Linux Foundation): Oh, sorry, Tony, over to you.
+
+303
+00:39:08.300 --> 00:39:11.670
+Anthony Harrison (Not Applicable): I thought I thought the the Sdbs
+
+304
+00:39:12.185 --> 00:39:18.040
+Anthony Harrison (Not Applicable): allowed you to define your own user defined licenses, and that could for me is a propriety license.
+
+305
+00:39:21.150 --> 00:39:21.850
+Anthony Harrison (Not Applicable): So
+
+306
+00:39:22.810 --> 00:39:29.989
+Anthony Harrison (Not Applicable): yes, and it would be, you know. It would be nice if you could have that as a little as a as a tag to save users.
+
+307
+00:39:30.360 --> 00:39:32.680
+Anthony Harrison (Not Applicable): This is proprietary or commercial.
+
+308
+00:39:33.283 --> 00:39:40.159
+Anthony Harrison (Not Applicable): But I think I don't think that's a big challenge to to make that. I'm sure that could be accommodated.
+
+309
+00:39:40.921 --> 00:39:43.180
+Anthony Harrison (Not Applicable): In the existing guest. Pub
+
+310
+00:39:44.277 --> 00:39:49.860
+Anthony Harrison (Not Applicable): documents. So I don't see the licensing being particularly challenging.
+
+311
+00:39:50.553 --> 00:39:52.669
+Anthony Harrison (Not Applicable): I certainly I'm aware of
+
+312
+00:39:54.070 --> 00:39:59.290
+Anthony Harrison (Not Applicable): a number of estrom tools that you know do support commercial licenses.
+
+313
+00:40:00.130 --> 00:40:09.929
+Anthony Harrison (Not Applicable): So we can flag those up when they do, you know, do scanning of software. So that must be, mustn't be too difficult to accommodate.
+
+314
+00:40:12.280 --> 00:40:30.069
+Norio Kobota (Sony Group Corporation): Yes, sorry wrong. Yes, this is just an example. So that's when you say it's it is a challenge. So I'd like to propose, create the challenges in at here.
+
+315
+00:40:30.180 --> 00:40:36.852
+Norio Kobota (Sony Group Corporation): And we discuss, continue to discuss on this, get to have discussions. And if
+
+316
+00:40:37.680 --> 00:40:47.760
+Norio Kobota (Sony Group Corporation): we explore the practical solutions, or what Leshiba or
+
+317
+00:40:48.745 --> 00:40:52.620
+Norio Kobota (Sony Group Corporation): implementer needed. What information needed.
+
+318
+00:40:55.070 --> 00:41:02.680
+Norio Kobota (Sony Group Corporation): Today's my proposal is share these challenges.
+
+319
+00:41:04.720 --> 00:41:13.240
+Norio Kobota (Sony Group Corporation): So I'd like to ask or for you to share your challenges. Adhere.
+
+320
+00:41:14.800 --> 00:41:19.010
+Norio Kobota (Sony Group Corporation): So it's okay. One. I'm not sure.
+
+321
+00:41:26.680 --> 00:41:40.250
+Shane Coughlan (The Linux Foundation): So in this case, Kubota sen. I understand, then, that you'd welcome just an open and informal discussion about the challenges. And on this Github
+
+322
+00:41:40.740 --> 00:41:47.930
+Shane Coughlan (The Linux Foundation): document. We can just add it directly. Could you put the link into the chat so that we have it.
+
+323
+00:41:48.530 --> 00:41:49.260
+Norio Kobota (Sony Group Corporation): Okay.
+
+324
+00:41:55.330 --> 00:42:04.279
+Shane Coughlan (The Linux Foundation): Fantastic. And and for those of you who are new, because we have a lot of people dialing in. And I'm sure a lot of people watching the recording.
+
+325
+00:42:06.580 --> 00:42:10.980
+Shane Coughlan (The Linux Foundation): Kobodistan is very literal when he says, you know.
+
+326
+00:42:11.120 --> 00:42:19.189
+Shane Coughlan (The Linux Foundation): add your challenges, your notes, your thoughts, open chains. Whole way of acting is that we? We just do this.
+
+327
+00:42:21.340 --> 00:42:25.410
+Shane Coughlan (The Linux Foundation): So, Komodo-san, you have a sample challenge there. I see.
+
+328
+00:42:25.970 --> 00:42:27.000
+Norio Kobota (Sony Group Corporation): Yes.
+
+329
+00:42:27.280 --> 00:42:38.844
+Norio Kobota (Sony Group Corporation): this is just a sample, and I already locked this this. This is just a example. So I already logged. But
+
+330
+00:42:39.480 --> 00:42:45.789
+Norio Kobota (Sony Group Corporation): welcome to the new challenges. And we we'd like to
+
+331
+00:42:46.490 --> 00:42:51.140
+Norio Kobota (Sony Group Corporation): exchange a discussion on this Github discussions.
+
+332
+00:42:52.120 --> 00:42:57.119
+Norio Kobota (Sony Group Corporation): The background is many Japanese today. Many Japanese
+
+333
+00:42:58.380 --> 00:43:01.288
+Norio Kobota (Sony Group Corporation): kindly join these meetings, and
+
+334
+00:43:02.310 --> 00:43:11.120
+Norio Kobota (Sony Group Corporation): of course, including me. I'm not good at English Discussion Directory.
+
+335
+00:43:11.500 --> 00:43:17.270
+Norio Kobota (Sony Group Corporation): So it's somewhat useful to discuss on the online.
+
+336
+00:43:17.680 --> 00:43:40.539
+Norio Kobota (Sony Group Corporation): And of course, these are there are free format to describe the your thoughts. So it is very beneficial. And these discussions are stored in the Github on the Github, so we can live afterwards. Before after the discussion is closed, and so on.
+
+337
+00:43:40.860 --> 00:43:45.059
+Norio Kobota (Sony Group Corporation): It is very transparent, transparent. I think
+
+338
+00:43:46.010 --> 00:43:55.879
+Norio Kobota (Sony Group Corporation): so today, I'd like to propose to using this Github discussions for exchange the challenges and solution ideas.
+
+339
+00:43:59.209 --> 00:44:04.400
+Marcel Kurzmann (Bosch): You showed earlier this the, this overview of symbols that you're using?
+
+340
+00:44:05.148 --> 00:44:11.569
+Marcel Kurzmann (Bosch): Could you show this again? Is there also a symbol for metadata repositories or databases.
+
+341
+00:44:11.990 --> 00:44:24.649
+Marcel Kurzmann (Bosch): because I think that would be helpful also to put that into the picture. To say, Is it, is it a is, are there public meta databases available? Be it licenses, vulnerabilities, you name it.
+
+342
+00:44:24.890 --> 00:44:47.329
+Marcel Kurzmann (Bosch): And if you have local ones like, we just had this discussion. Obviously your proprietary contracts you would not share publicly. But you would have this locally, because I think from from this sharing of data and availability of data publicly and and locally, I think there also arise a lot of challenges. With that.
+
+343
+00:45:07.300 --> 00:45:25.359
+Shane Coughlan (The Linux Foundation): Marcel, I have a follow-up question about the challenges just for illustration purposes. Could you perhaps give an example of the type of challenges? And this is for the people who might be new to the whole Sbom topic, and are just coming up to speed.
+
+344
+00:45:27.240 --> 00:45:30.930
+Marcel Kurzmann (Bosch): Yeah. So if I look at this sample challenge, yeah.
+
+345
+00:45:31.060 --> 00:45:43.540
+Marcel Kurzmann (Bosch): So the question there is, what should we fill? Should we fill the private package information in S bomb document no 3rd party, verifiable package name version, and know what Perl and so.
+
+346
+00:45:44.400 --> 00:46:04.170
+Marcel Kurzmann (Bosch): coming back to this example, for example, with the vulnerabilities. Right? You have a public vulnerability database, or you have a vendor where you buy this vulnerability information from. And there's exactly where it's important that we use the same identifier, for example, Perl.
+
+347
+00:46:04.780 --> 00:46:24.899
+Marcel Kurzmann (Bosch): all through the whole supply chain. Right? So if the action 2 uses a different identifier than action, 18. And they all want to check from the spom. Okay, is there any entry in the meta database in this case? Vulnerability database? And yeah, either you have a
+
+348
+00:46:25.468 --> 00:46:50.180
+Marcel Kurzmann (Bosch): a public database that has all potential identifiers for the same component. Or and that would be ideal if we all use the same identifiers so for open source packages, I think that is something that we could reach. And I think with pro, we already or a software heritage hash, id, we're really on a good, a good way. But what about all those
+
+349
+00:46:51.960 --> 00:47:03.399
+Marcel Kurzmann (Bosch): private in brackets? Slash proprietary things right? Because if I hand over some library that is proprietary through the supply chain
+
+350
+00:47:03.923 --> 00:47:11.589
+Marcel Kurzmann (Bosch): and there's an availability so and and for me locally, I provided, or I created such an id for that.
+
+351
+00:47:12.149 --> 00:47:30.129
+Marcel Kurzmann (Bosch): I feedback to the supplier, and then he would then also publish this vulnerability to all his users. So all those other users would 1st need to search for this component because they are not using the same identify
+
+352
+00:47:31.310 --> 00:47:32.499
+Marcel Kurzmann (Bosch): as an example.
+
+353
+00:47:32.690 --> 00:47:45.122
+Marcel Kurzmann (Bosch): So this is a challenge right? Of how? How do we identify all through the supply chain the components? Not for the public ones. As I said, I think they're in a good way. But I think here.
+
+354
+00:47:45.650 --> 00:47:50.030
+Marcel Kurzmann (Bosch): it's it's a challenge to handle. Then also the
+
+355
+00:47:50.270 --> 00:47:53.659
+Marcel Kurzmann (Bosch): the propriety parts that are typically hidden away from the public.
+
+356
+00:47:58.170 --> 00:48:10.830
+Norio Kobota (Sony Group Corporation): And I remember, that represents proprietary software in near future. So
+
+357
+00:48:11.860 --> 00:48:20.209
+Norio Kobota (Sony Group Corporation): are there any chance to specify the specific proprietary packages by using the Prl.
+
+358
+00:48:27.540 --> 00:48:30.639
+Norio Kobota (Sony Group Corporation): Oh, sorry! Anthony has already left.
+
+359
+00:48:31.660 --> 00:48:32.510
+Shane Coughlan (The Linux Foundation): Yeah.
+
+360
+00:48:32.510 --> 00:48:33.630
+Marcel Kurzmann (Bosch): Then I try.
+
+361
+00:48:33.630 --> 00:48:34.009
+Shane Coughlan (The Linux Foundation): I took it.
+
+362
+00:48:34.010 --> 00:49:02.649
+Marcel Kurzmann (Bosch): My 2 cents it depends who is creating the initial Prl, right? Because you can use Prl as as a format for the identifier. But you. If if you use the same library, then we use it. So we internally could create a purel for this component, and you could create one, it would be the same component. It would both in both cases have a purel, but would not be the same.
+
+363
+00:49:03.090 --> 00:49:05.100
+Norio Kobota (Sony Group Corporation): Hmm, okay.
+
+364
+00:49:08.520 --> 00:49:09.740
+Norio Kobota (Sony Group Corporation): okay.
+
+365
+00:49:11.830 --> 00:49:22.683
+Norio Kobota (Sony Group Corporation): sorry. I'm not sure the exact Pr specification at this moment. I understand that the Pr is a global unique identifier.
+
+366
+00:49:23.330 --> 00:49:33.149
+Norio Kobota (Sony Group Corporation): So I I don't have the answer there at this moment, but I will check the pr specification later.
+
+367
+00:49:37.290 --> 00:49:46.610
+Marcel Kurzmann (Bosch): Yeah. Just as an example, you you would add the domain, for example, in the beginning, right? And as you would have suppliers at Sony, you would
+
+368
+00:49:47.030 --> 00:49:50.940
+Marcel Kurzmann (Bosch): add, as a 1st section in the Prl. We would
+
+369
+00:49:51.010 --> 00:49:55.680
+Marcel Kurzmann (Bosch): at a sony supplier and then continue with your identifier
+
+370
+00:49:56.053 --> 00:50:22.070
+Marcel Kurzmann (Bosch): for the same component Bosch, for example, would potentially put as a domain Bosch supplier right? And even if it's the same component so we would have one supplier one pearl with exactly the same where that starts with Sony supplier, and another one with for the same component that starts with Bosch supplier. And and here I think we would then need to, if we would know of about each other, or our supplier would
+
+371
+00:50:22.230 --> 00:50:33.639
+Marcel Kurzmann (Bosch): invite all the the customers to to use a pearl for their component this is something that would need to be aligned right? So that
+
+372
+00:50:34.160 --> 00:50:56.339
+Marcel Kurzmann (Bosch): if I don't know which supplier X would distribute their proprietary parts to Sony and to Bosch, and they distribute it directly with the pearl that they define locally, so also that they say, if there is any incident with vulnerabilities whatever. We will also publish this or distribute that media data with exactly this Prl.
+
+373
+00:50:56.420 --> 00:51:04.370
+Marcel Kurzmann (Bosch): and I don't know if this is already happening. But this would be something, I think, as a as a precondition that we can really
+
+374
+00:51:05.240 --> 00:51:06.010
+Marcel Kurzmann (Bosch): yeah.
+
+375
+00:51:06.270 --> 00:51:13.160
+Marcel Kurzmann (Bosch): Not only use the Prl as A as a format, but also having this unique identification in
+
+376
+00:51:13.390 --> 00:51:17.790
+Marcel Kurzmann (Bosch): in shared databases, you know, even if that's a
+
+377
+00:51:18.582 --> 00:51:36.300
+Marcel Kurzmann (Bosch): closed or not publicly shared, but only shared with a certain target group, as, for example, this, the customers of that supplier. But for public available open source or also freeware, whatever everything that is publicly, I think that
+
+378
+00:51:36.490 --> 00:51:42.789
+Marcel Kurzmann (Bosch): is, then not an issue. I think that's only comes. That challenge only comes with this
+
+379
+00:51:43.580 --> 00:51:46.019
+Marcel Kurzmann (Bosch): limitation, you know, of access.
+
+380
+00:51:46.290 --> 00:51:52.469
+Marcel Kurzmann (Bosch): So perhaps we should also make everything open source. Then we would not have that too much, but I think there.
+
+381
+00:51:52.470 --> 00:51:52.830
+Norio Kobota (Sony Group Corporation): Yes.
+
+382
+00:51:52.830 --> 00:51:56.593
+Marcel Kurzmann (Bosch): Some some people that have other Adc.
+
+383
+00:51:59.820 --> 00:52:01.580
+Norio Kobota (Sony Group Corporation): Okay, thank you.
+
+384
+00:52:01.840 --> 00:52:09.235
+Norio Kobota (Sony Group Corporation): Okay, okay. And anyway, I will.
+
+385
+00:52:10.696 --> 00:52:21.883
+Norio Kobota (Sony Group Corporation): we gathered, I get it. We gather we Sony gathered some actual challenges for implementing S bomb system operating system.
+
+386
+00:52:22.670 --> 00:52:34.263
+Norio Kobota (Sony Group Corporation): And I will put some challenge after this meetings. So I appreciate to share your challenges in here at here.
+
+387
+00:52:35.460 --> 00:52:44.210
+Norio Kobota (Sony Group Corporation): So after that we I hope we can exchange the solution idea or some challenges out here.
+
+388
+00:52:52.620 --> 00:52:59.769
+Shane Coughlan (The Linux Foundation): So Kubota Sen, am I correct that? Basically, we will be
+
+389
+00:52:59.890 --> 00:53:08.239
+Shane Coughlan (The Linux Foundation): moving the conversation for the next month hopefully onto this document to encourage challenges to be listed.
+
+390
+00:53:09.920 --> 00:53:11.399
+Norio Kobota (Sony Group Corporation): Yes, I hope so.
+
+391
+00:53:12.940 --> 00:53:14.580
+Norio Kobota (Sony Group Corporation): On my side.
+
+392
+00:53:16.090 --> 00:53:24.579
+Shane Coughlan (The Linux Foundation): After this meeting. One thing I'll do for later this week or next week is start promoting
+
+393
+00:53:25.520 --> 00:53:33.619
+Shane Coughlan (The Linux Foundation): this onto our social media as well, so that we can encourage more contributors.
+
+394
+00:53:35.200 --> 00:53:36.300
+Norio Kobota (Sony Group Corporation): Thank you very much.
+
+395
+00:53:38.180 --> 00:53:54.849
+Norio Kobota (Sony Group Corporation): and the purpose of the exchanging challenges is as a shame mentioned, or some we hope to create some aspen quality guide based on the Terrico S-prom guide.
+
+396
+00:53:55.620 --> 00:54:02.669
+Norio Kobota (Sony Group Corporation): Before that, I'd like to know? There are actual challenges we still have.
+
+397
+00:54:02.800 --> 00:54:11.109
+Norio Kobota (Sony Group Corporation): So I appreciate your contributions, or sharing the challenges or information.
+
+398
+00:54:14.800 --> 00:54:26.950
+Shane Coughlan (The Linux Foundation): I suppose, as well. One interesting point here is that there are now several different formats for Sbom.
+
+399
+00:54:27.120 --> 00:54:29.210
+Shane Coughlan (The Linux Foundation): like SWID.
+
+400
+00:54:29.590 --> 00:54:32.790
+Shane Coughlan (The Linux Foundation): Spdx, cyclone. Dx.
+
+401
+00:54:33.890 --> 00:54:39.409
+Shane Coughlan (The Linux Foundation): We have requirements in the Us. Like the Ntia
+
+402
+00:54:45.210 --> 00:54:48.770
+Shane Coughlan (The Linux Foundation): in Germany, and I believe in Japan.
+
+403
+00:54:51.050 --> 00:54:53.689
+Norio Kobota (Sony Group Corporation): So it seems like it's a very.
+
+404
+00:54:53.930 --> 00:54:57.269
+Shane Coughlan (The Linux Foundation): Good time to at the high level.
+
+405
+00:54:57.700 --> 00:55:05.180
+Shane Coughlan (The Linux Foundation): Try to ask in a practical sense, what do we need in this supply chain? What are your challenges.
+
+406
+00:55:05.350 --> 00:55:12.960
+Shane Coughlan (The Linux Foundation): So it's it just seems very timely to try to bring together the overview. And I must thank you for that. Kubotasan.
+
+407
+00:55:13.840 --> 00:55:21.933
+Norio Kobota (Sony Group Corporation): No, no, that's my pleasure. And the challenge the big challenge, I think is
+
+408
+00:55:23.168 --> 00:55:25.281
+Norio Kobota (Sony Group Corporation): bar. Oh, sorry volumes.
+
+409
+00:55:26.610 --> 00:55:33.040
+Norio Kobota (Sony Group Corporation): Spdx and cycletx defines fields and a format of the value.
+
+410
+00:55:33.430 --> 00:55:42.110
+Norio Kobota (Sony Group Corporation): But we face the challenges, what should be filled in the other field value.
+
+411
+00:55:42.540 --> 00:55:47.200
+Norio Kobota (Sony Group Corporation): So I'd like to discuss what
+
+412
+00:55:47.680 --> 00:55:52.670
+Norio Kobota (Sony Group Corporation): values should be filled in for each field.
+
+413
+00:55:53.750 --> 00:56:04.030
+Norio Kobota (Sony Group Corporation): So sometimes in in some context, it should be changed. We should feel, what kind of values should be field.
+
+414
+00:56:05.000 --> 00:56:13.680
+Norio Kobota (Sony Group Corporation): So we, I'd like to discuss about the value of the each field in near future.
+
+415
+00:56:18.970 --> 00:56:20.669
+Norio Kobota (Sony Group Corporation): Okay, thank you.
+
+416
+00:56:21.390 --> 00:56:22.170
+Shane Coughlan (The Linux Foundation): Thank you.
+
+417
+00:56:22.170 --> 00:56:23.639
+Norio Kobota (Sony Group Corporation): Yeah, yeah.
+
+418
+00:56:23.840 --> 00:56:28.979
+Shane Coughlan (The Linux Foundation): May I ask one last question, which is building on what happened today?
+
+419
+00:56:31.330 --> 00:56:44.070
+Shane Coughlan (The Linux Foundation): It seems that there are some opinions, but also some challenges with describing proprietary and open source.
+
+420
+00:56:44.710 --> 00:56:49.010
+Shane Coughlan (The Linux Foundation): and you know, according to Anthony PURL.
+
+421
+00:56:49.150 --> 00:56:52.739
+Shane Coughlan (The Linux Foundation): Can do it, or at least the work is happening now.
+
+422
+00:56:53.110 --> 00:56:56.950
+Shane Coughlan (The Linux Foundation): But it seems that today, right now, the
+
+423
+00:56:57.070 --> 00:57:00.409
+Shane Coughlan (The Linux Foundation): public software or open source software.
+
+424
+00:57:01.697 --> 00:57:04.680
+Shane Coughlan (The Linux Foundation): is maybe going to use Porl.
+
+425
+00:57:05.680 --> 00:57:11.870
+Shane Coughlan (The Linux Foundation): But in proprietary software, that's not the default at this time.
+
+426
+00:57:12.340 --> 00:57:14.639
+Shane Coughlan (The Linux Foundation): Would that be a correct statement?
+
+427
+00:57:19.690 --> 00:57:27.770
+Shane Coughlan (The Linux Foundation): I guess you know the question is, if purl in the future might be used everywhere, it might solve everything.
+
+428
+00:57:27.880 --> 00:57:34.319
+Shane Coughlan (The Linux Foundation): But it sounds like today. It's not the the default for everything.
+
+429
+00:57:43.260 --> 00:57:43.930
+Norio Kobota (Sony Group Corporation): Thank you.
+
+430
+00:57:43.930 --> 00:57:50.540
+Shane Coughlan (The Linux Foundation): Well, I suppose our challenge then, will be to make the public call for comment.
+
+431
+00:57:51.940 --> 00:57:59.440
+Shane Coughlan (The Linux Foundation): These topics common challenge and common ideas for solution.
+
+432
+00:58:03.330 --> 00:58:08.519
+Shane Coughlan (The Linux Foundation): And this slide. By the way, Kuboto-san, thank you very much for outlining
+
+433
+00:58:09.280 --> 00:58:12.619
+Shane Coughlan (The Linux Foundation): the type of actions that can be taken on source.
+
+434
+00:58:15.730 --> 00:58:21.250
+Norio Kobota (Sony Group Corporation): Which I will share this slide on the expo message later.
+
+435
+00:58:23.150 --> 00:58:24.050
+Shane Coughlan (The Linux Foundation): Wonderful.
+
+436
+00:58:38.530 --> 00:58:43.880
+Norio Kobota (Sony Group Corporation): Are there any other? Comments or questions?
+
+437
+00:58:56.550 --> 00:58:57.590
+Norio Kobota (Sony Group Corporation): Nothing.
+
+438
+00:59:02.120 --> 00:59:10.350
+Shane Coughlan (The Linux Foundation): Seems we might have reached the end of this meeting, which is good timing, because there's only 2 min and 30 seconds left.
+
+439
+00:59:12.160 --> 00:59:17.918
+Norio Kobota (Sony Group Corporation): Yes, okay, thank you for joining today. And
+
+440
+00:59:19.130 --> 00:59:30.099
+Norio Kobota (Sony Group Corporation): I will. Summarize this meeting today's meeting later, and you can leave us a meeting notes on the Github as a repository.
+
+441
+00:59:31.480 --> 00:59:34.209
+Norio Kobota (Sony Group Corporation): And yeah, thank you very much.
+
+442
+00:59:37.590 --> 00:59:39.190
+Marcel Kurzmann (Bosch): Thank you. Bye.
+
+443
+00:59:39.550 --> 00:59:41.019
+Norio Kobota (Sony Group Corporation): Yeah. Thank you. Bye-bye.
+
+444
+00:59:41.630 --> 00:59:42.190
+Shane Coughlan (The Linux Foundation): Kubota.
+
+445
+00:59:42.190 --> 00:59:43.359
+Alin Jerpelea (Sony Group Corporation): Thank you. Bye-bye.
+
+446
+00:59:43.360 --> 00:59:46.050
+Shane Coughlan (The Linux Foundation): The next meeting in one month. Is that correct?
+
+447
+00:59:46.050 --> 00:59:48.309
+Nikola Babadzhanov (Bosch Digital): Thank you. Goodbye.
+
+448
+00:59:50.760 --> 00:59:51.620
+Norio Kobota (Sony Group Corporation): Sorry.
+
+449
+00:59:52.790 --> 00:59:56.820
+Norio Kobota (Sony Group Corporation): We will have a next meeting on February.
+
+450
+01:00:00.610 --> 01:00:03.700
+Norio Kobota (Sony Group Corporation): Oh, okay, thank you very much. Bye.
+
+451
+01:00:04.420 --> 01:00:05.210
+Itaru Hosomi (NEC Corp.): Thank you.
+
+452
+01:00:13.650 --> 01:00:15.090
+Norio Kobota (Sony Group Corporation): Yes, thank you. Shane.
+
+453
+01:00:15.240 --> 01:00:16.839
+Shane Coughlan (The Linux Foundation): Oh, thank you, Kubota sen. I'm sorry.
+
+454
+01:00:17.225 --> 01:00:18.380
+Norio Kobota (Sony Group Corporation): No, no, no.
+
+455
+01:00:18.380 --> 01:00:20.356
+Shane Coughlan (The Linux Foundation): Everything everything turned off.
+
+456
+01:00:21.404 --> 01:00:23.620
+Norio Kobota (Sony Group Corporation): Thank you very much.
+
+457
+01:00:23.620 --> 01:00:25.620
+Shane Coughlan (The Linux Foundation): Wonderful meeting. Have a good.
+
+458
+01:00:25.955 --> 01:00:28.970
+Norio Kobota (Sony Group Corporation): Yeah. Have a good day, you, too. Bye, bye.
+

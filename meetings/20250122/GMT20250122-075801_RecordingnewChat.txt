@@ -1,0 +1,7 @@
+00:11:23	Shane Coughlan (The Linux Foundation):	Hi Daikoku San! Great to see you here today!
+00:11:37	Masahiro DAIKOKU (KDDI Corporation):	Reacted to "Hi Daikoku San! Grea..." with 👍
+00:25:11	Anthony Harrison (Not Applicable):	PURL is already looking at how to include private (normally called proprietary) software.
+00:26:27	Jari Koivisto (OpenChain Project):	Package hash should come from the distributor too.
+00:41:55	Norio Kobota (Sony Group Corporation):	https://github.com/OpenChain-Project/SBOM-sg/discussions/categories/sbom-document-challenges
+00:43:10	Jari Koivisto (OpenChain Project):	Reacted to "https://github.com/O..." with 👍
+00:59:23	Jimmy Ahlberg (Ericsson):	Thank you very much, much to think about!
