@@ -21,5 +21,8 @@ Please join our mailing list by sending an email to: sbom+subscribe@lists.opench
 ## Meeting Notes
 Meeting notes for all SBOM Study Group sessions are available in this repository. You can access them [here](https://github.com/OpenChain-Project/SBOM-sg/tree/main/meetings).
 
+## OpenChain Japan Related Meetings
+Every Monday at 18:00 JST, the **OpenChain Japan Automation & SBOM Sub-Group - Security Discussion** meeting is held. Everyone is welcome to join; however, please note that the meeting is conducted in the Japanese language. Interested participants can join via [this Zoom meeting link](https://zoom-lfx.platform.linuxfoundation.org/meeting/91779997125?password=17af0e84-2be1-4402-9f05-e04edce398a8).
+
 ## Resources
 - [SBOM Study Group Kick-off Announcement](https://openchainproject.org/news/2024/07/17/sbom-study-group-kick-off)
