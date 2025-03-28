@@ -1,0 +1,1514 @@
+WEBVTT
+
+1
+00:02:35.600 --> 00:02:37.139
+Norio Kobota (Sony Group Corporation): Hello! Good morning!
+
+2
+00:02:39.940 --> 00:02:41.630
+Alin Jerpelea (Sony Group Corporation): Hello! Morning.
+
+3
+00:02:43.320 --> 00:02:44.839
+Norio Kobota (Sony Group Corporation): Thank you for joining.
+
+4
+00:02:47.440 --> 00:02:48.570
+Alin Jerpelea (Sony Group Corporation): My pleasure.
+
+5
+00:04:30.240 --> 00:04:32.390
+Norio Kobota (Sony Group Corporation): Hello, thank you for joining.
+
+6
+00:04:32.500 --> 00:04:35.380
+Norio Kobota (Sony Group Corporation): We will start in a few minutes.
+
+7
+00:04:35.570 --> 00:04:38.400
+Norio Kobota (Sony Group Corporation): Please wait a 4 4, M.
+
+8
+00:04:41.970 --> 00:04:45.699
+Norio Kobota (Sony Group Corporation): And yeah, listen. Thank you for your 1st issue.
+
+9
+00:04:48.970 --> 00:04:52.650
+Jari Koivisto (OpenChain Project): My pleasure. And actually, I just got an idea that
+
+10
+00:04:53.270 --> 00:04:55.832
+Jari Koivisto (OpenChain Project): because I think I put the
+
+11
+00:04:57.824 --> 00:05:05.060
+Jari Koivisto (OpenChain Project): like blueprint. But maybe I don't know if you're familiar with what the tooling group did. Kind of the capability map.
+
+12
+00:05:05.360 --> 00:05:13.850
+Jari Koivisto (OpenChain Project): So something similar. But for the how one should handle or how one could handle response in in organization. I think
+
+13
+00:05:14.420 --> 00:05:16.160
+Jari Koivisto (OpenChain Project): that could be something we could
+
+14
+00:05:16.580 --> 00:05:20.760
+Jari Koivisto (OpenChain Project): think if that's something relevant for for this this group.
+
+15
+00:05:21.270 --> 00:05:23.440
+Norio Kobota (Sony Group Corporation): Yeah, thank you very much.
+
+16
+00:05:23.690 --> 00:05:24.350
+Norio Kobota (Sony Group Corporation): And
+
+17
+00:05:26.840 --> 00:05:37.084
+Norio Kobota (Sony Group Corporation): I do like to share the Japanese company situation. Many, most of Japanese companies use these commercial tools, which is
+
+18
+00:05:40.690 --> 00:05:52.010
+Norio Kobota (Sony Group Corporation): sorry. How can I say so static code analysis and generating so fastball.
+
+19
+00:05:52.270 --> 00:05:56.927
+Norio Kobota (Sony Group Corporation): So it's a very big problem for us.
+
+20
+00:05:59.420 --> 00:06:07.910
+Norio Kobota (Sony Group Corporation): I'm not sure. But whether what tools are you using in the company
+
+21
+00:06:08.090 --> 00:06:11.419
+Norio Kobota (Sony Group Corporation): in the EU region or us region?
+
+22
+00:06:16.290 --> 00:06:22.009
+Norio Kobota (Sony Group Corporation): Are you creating the systems by using the open source? Softwares.
+
+23
+00:06:27.780 --> 00:06:32.030
+Jari Koivisto (OpenChain Project): Quite many companies. They use commercial tools from, you know, the known
+
+24
+00:06:32.930 --> 00:06:40.630
+Jari Koivisto (OpenChain Project): known let's say, providers. But then there are like some who rely on the or to the
+
+25
+00:06:41.080 --> 00:06:43.230
+Jari Koivisto (OpenChain Project): Oss Review toolkit as well.
+
+26
+00:06:43.660 --> 00:06:44.220
+Norio Kobota (Sony Group Corporation): Yeah.
+
+27
+00:06:45.260 --> 00:06:46.760
+Norio Kobota (Sony Group Corporation): Okay, thank you.
+
+28
+00:06:58.880 --> 00:07:02.471
+Norio Kobota (Sony Group Corporation): Yes, thank you for joining. I will start
+
+29
+00:07:03.360 --> 00:07:06.010
+Norio Kobota (Sony Group Corporation): and in a few minutes, please wait.
+
+30
+00:07:12.100 --> 00:07:14.300
+Marcel Kurzmann (Bosch): Hello! Good morning!
+
+31
+00:07:14.300 --> 00:07:15.790
+Norio Kobota (Sony Group Corporation): Hello! Good morning.
+
+32
+00:07:28.870 --> 00:07:34.050
+Norio Kobota (Sony Group Corporation): It's a time to start, but I'd like to wait to Shane.
+
+33
+00:07:35.590 --> 00:07:39.780
+Norio Kobota (Sony Group Corporation): Please wait a couple of few minutes.
+
+34
+00:08:22.310 --> 00:08:29.000
+Norio Kobota (Sony Group Corporation): Hey? Thank you for joining. Shane has not joined yet.
+
+35
+00:08:29.150 --> 00:08:33.429
+Norio Kobota (Sony Group Corporation): but I'd like to start some
+
+36
+00:08:33.909 --> 00:08:39.709
+Norio Kobota (Sony Group Corporation): not. This is before starting this open chain aspen study group on Number 6,
+
+37
+00:08:40.250 --> 00:08:44.135
+Norio Kobota (Sony Group Corporation): and after joining Shane joining
+
+38
+00:08:44.920 --> 00:08:48.269
+Norio Kobota (Sony Group Corporation): I asked Shan to make some comments.
+
+39
+00:08:48.830 --> 00:08:49.700
+Norio Kobota (Sony Group Corporation): Okay.
+
+40
+00:08:50.350 --> 00:09:18.320
+Norio Kobota (Sony Group Corporation): thank you for joining today. And as like as always, I'd like to show the antitrust policy notice from the Linux Foundation. This Sm study group is under the Linux Foundation activities, Linux Foundation open chain activities. So please make sure this antitrust policy notice and follow this antitrust policy. Notice. Oh, Shank, thank you for joining.
+
+41
+00:09:18.820 --> 00:09:24.970
+Norio Kobota (Sony Group Corporation): I've already started, and I mentioned about the extra supports you notice.
+
+42
+00:09:24.970 --> 00:09:26.100
+Shane Coughlan (The Linux Foundation): So much.
+
+43
+00:09:26.320 --> 00:09:36.870
+Norio Kobota (Sony Group Corporation): Yeah, thank you. And also we, I'd like, I'd like we'd like you to follow the code of conduct from the foundation as well.
+
+44
+00:09:37.680 --> 00:09:47.390
+Norio Kobota (Sony Group Corporation): okay, that's all from the beginning statement. And Shane, do you have any opening? A comment.
+
+45
+00:09:48.757 --> 00:09:51.860
+Shane Coughlan (The Linux Foundation): Yes, I have one or 2.
+
+46
+00:09:52.530 --> 00:10:01.459
+Shane Coughlan (The Linux Foundation): The 1st opening comment is that recently I have been traveling a lot in Europe.
+
+47
+00:10:01.650 --> 00:10:12.620
+Shane Coughlan (The Linux Foundation): I was meeting policy makers in Brussels, people in business, in Paris and Berlin, and
+
+48
+00:10:13.000 --> 00:10:22.899
+Shane Coughlan (The Linux Foundation): everyone was seeing the careful management of software information as critical.
+
+49
+00:10:23.100 --> 00:10:37.470
+Shane Coughlan (The Linux Foundation): So the idea of having accurate, useful, practical information about software was key, clear goal.
+
+50
+00:10:38.000 --> 00:10:43.929
+Shane Coughlan (The Linux Foundation): And that means that what we're doing in the Sbom study group.
+
+51
+00:10:44.320 --> 00:10:48.620
+Shane Coughlan (The Linux Foundation): where we look at the idea of what is a quality S-bomb.
+
+52
+00:10:48.970 --> 00:10:52.329
+Shane Coughlan (The Linux Foundation): What helps with compliance or regulation.
+
+53
+00:10:52.970 --> 00:10:58.920
+Shane Coughlan (The Linux Foundation): What we are doing is very practical. It's very topical. It's very necessary.
+
+54
+00:10:59.810 --> 00:11:10.889
+Shane Coughlan (The Linux Foundation): The second thing was that I just wanted to highlight that. I'm very glad we are discussing multi industry
+
+55
+00:11:11.200 --> 00:11:17.630
+Shane Coughlan (The Linux Foundation): and multi-standard approaches because we have a very complex supply chain.
+
+56
+00:11:17.860 --> 00:11:26.320
+Shane Coughlan (The Linux Foundation): and it will be important that companies of all sizes in all industries will be able to use
+
+57
+00:11:26.490 --> 00:11:34.049
+Shane Coughlan (The Linux Foundation): our outputs regarding quality software bill of materials. All right. That's it for me.
+
+58
+00:11:36.560 --> 00:11:37.670
+Norio Kobota (Sony Group Corporation): Thank you, Shane.
+
+59
+00:11:37.920 --> 00:11:42.360
+Norio Kobota (Sony Group Corporation): Okay, I'd like to proceed in my presentation.
+
+60
+00:11:43.210 --> 00:11:49.469
+Norio Kobota (Sony Group Corporation): and the 1st slide is sorry. Can you see my slide.
+
+61
+00:11:49.710 --> 00:11:52.909
+Shane Coughlan (The Linux Foundation): Yes, the slides are showing perfectly.
+
+62
+00:11:53.600 --> 00:12:05.520
+Norio Kobota (Sony Group Corporation): Thank you. Okay. 1st Friday is a recap of the previous meeting and a previous meeting. We shared the base thoughts on spoon quality.
+
+63
+00:12:05.650 --> 00:12:11.509
+Norio Kobota (Sony Group Corporation): and I propose to discuss about our challenges we still have.
+
+64
+00:12:11.730 --> 00:12:15.561
+Norio Kobota (Sony Group Corporation): And I created a materials and
+
+65
+00:12:16.420 --> 00:12:23.960
+Norio Kobota (Sony Group Corporation): combine these figure and explain the challenges we still have
+
+66
+00:12:24.340 --> 00:12:36.260
+Norio Kobota (Sony Group Corporation): and propose to create challenges and a solution idea on the Github issues or Github discussions and leads out.
+
+67
+00:12:36.700 --> 00:12:45.319
+Norio Kobota (Sony Group Corporation): Yeah, thank you very much. We got the 1st good issues on the Github idea for the S form study group.
+
+68
+00:12:45.590 --> 00:13:03.221
+Norio Kobota (Sony Group Corporation): So. But I'm sorry I noticed this as issues just today. So I I don't prepare anything today, so I'd like to continue to discuss this matter
+
+69
+00:13:04.190 --> 00:13:07.480
+Norio Kobota (Sony Group Corporation): around next time or next next time.
+
+70
+00:13:07.860 --> 00:13:17.213
+Norio Kobota (Sony Group Corporation): So today I had, I bring one topics in the open chain.
+
+71
+00:13:18.080 --> 00:13:24.290
+Norio Kobota (Sony Group Corporation): regional communities have S-bomb study S-bomb subgroups.
+
+72
+00:13:24.470 --> 00:13:47.639
+Norio Kobota (Sony Group Corporation): And we discussed and still discussing the current challenges of s, 1 quality and sharing ideas for solutions within the Japanese community. So today, I'd like to understand how kindly shared this for analysis on the website. So I'd like to share some
+
+73
+00:13:47.780 --> 00:13:51.670
+Norio Kobota (Sony Group Corporation): challenges and some ideas today.
+
+74
+00:13:54.150 --> 00:13:59.490
+Norio Kobota (Sony Group Corporation): And I picked up our 1st challenges a very interesting one.
+
+75
+00:14:00.150 --> 00:14:07.949
+Norio Kobota (Sony Group Corporation): You can refer these challenges on the Github in letting translated in English.
+
+76
+00:14:08.450 --> 00:14:13.990
+Norio Kobota (Sony Group Corporation): and the 1st one is inconsistency of component granularity.
+
+77
+00:14:15.290 --> 00:14:22.300
+Norio Kobota (Sony Group Corporation): As as you know, we received some S bomb document from multiple surprises.
+
+78
+00:14:22.950 --> 00:14:23.790
+Norio Kobota (Sony Group Corporation): Patu.
+
+79
+00:14:24.480 --> 00:14:32.620
+Norio Kobota (Sony Group Corporation): One spom supplier provided detailed information at a file level with a file level information.
+
+80
+00:14:32.750 --> 00:14:38.759
+Norio Kobota (Sony Group Corporation): But another one we got compiled data at a package level.
+
+81
+00:14:39.330 --> 00:14:52.070
+Norio Kobota (Sony Group Corporation): and this inconsistency occurs some troubles or some efforts to match one aspect after the developing things inside our companies.
+
+82
+00:14:52.980 --> 00:14:57.719
+Norio Kobota (Sony Group Corporation): So it is our challenges where we currently have.
+
+83
+00:14:59.570 --> 00:15:10.510
+Norio Kobota (Sony Group Corporation): And we discussed and produced proposal solutions and automation fesibilities
+
+84
+00:15:12.240 --> 00:15:18.509
+Norio Kobota (Sony Group Corporation): about these challenges. We set a checkpoint.
+
+85
+00:15:19.000 --> 00:15:22.339
+Norio Kobota (Sony Group Corporation): and this and these are the only the proposal
+
+86
+00:15:23.370 --> 00:15:31.950
+Norio Kobota (Sony Group Corporation): identification of the granularity used in each S bond we need to check when we receive the expo.
+
+87
+00:15:32.690 --> 00:15:36.080
+Norio Kobota (Sony Group Corporation): Is it high level or package level, and so
+
+88
+00:15:37.190 --> 00:15:42.900
+Norio Kobota (Sony Group Corporation): gotta check differences in the level of detail provided
+
+89
+00:15:43.810 --> 00:15:49.590
+Norio Kobota (Sony Group Corporation): and the proposal solution, this means processes or mechanisms
+
+90
+00:15:50.130 --> 00:15:56.570
+Norio Kobota (Sony Group Corporation): qualifies a desire to granularity is a industry. Wide or internally.
+
+91
+00:15:56.840 --> 00:16:07.859
+Norio Kobota (Sony Group Corporation): we needed to discuss, and sorry we needed to define the desired granularity inside our supply chain
+
+92
+00:16:08.220 --> 00:16:12.860
+Norio Kobota (Sony Group Corporation): and adopt a unified format with corresponding guidelines.
+
+93
+00:16:13.320 --> 00:16:25.000
+Norio Kobota (Sony Group Corporation): And our next proposal solution is build a compass combustion tool, intermediate tool to normalize and standardize the granularity of the spom data, shift
+
+94
+00:16:26.160 --> 00:16:36.829
+Norio Kobota (Sony Group Corporation): the combus combustion combustion feature have not provided any tools. I as far as I know.
+
+95
+00:16:37.320 --> 00:16:41.150
+Norio Kobota (Sony Group Corporation): So but there is a
+
+96
+00:16:41.660 --> 00:16:45.660
+Norio Kobota (Sony Group Corporation): opportunity, a good opportunity to discuss about this.
+
+97
+00:16:46.560 --> 00:16:56.179
+Norio Kobota (Sony Group Corporation): and as some members mentioned, automation is a key point to handle the export. So we discussed about the automation.
+
+98
+00:16:58.260 --> 00:17:10.889
+Norio Kobota (Sony Group Corporation): These challenges can be automated from the perspective to create parses or conversion scripts that transform various s. 1 formats into a unified one.
+
+99
+00:17:11.880 --> 00:17:16.100
+Norio Kobota (Sony Group Corporation): but still existing manual verification
+
+100
+00:17:16.890 --> 00:17:27.440
+Norio Kobota (Sony Group Corporation): in case where the tools where the rules are complex, and a final verification might require human judgment.
+
+101
+00:17:28.840 --> 00:17:36.880
+Norio Kobota (Sony Group Corporation): This is the outline of our discussion and proposal solution of automation.
+
+102
+00:17:37.450 --> 00:17:47.160
+Norio Kobota (Sony Group Corporation): So are there any comments or discussions about how
+
+103
+00:17:47.490 --> 00:17:55.730
+Norio Kobota (Sony Group Corporation): we this kind of summary of these discussions.
+
+104
+00:17:57.590 --> 00:18:00.129
+Norio Kobota (Sony Group Corporation): Anyone does anyone have.
+
+105
+00:18:00.720 --> 00:18:04.344
+Marc-Etienne Vargenau (Nokia Corporation): Ye? Yes, just one comment.
+
+106
+00:18:05.610 --> 00:18:23.349
+Marc-Etienne Vargenau (Nokia Corporation): What we said at the beginning of this work group is that we wanted to define the quality S. Bomb, but in a format, agnostic way, which is a which is a good, a good thing.
+
+107
+00:18:23.350 --> 00:18:36.390
+Marc-Etienne Vargenau (Nokia Corporation): But when you speak of tooling, having conversion tools, you have to to define a format.
+
+108
+00:18:36.560 --> 00:18:39.589
+Marc-Etienne Vargenau (Nokia Corporation): Isn't that a contradiction.
+
+109
+00:18:40.280 --> 00:18:40.950
+Norio Kobota (Sony Group Corporation): Oh.
+
+110
+00:18:44.635 --> 00:18:47.040
+Norio Kobota (Sony Group Corporation): go ahead, please answer, Nissan
+
+111
+00:18:52.050 --> 00:18:53.030
+Norio Kobota (Sony Group Corporation): or nothing.
+
+112
+00:18:53.780 --> 00:18:54.226
+Anthony Harrison (Not Applicable): Hello!
+
+113
+00:18:55.620 --> 00:18:56.590
+Anthony Harrison (Not Applicable): Can you hear me?
+
+114
+00:18:57.030 --> 00:18:57.390
+Norio Kobota (Sony Group Corporation): Yes.
+
+115
+00:18:57.390 --> 00:18:57.790
+Marc-Etienne Vargenau (Nokia Corporation): Yeah.
+
+116
+00:18:58.340 --> 00:18:58.889
+Anthony Harrison (Not Applicable): Okay,
+
+117
+00:19:01.190 --> 00:19:09.046
+Anthony Harrison (Not Applicable): conversion tools are yeah, a challenge. And this is converting between Spdx and cyclone. Dx, I assume that's what you mean by mark.
+
+118
+00:19:10.010 --> 00:19:18.750
+Anthony Harrison (Not Applicable): I think there's another. I agree you should be talking about content, not format. I think the format problem is easy to solve.
+
+119
+00:19:18.890 --> 00:19:23.720
+Anthony Harrison (Not Applicable): It's the content problem. And I think I put a comment in the chat.
+
+120
+00:19:23.960 --> 00:19:29.109
+Anthony Harrison (Not Applicable): I think we need to be very precise about asking what we want the s. 1 to be used, for
+
+121
+00:19:29.360 --> 00:19:37.230
+Anthony Harrison (Not Applicable): if we want to use it for license compliance, I think that's a different use case to using it for vulnerability management.
+
+122
+00:19:37.910 --> 00:19:44.419
+Anthony Harrison (Not Applicable): and I think the content of the S-bomb will determine what your use case is.
+
+123
+00:19:45.472 --> 00:19:54.439
+Anthony Harrison (Not Applicable): I do not believe you can convert from one, you know, a file level to a package level easily. I think that conversion is probably very difficult.
+
+124
+00:19:55.000 --> 00:19:56.310
+Anthony Harrison (Not Applicable): but I think
+
+125
+00:19:56.480 --> 00:20:02.620
+Anthony Harrison (Not Applicable): you need to understand the use case really, and we need to be very explicit when you ask a supplier
+
+126
+00:20:02.770 --> 00:20:06.250
+Anthony Harrison (Not Applicable): for an S bomb what you're going to use it for.
+
+127
+00:20:06.870 --> 00:20:12.750
+Anthony Harrison (Not Applicable): and I think we are not. We just say, give me an S. Bomb at the moment. I think we need to be very precise.
+
+128
+00:20:15.980 --> 00:20:17.299
+Norio Kobota (Sony Group Corporation): Thank you.
+
+129
+00:20:18.350 --> 00:20:20.880
+Norio Kobota (Sony Group Corporation): Okay, I.
+
+130
+00:20:21.090 --> 00:20:24.489
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Hi, I have one more point. So rakesh
+
+131
+00:20:25.067 --> 00:20:37.330
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): so I think I also second some of the points which Anthony had mentioned. So I feel that the checkpoints depends on
+
+132
+00:20:37.330 --> 00:20:58.270
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): what exactly is your use case? And to what depth you know, you want this pump to be based on your use case, because we see that like. You know, some suppliers have, like a very mature Ospo, and they've been like delivering reports for many you know, for many years.
+
+133
+00:20:58.300 --> 00:21:05.210
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): So they know that what are the critical informations that has to be given to the customers
+
+134
+00:21:05.705 --> 00:21:24.340
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): but then, like probably some of the you know, suppliers might not have the same experience. So I think the inconsistency basically comes from the voices process which exist in in them. That is 1 point. But then what? Exactly as a
+
+135
+00:21:24.470 --> 00:21:49.370
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): end customer do we need? With the with this form like, what is that like we are trying to achieve? Is it something that goes into a device, or is it something that you know. Are you acting as an integrator? Meaning like, you're not the end customer. But then you're going to pass it. So I think, depending on that the granularity could differ. So if you say that.
+
+136
+00:21:49.720 --> 00:22:10.410
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): you know I'm okay to have the package level information that's sufficient for me. Then I think you do not have to go to the file level. But if your use case mandates this, then I guess this has to be upstream to the supplier whoever is supplying. So they need to know exactly. What is it you're looking for?
+
+137
+00:22:10.780 --> 00:22:21.090
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): So one, I think one of the solution which we are currently thinking about is to have a you know, Schema.
+
+138
+00:22:21.250 --> 00:22:36.800
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): wherein we tell that. Hey, this is what we want. If you have an Spdx or so and so version, then, this is what we are looking for for me. This is these, these parameters are mandatory, and these these parameters optional.
+
+139
+00:22:37.010 --> 00:22:44.600
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): So with that approach. You know we kind of tell them in advance, even before
+
+140
+00:22:44.890 --> 00:23:09.329
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): all this process happens, that this is my requirement. So I think, using that you know, we could probably solve the checkpoints problem. So that is 1 point. And with respect to automation feasibility, I would say, it becomes really difficult. Let's say, even if we have like some automation, because
+
+141
+00:23:09.940 --> 00:23:17.560
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): it is, it is like a double effort, like I get an S form, and then I have to work again. On top of that. Probably I have to
+
+142
+00:23:18.430 --> 00:23:38.230
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): to perform some scanning, or put some manual effort to add more information. If it has to be a manual verification. So the I think, one of the ideal ways to probably upstream your requirement to the supplier, and say that you know this is the schema that I have, and this is what I want.
+
+143
+00:23:38.510 --> 00:23:40.650
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): and you know, address it
+
+144
+00:23:40.850 --> 00:23:45.949
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): at the beginning itself, so that you know it helps us to save a lot of
+
+145
+00:23:46.100 --> 00:23:49.680
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): effort or meetings. Yeah, thank you.
+
+146
+00:23:50.090 --> 00:23:50.780
+Norio Kobota (Sony Group Corporation): Thank you.
+
+147
+00:23:51.940 --> 00:23:57.250
+Norio Kobota (Sony Group Corporation): Okay, so first, st let me answer mark Hn. Hasan's question.
+
+148
+00:23:57.360 --> 00:24:26.759
+Norio Kobota (Sony Group Corporation): but I intend, rather than discussing the tools themselves and a format or contents itself. I think defining the know-how or processes to solve these problems will lead to higher quality. So main point is proposed what we should check and how to check with the processes or mechanisms.
+
+149
+00:24:26.920 --> 00:24:29.620
+Norio Kobota (Sony Group Corporation): This is a key, I think.
+
+150
+00:24:30.010 --> 00:24:40.010
+Norio Kobota (Sony Group Corporation): and next it depends on use case some. Many people said, it's it's the good point.
+
+151
+00:24:40.120 --> 00:24:45.959
+Norio Kobota (Sony Group Corporation): I think it makes one of the process.
+
+152
+00:24:46.370 --> 00:25:00.179
+Norio Kobota (Sony Group Corporation): We should check the we need. We needed to have the checked use case. So please provide the use case to the supplier and so on. It's a 1 checkpoint possibilities.
+
+153
+00:25:00.920 --> 00:25:18.519
+Norio Kobota (Sony Group Corporation): So and discussion of the automation. I understand it's very difficult. But as from handling is one of the key points is automation so we needed to think about automation
+
+154
+00:25:19.460 --> 00:25:27.019
+Norio Kobota (Sony Group Corporation): from the automation perspective to realize these processes and checkpoint check checkpoints.
+
+155
+00:25:28.990 --> 00:25:30.949
+Norio Kobota (Sony Group Corporation): But what do you think, Maxang.
+
+156
+00:25:43.930 --> 00:25:51.781
+Marc-Etienne Vargenau (Nokia Corporation): Yes, I think automation is a is a key part of
+
+157
+00:25:53.213 --> 00:25:57.957
+Marc-Etienne Vargenau (Nokia Corporation): of what we we want to do.
+
+158
+00:25:59.501 --> 00:26:10.178
+Marc-Etienne Vargenau (Nokia Corporation): we. We have now very big software, and if we cannot automate it will be, it will be difficult.
+
+159
+00:26:12.140 --> 00:26:19.650
+Marc-Etienne Vargenau (Nokia Corporation): and yes, for that, we, I think we we need to to still
+
+160
+00:26:20.570 --> 00:26:25.849
+Marc-Etienne Vargenau (Nokia Corporation): define the format we expect as precisely as possible.
+
+161
+00:26:32.350 --> 00:26:39.690
+Norio Kobota (Sony Group Corporation): Thank you. We have many comments. I'll summarize, and I'll check later.
+
+162
+00:26:40.470 --> 00:26:43.399
+Norio Kobota (Sony Group Corporation): Are there any other comments or questions.
+
+163
+00:26:50.490 --> 00:26:51.175
+SZ Lin (林上智): Yes,
+
+164
+00:26:53.050 --> 00:26:54.020
+Norio Kobota (Sony Group Corporation): Oh, hello!
+
+165
+00:26:54.690 --> 00:26:59.419
+SZ Lin (林上智): Yeah, this is from Taiwan. I have one question.
+
+166
+00:26:59.810 --> 00:27:03.190
+SZ Lin (林上智): I'm just curious about the level.
+
+167
+00:27:06.540 --> 00:27:10.370
+SZ Lin (林上智): As you mentioned, you have the level. So
+
+168
+00:27:12.490 --> 00:27:15.810
+SZ Lin (林上智): the definition of the level is important.
+
+169
+00:27:17.700 --> 00:27:23.479
+Norio Kobota (Sony Group Corporation): Okay. Sorry. This is my mistake for lighting the English.
+
+170
+00:27:23.690 --> 00:27:34.009
+Norio Kobota (Sony Group Corporation): I intended to express that. Sometimes we ha! We receive the s form described each file.
+
+171
+00:27:35.080 --> 00:27:43.500
+Norio Kobota (Sony Group Corporation): And as sometimes we receive S bomb later in only part cache information only.
+
+172
+00:27:44.120 --> 00:27:54.489
+Norio Kobota (Sony Group Corporation): So the granularity described the software information is different from multiple suppliers.
+
+173
+00:28:00.260 --> 00:28:06.899
+SZ Lin (林上智): I see. So I just curious about how many levels do we have?
+
+174
+00:28:08.090 --> 00:28:11.190
+SZ Lin (林上智): And the definition? And that is my question.
+
+175
+00:28:11.320 --> 00:28:11.860
+SZ Lin (林上智): Thank you.
+
+176
+00:28:11.860 --> 00:28:14.200
+Norio Kobota (Sony Group Corporation): Oh, thank you.
+
+177
+00:28:15.307 --> 00:28:21.765
+Norio Kobota (Sony Group Corporation): If anyone has knowledge, please share. But I I faced
+
+178
+00:28:23.140 --> 00:28:29.370
+Norio Kobota (Sony Group Corporation): file level and a package level and sunipet level.
+
+179
+00:28:29.650 --> 00:28:37.339
+Norio Kobota (Sony Group Corporation): and sometimes it's from the security perspective, it's described only as a product level.
+
+180
+00:28:39.750 --> 00:28:42.720
+Norio Kobota (Sony Group Corporation): Are there any thoughts from the others.
+
+181
+00:28:45.690 --> 00:28:50.759
+Jari Koivisto (OpenChain Project): Yeah, I think it's correct, like, at least Spdx, you know, supports package, file and snippet level.
+
+182
+00:28:53.230 --> 00:28:55.569
+Jari Koivisto (OpenChain Project): I'm not sure about Cyclo Dx.
+
+183
+00:29:00.300 --> 00:29:04.499
+Anthony Harrison (Not Applicable): Like cyclone. Dx has slightly different granularities.
+
+184
+00:29:04.680 --> 00:29:10.829
+Anthony Harrison (Not Applicable): I mean, it goes at higher level. Ian goes to containers and systems which is higher than package
+
+185
+00:29:13.000 --> 00:29:27.440
+Anthony Harrison (Not Applicable): but he, he can go down to file level. It's just generally it's looking at more, the build process, because that's really looking at the vulnerability management, because that's his prime use or initial use. Case was looking at vulnerability management, which is read generally at the package level.
+
+186
+00:29:28.889 --> 00:29:32.920
+Anthony Harrison (Not Applicable): So both have it.
+
+187
+00:29:32.920 --> 00:29:33.310
+Jari Koivisto (OpenChain Project): Or.
+
+188
+00:29:33.310 --> 00:29:34.699
+Anthony Harrison (Not Applicable): Usage depends on the use case.
+
+189
+00:29:35.490 --> 00:29:42.629
+Jari Koivisto (OpenChain Project): Yeah, although nowadays one could, you know, discuss, like, if if the vulnerabilities need to go to snippet level as well.
+
+190
+00:29:43.190 --> 00:29:45.639
+Jari Koivisto (OpenChain Project): But that's another discussion.
+
+191
+00:29:45.940 --> 00:29:49.260
+Anthony Harrison (Not Applicable): That's a very big discussion. Now. Yeah, yeah.
+
+192
+00:29:49.760 --> 00:29:54.289
+Anthony Harrison (Not Applicable): I've I've been having discussions about going down to function level of it within a package.
+
+193
+00:29:55.115 --> 00:29:58.919
+Anthony Harrison (Not Applicable): In cyclone Dx, which is similar to snippets.
+
+194
+00:29:59.100 --> 00:29:59.659
+Jari Koivisto (OpenChain Project): Yep.
+
+195
+00:30:06.220 --> 00:30:15.349
+Jari Koivisto (OpenChain Project): yeah. I've been talking with some security suppliers or and and there's the discussion that, indeed, that if it needs to go to the function or method level
+
+196
+00:30:15.650 --> 00:30:21.220
+Jari Koivisto (OpenChain Project): the the question, if somebody copy paste this, the the vulnerable function
+
+197
+00:30:21.490 --> 00:30:26.699
+Jari Koivisto (OpenChain Project): to to the you know proprietary code, then you know, of course, one should be able to detect that as well.
+
+198
+00:30:28.830 --> 00:30:37.149
+Norio Kobota (Sony Group Corporation): Thank you. I realize it's not only the license issues, but also the security issues from the Singapore level.
+
+199
+00:30:38.000 --> 00:30:39.719
+Norio Kobota (Sony Group Corporation): That's very interesting.
+
+200
+00:30:44.550 --> 00:31:04.700
+Jari Koivisto (OpenChain Project): Yeah, I'm not sure if that's just a theoretical thing, or or something that has happened or can happen. But I can imagine that one can copy, let's say, the function where the vulnerability is to the proprietary code, and and obviously, then, the proprietary code can be vulnerable as well.
+
+201
+00:31:09.370 --> 00:31:16.580
+Norio Kobota (Sony Group Corporation): Thank you very much. Okay, has any other other comment or questions.
+
+202
+00:31:23.300 --> 00:31:31.330
+Norio Kobota (Sony Group Corporation): Okay, so I'll move on to next sharing next interesting challenge.
+
+203
+00:31:31.870 --> 00:31:36.329
+Norio Kobota (Sony Group Corporation): This is a discussion on the February 17th
+
+204
+00:31:36.600 --> 00:31:41.770
+Norio Kobota (Sony Group Corporation): and we had a second discussion within Japan working group.
+
+205
+00:31:42.350 --> 00:31:48.920
+Norio Kobota (Sony Group Corporation): And one interesting challenge is diversity of information and the lack of standardization.
+
+206
+00:31:49.630 --> 00:32:00.410
+Norio Kobota (Sony Group Corporation): and to properly manage licenses and track vulnerabilities. There may be additional information required beyond the entity minimum elements.
+
+207
+00:32:01.668 --> 00:32:06.609
+Norio Kobota (Sony Group Corporation): For example, the build options or build environment details.
+
+208
+00:32:07.040 --> 00:32:18.280
+Norio Kobota (Sony Group Corporation): however, there is no standard determining in which situations which information is necessary, or how each field should be populated.
+
+209
+00:32:18.800 --> 00:32:38.900
+Norio Kobota (Sony Group Corporation): and as some tools lack adequate support for specific programming languages or package managers this, occurs in variations in the information corrected fields used to record. And it depends on each tools actually.
+
+210
+00:32:39.910 --> 00:32:51.489
+Norio Kobota (Sony Group Corporation): and in the separate chain package may be customized or repackaged which can lead to inconsistencies with the original building information
+
+211
+00:32:52.350 --> 00:32:57.650
+Norio Kobota (Sony Group Corporation): so resulting inaccurate regarding dependencies and details
+
+212
+00:32:58.380 --> 00:33:08.360
+Norio Kobota (Sony Group Corporation): and then regarding to these challenges. We set 3 checkpoints and proposal solutions and the automation feasibilities
+
+213
+00:33:08.650 --> 00:33:17.590
+Norio Kobota (Sony Group Corporation): and one checkpoint is checks. The presence of energy minimum elements as well as additional required information
+
+214
+00:33:18.270 --> 00:33:34.409
+Norio Kobota (Sony Group Corporation): and confirm differences in each file. Each field outputs among various tools and ensure consistency with original build information. Even when the packaging and customization
+
+215
+00:33:34.770 --> 00:33:36.930
+Norio Kobota (Sony Group Corporation): occurs within the supply chain.
+
+216
+00:33:37.310 --> 00:33:48.599
+Norio Kobota (Sony Group Corporation): And the proposal solution is like this, develop guidelines within the industry or community to agree on mandatory fields and additional information.
+
+217
+00:33:48.840 --> 00:34:00.619
+Norio Kobota (Sony Group Corporation): And I think this leads to the Shane's idea to share within some people so I'd like to discuss later.
+
+218
+00:34:01.120 --> 00:34:13.889
+Norio Kobota (Sony Group Corporation): and a standardized mapping rules and conversation, logic, combustion, logic among various tools to automatically consolidate up to outputs into our standardized format
+
+219
+00:34:14.270 --> 00:34:26.109
+Norio Kobota (Sony Group Corporation): and establish operational rules and audit processes. To ensure original build. Information is not lost during repackaging or customization.
+
+220
+00:34:26.810 --> 00:34:52.179
+Norio Kobota (Sony Group Corporation): and to realize these processes and checkpoints we consider about the automation and automator point is convert tools outputs into standardized formats and automatically map and verify collected data against predefined checklist including suggesting candidates for missing information.
+
+221
+00:34:52.750 --> 00:35:14.980
+Norio Kobota (Sony Group Corporation): But still, we needed to check manually necessary to handle specific project or environment variations and to automatically detect and reconcile description. Sorry I can't in late analyzing wrong customization in the supply chain.
+
+222
+00:35:16.060 --> 00:35:20.229
+Norio Kobota (Sony Group Corporation): These are our outputs from this discussion.
+
+223
+00:35:20.880 --> 00:35:27.320
+Norio Kobota (Sony Group Corporation): So I'd like to ask you some comments or questions.
+
+224
+00:35:29.420 --> 00:35:49.751
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Yeah, I'll go first.st so I think on the proposed solution part on developing the guidelines. To have the mandatory and additional information. This is something which we are currently having. And some of the details have already been like made open source.
+
+225
+00:35:50.648 --> 00:35:59.020
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): So we have a schema which which is on currently on the Spdx, 2.3 and Cyclon, Dx. 1.4.
+
+226
+00:35:59.100 --> 00:36:09.809
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): And we are all already like working on the other schemas as well on the higher versions. So we have mandatory and optional fields. What, how it should look like.
+
+227
+00:36:09.830 --> 00:36:38.379
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): and also the mapping for the same has already been, you know, something that we already have internally so. Some information, as I said, is already made open source, and I think in the coming days we will be adding more data to this. So I think if all of you agree, then probably you could also look into that and see, like you know, what are the comments that you have and how this can be further refined.
+
+228
+00:36:38.760 --> 00:36:42.740
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): So I would put the repository link here.
+
+229
+00:36:43.170 --> 00:36:50.219
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Currently it's not complete. But then I think in the coming days there'll be like more updates to it. So
+
+230
+00:36:50.580 --> 00:36:54.039
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): is I think I'll just add it here, and
+
+231
+00:36:54.450 --> 00:36:59.640
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): then we could have a look into this, probably in the coming calls. Is it okay?
+
+232
+00:37:06.590 --> 00:37:13.940
+Norio Kobota (Sony Group Corporation): Where the new guidelines will be used. What the areas or what the industry can ask.
+
+233
+00:37:14.670 --> 00:37:16.580
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Sorry. Can you come again.
+
+234
+00:37:18.411 --> 00:37:36.040
+Norio Kobota (Sony Group Corporation): if I understand correctly, you will. You are creating some guidelines in specific industries. So my my question is, what industry is. A guideline will be used.
+
+235
+00:37:37.068 --> 00:37:48.210
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): It's it's not specific to any industry. So basically, what we have is the schemas which contains mandatory and optional fields and also mapping.
+
+236
+00:37:48.500 --> 00:37:55.780
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): I think this could be a generic schema, you know, that can be utilized across industry. So.
+
+237
+00:37:55.780 --> 00:37:56.130
+Norio Kobota (Sony Group Corporation): Hey!
+
+238
+00:37:56.456 --> 00:38:07.869
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Like we are from wash so we we are currently, I would say, like, probably have it in the automotive domain. But then this is also something that can be utilized by others.
+
+239
+00:38:09.840 --> 00:38:10.569
+Norio Kobota (Sony Group Corporation): Thank you.
+
+240
+00:38:10.840 --> 00:38:11.430
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Yeah.
+
+241
+00:38:11.630 --> 00:38:12.310
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Yeah.
+
+242
+00:38:13.760 --> 00:38:23.849
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): So I've dropped the link of the repository where we would be updating other schemas. So yeah, this is something which we could consider in the coming days.
+
+243
+00:38:24.120 --> 00:38:24.970
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Thank you.
+
+244
+00:38:26.120 --> 00:38:32.099
+Norio Kobota (Sony Group Corporation): Yes, thank you very much. Oh, okay, I know this. Thank you very much.
+
+245
+00:38:32.100 --> 00:38:32.590
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Cool.
+
+246
+00:38:33.010 --> 00:38:33.869
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): There we go!
+
+247
+00:38:41.750 --> 00:38:45.269
+Norio Kobota (Sony Group Corporation): Are there any comments or questions.
+
+248
+00:38:47.010 --> 00:38:56.679
+Anthony Harrison (Not Applicable): It was a very interesting conversation. It was a very interesting presentation at Fosdem earlier this month, which went through all the different
+
+249
+00:38:57.260 --> 00:39:03.749
+Anthony Harrison (Not Applicable): attributes that you could include in this bomb. So you've got the Ntia minimum one, as you've stated
+
+250
+00:39:04.450 --> 00:39:10.739
+Anthony Harrison (Not Applicable): most s. 1 c even fail to do that. And that's the easy one. And there are increasingly number of
+
+251
+00:39:11.313 --> 00:39:19.739
+Anthony Harrison (Not Applicable): regulations which are asking for more information. And we there's there's a danger that a lot of that information isn't really available
+
+252
+00:39:19.910 --> 00:39:21.520
+Anthony Harrison (Not Applicable): in the ecosystems.
+
+253
+00:39:23.130 --> 00:39:26.090
+Anthony Harrison (Not Applicable): I would focus on less rather than more at this stage.
+
+254
+00:39:28.090 --> 00:39:31.879
+Anthony Harrison (Not Applicable): Because we need to get need to get a good foundation first.st
+
+255
+00:39:33.580 --> 00:39:40.950
+Anthony Harrison (Not Applicable): The auto industry has just come up with a guidelines. I think they might have been driven from the Us. About
+
+256
+00:39:41.340 --> 00:39:47.499
+Anthony Harrison (Not Applicable): sharing. So maybe the previous talk as a spare speaker
+
+257
+00:39:48.013 --> 00:39:51.250
+Anthony Harrison (Not Applicable): might might be familiar with what they were talking about.
+
+258
+00:39:52.043 --> 00:39:57.809
+Anthony Harrison (Not Applicable): But I think we just need to be very careful. We don't try and run before we can walk.
+
+259
+00:40:01.760 --> 00:40:17.240
+Anthony Harrison (Not Applicable): and many of the commercial tools don't meet the minimum requirements from, and some of the open source ones do. But some of the commercial tools I've looked at don't don't meet the minimum standards they have great detail difficulties sort of uniquely identifying the components.
+
+260
+00:40:17.380 --> 00:40:23.060
+Anthony Harrison (Not Applicable): And that is probably one of the biggest biggest challenges we've got to do is component identification.
+
+261
+00:40:26.540 --> 00:40:28.530
+Norio Kobota (Sony Group Corporation): I completely agree.
+
+262
+00:40:28.940 --> 00:40:29.880
+Norio Kobota (Sony Group Corporation): Thank you.
+
+263
+00:40:30.640 --> 00:40:31.940
+Norio Kobota (Sony Group Corporation): Yes.
+
+264
+00:40:33.130 --> 00:40:44.720
+Norio Kobota (Sony Group Corporation): actually, I'm from Sony Group. And we have many industry to provide us some commercial products or commercial services.
+
+265
+00:40:44.870 --> 00:40:55.960
+Norio Kobota (Sony Group Corporation): and each industry have another different guidelines. So it's very difficult to conform all guidelines.
+
+266
+00:40:56.090 --> 00:40:59.030
+Norio Kobota (Sony Group Corporation): So it's a big challenges as well.
+
+267
+00:41:03.860 --> 00:41:16.290
+Norio Kobota (Sony Group Corporation): So I'd like to know your company, your your efforts, how to comprise every guide? Right? It's very difficult, I think.
+
+268
+00:41:28.590 --> 00:41:32.200
+Norio Kobota (Sony Group Corporation): Are there any comments or questions?
+
+269
+00:41:33.590 --> 00:41:34.540
+Norio Kobota (Sony Group Corporation): Nothing.
+
+270
+00:41:39.410 --> 00:41:45.319
+Norio Kobota (Sony Group Corporation): Okay. So this is a last slide from mine. So
+
+271
+00:41:45.440 --> 00:42:04.160
+Norio Kobota (Sony Group Corporation): I realize, there are many people to having similar challenges. And many people have a solution. Ideas. So please discuss with. I think it's difficult to discuss in
+
+272
+00:42:04.350 --> 00:42:21.560
+Norio Kobota (Sony Group Corporation): English, because I'm from Japan, and I'm not so good at discussing in English. So I organize Japan communities. And I discuss in Japanese languages
+
+273
+00:42:21.560 --> 00:42:40.830
+Norio Kobota (Sony Group Corporation): and translate into English, and bring here to, under showing and sharing these discussions and results. So please discuss with your friends or with your local communities, and please share these challenges and solution ideas here.
+
+274
+00:42:41.330 --> 00:42:59.310
+Norio Kobota (Sony Group Corporation): So no. And then I will set up the meeting so sharing with sharing your ideas and challenges here. So please let us know with a mailing list or directory to Shang or me.
+
+275
+00:42:59.670 --> 00:43:06.149
+Norio Kobota (Sony Group Corporation): and please create issues on the Github and continue to discuss here
+
+276
+00:43:06.290 --> 00:43:24.909
+Norio Kobota (Sony Group Corporation): and at the 1st slide I mentioned, Yellison created a good fast issues, and I will create the to the convert to the discussions next time. So please create issues or discussions. If you have.
+
+277
+00:43:25.710 --> 00:43:28.890
+Norio Kobota (Sony Group Corporation): this is my request. Follow the next time.
+
+278
+00:43:32.910 --> 00:43:41.400
+Norio Kobota (Sony Group Corporation): Okay, that's all from my side. But I have questions from Yarison.
+
+279
+00:43:45.410 --> 00:43:49.230
+Jari Koivisto (OpenChain Project): Yeah, I can ask that, you know here, loudly like.
+
+280
+00:43:49.980 --> 00:43:57.151
+Jari Koivisto (OpenChain Project): do you or does anybody in in this group know that if we have any people from. I don't know black dock or or
+
+281
+00:43:58.230 --> 00:44:01.849
+Jari Koivisto (OpenChain Project): post id or scan oss in in this group.
+
+282
+00:44:02.620 --> 00:44:08.479
+Jari Koivisto (OpenChain Project): because they they most likely could comment some of the issues we have raised already.
+
+283
+00:44:09.210 --> 00:44:15.757
+Anthony Harrison (Not Applicable): Good, not black duck, but I'm open source.
+
+284
+00:44:16.864 --> 00:44:31.099
+Anthony Harrison (Not Applicable): for just before first, st then we had a a gathering of lots of the open source communities and things like physiology, 3, 60 or scan code, etc. So I'm part of that community.
+
+285
+00:44:31.900 --> 00:44:34.239
+Anthony Harrison (Not Applicable): And so I recognize a lot of the challenges.
+
+286
+00:44:34.773 --> 00:44:37.250
+Anthony Harrison (Not Applicable): I think the intention is, there are
+
+287
+00:44:38.100 --> 00:44:47.110
+Anthony Harrison (Not Applicable): through the Scan code project or about code. There are issues that are being looked at at a community level
+
+288
+00:44:47.606 --> 00:45:05.320
+Anthony Harrison (Not Applicable): which I think would be useful. I I haven't got the. I haven't got the github link. Sorry, but but yes, there is a certain because of Europe. The Cyber Resilience Act is driving a lot of need. So this is already being quite a lot of the issues are being looked at.
+
+289
+00:45:06.970 --> 00:45:09.570
+Jari Koivisto (OpenChain Project): In, and you know, Philip, Philip is there, I guess.
+
+290
+00:45:09.810 --> 00:45:16.099
+Anthony Harrison (Not Applicable): Philip is very much. Yeah. So obviously, there was a standardized standardization of
+
+291
+00:45:16.760 --> 00:45:31.580
+Anthony Harrison (Not Applicable): Cyclone. Dx went through Ecma. Then there's a standardization of pearl, which is the package URL, which is going through this year. There's also the standardization of sharing S bombs through thing called transparency exchange Api.
+
+292
+00:45:31.690 --> 00:45:39.119
+Anthony Harrison (Not Applicable): So that's going through, whether that'll be this year or maybe next year. So there's lots of issues that are starting to be looked at at sort of the
+
+293
+00:45:39.280 --> 00:45:45.325
+Anthony Harrison (Not Applicable): concept level and the level of what goes into an S bomb.
+
+294
+00:45:47.550 --> 00:46:02.450
+Anthony Harrison (Not Applicable): I am slightly slightly worried that this the EU will come up with a different set of standards. There you are. Thank thank you, Marcel. I'm concerned that the EU may come up with slightly different needs that are
+
+295
+00:46:02.700 --> 00:46:08.649
+Anthony Harrison (Not Applicable): different. I wish we would just have a global issue rather than that. Yeah, perfect.
+
+296
+00:46:08.770 --> 00:46:11.049
+Anthony Harrison (Not Applicable): And so there's some good tools there.
+
+297
+00:46:12.806 --> 00:46:28.619
+Anthony Harrison (Not Applicable): but we would try one of the one of the workshop ideas was to try and get the community, the users of the community to drive the requirements rather than just the community generating the next great great things. And I think we need to have more end users involved.
+
+298
+00:46:29.346 --> 00:46:31.049
+Anthony Harrison (Not Applicable): To drive the need.
+
+299
+00:46:37.280 --> 00:46:47.710
+Anthony Harrison (Not Applicable): because I think that's what the Regulators are just coming up with ideas. But actually, are they the right ideas? Really, we want to see what the what are the ones that are giving value.
+
+300
+00:46:50.870 --> 00:47:01.409
+Marc-Etienne Vargenau (Nokia Corporation): Thank you very much. Oh, yes, about participation of tool providers.
+
+301
+00:47:01.440 --> 00:47:10.850
+Marc-Etienne Vargenau (Nokia Corporation): We have an experience with scan oss in the Telco working group.
+
+302
+00:47:11.465 --> 00:47:35.459
+Marc-Etienne Vargenau (Nokia Corporation): They are not participating to the meetings, but they have contacted us. And they are working to make the output of scan oss conformant to open chain, Telco guidance. So yes, perhaps you can contact them also
+
+303
+00:47:35.760 --> 00:47:37.780
+Marc-Etienne Vargenau (Nokia Corporation): in in this work group.
+
+304
+00:47:42.050 --> 00:47:50.859
+Norio Kobota (Sony Group Corporation): Thank you very much. Oh, master, thank you very much. To share the Openj April event.
+
+305
+00:47:52.150 --> 00:47:55.659
+Norio Kobota (Sony Group Corporation): Do you introduce? Can you introduce this event?
+
+306
+00:47:57.180 --> 00:48:00.279
+Marcel Kurzmann (Bosch): Yeah, sure. So we we planned
+
+307
+00:48:00.500 --> 00:48:26.289
+Marcel Kurzmann (Bosch): in the open chain tooling group to make a workshop to work also on our catalog. So, therefore, this pre work from Philip was very good, and Oliver's also in the line. So where we have also the capability maps, standardized architectures, things like that our. Why do we do it in Stuttgart? Because here we have the Fossland community is a regional activity
+
+308
+00:48:26.829 --> 00:48:44.449
+Marcel Kurzmann (Bosch): that supports us also with the room and also, I think, and that's a good side effect. We've we target also to have a small and medium enterprises there. And I think that's a good test for us, right? Because if they understand what we provide
+
+309
+00:48:44.916 --> 00:48:57.709
+Marcel Kurzmann (Bosch): then we we did it because sometimes well, there's a lot of material and you get lost right? And this is what we we try to tackle there together with the tool representative
+
+310
+00:48:57.860 --> 00:49:27.479
+Marcel Kurzmann (Bosch): focusing only on open source. That's perhaps one limitation there. But I think this is already enough. So we, what with Oliver, we already always tried in the tooling group, also to provide open source management tools in open source. So that is free and available for everyone in the supply chain. I think from that end it fits. And now, yeah, we have then potential uses in there. That also provide us feedback. But.
+
+311
+00:49:27.700 --> 00:49:48.859
+Marcel Kurzmann (Bosch): as I said, as we also invited and and promoted with all the tool providers from the open source side. We also plan to have those workshops potentially even trainings whatever. So this is, if you want to participate or also contribute in in the program. Please join us on the tooling group mailing list.
+
+312
+00:49:49.050 --> 00:49:52.420
+Marcel Kurzmann (Bosch): where we are open for for
+
+313
+00:49:53.070 --> 00:50:10.429
+Marcel Kurzmann (Bosch): proposals. So we will refine the the agenda. In the next days, I would say, I hope and also it's free. Yeah, so. But you need to register. So if you see on the on the page. You'll see the the registration link.
+
+314
+00:50:13.150 --> 00:50:15.050
+Norio Kobota (Sony Group Corporation): Thank you very much. Oh.
+
+315
+00:50:15.050 --> 00:50:22.179
+Oliver Fendt (Siemens AG): Yeah. May may I add some something because of the commercial tool vendor?
+
+316
+00:50:23.718 --> 00:50:33.109
+Oliver Fendt (Siemens AG): So we we do not want to be let's say, the marketing vehicle of of commercial tool vendors, so that therefore it's
+
+317
+00:50:34.452 --> 00:50:42.303
+Oliver Fendt (Siemens AG): focused on open source tooling because they do not have that much marketing, and so we want to
+
+318
+00:50:42.980 --> 00:50:53.720
+Oliver Fendt (Siemens AG): promote them, and not being, as I said, the marketing vehicle of commercial renewals. Furthermore, in regard to
+
+319
+00:50:54.370 --> 00:51:01.930
+Oliver Fendt (Siemens AG): I think prob. So in in the end, we need experienced developers who know what they are
+
+320
+00:51:02.090 --> 00:51:06.350
+Oliver Fendt (Siemens AG): including in the software they are creating.
+
+321
+00:51:06.580 --> 00:51:10.340
+Oliver Fendt (Siemens AG): And so then the software bill of material
+
+322
+00:51:10.890 --> 00:51:23.799
+Oliver Fendt (Siemens AG): generated, but without knowledgeable developers who do not really know what they are all integrating. It's pretty hard to generate a complete and accurate S. Pro.
+
+323
+00:51:25.350 --> 00:51:27.870
+Oliver Fendt (Siemens AG): It's only my. And so that.
+
+324
+00:51:28.290 --> 00:51:35.669
+Marcel Kurzmann (Bosch): Also one addition that I forgot because we called it open chain and friends. Because
+
+325
+00:51:36.090 --> 00:51:48.000
+Marcel Kurzmann (Bosch): and there I'm happy. I already get confirmation that, for example, from from Ovasp will join, will be joining and also open. Ssf, they tried to get someone from Europe, so that we also
+
+326
+00:51:48.407 --> 00:52:17.979
+Marcel Kurzmann (Bosch): try to use synergies with with the security side of of the of this story, right? Because we're we. Originally we were coming from open source compliance and tooling. And we saw now with software composition analysis, that we have a common ground with security, potentially, even artists. And this is then also also, as we saw in the in the workshop of Philip, that they are, and also on the list of that we have there in the issues.
+
+327
+00:52:18.400 --> 00:52:25.799
+Marcel Kurzmann (Bosch): That we have much more tools than just open source compliance. But also security. And I think there's also
+
+328
+00:52:26.355 --> 00:52:38.780
+Marcel Kurzmann (Bosch): a good, a good potential. Because when we started, we said, Okay, we cannot afford to reinvent the wheel because we are only a tiny community. Right? So we need to really, yeah.
+
+329
+00:52:40.390 --> 00:52:49.890
+Marcel Kurzmann (Bosch): manage our resources that we have. And then, ideally, we can find synergies. We might also identify gaps and
+
+330
+00:52:50.761 --> 00:52:53.448
+Marcel Kurzmann (Bosch): then provide also blueprints.
+
+331
+00:52:54.460 --> 00:53:24.150
+Marcel Kurzmann (Bosch): and therefore this fits very well here with the discussion, we said, Okay, we also would need to identify the use cases right? So that as an Sme, I will be potentially confronted by my customer. Hey? I need an S bomb, and then they will be what I do now, and if we then provide the guidance. Okay, here, you can use either this blueprint with these tools or that problem with that tools, whatever. I think that would fit very well to this study group as well.
+
+332
+00:53:24.500 --> 00:53:25.240
+Marcel Kurzmann (Bosch): Thank you.
+
+333
+00:53:26.530 --> 00:53:27.440
+Norio Kobota (Sony Group Corporation): Thank you.
+
+334
+00:53:29.070 --> 00:53:33.560
+Norio Kobota (Sony Group Corporation): I have one request as I
+
+335
+00:53:33.840 --> 00:53:43.570
+Norio Kobota (Sony Group Corporation): I'd like to join this this meeting, this event, but at any opportunity to participate in. Virtually
+
+336
+00:53:43.860 --> 00:53:48.299
+Norio Kobota (Sony Group Corporation): it's a little difficult to travel from Japan.
+
+337
+00:53:50.120 --> 00:53:54.919
+Norio Kobota (Sony Group Corporation): Don't you consider the virtual meeting opportunity.
+
+338
+00:53:54.920 --> 00:54:11.396
+Marcel Kurzmann (Bosch): We? We discussed it. But we said, we will do this one only on in person. But as we also have. As you also see in the list, we have so many topics. We said, Okay,
+
+339
+00:54:12.650 --> 00:54:37.600
+Marcel Kurzmann (Bosch): that we and and Shane was also yeah in favor of that. If, if we say if there are topics, then we can accompany this event with with Webinars upfront, or afterwards right? So then we can also here use the event to focus on socializing and and discussions, but for having done more details about the tools, etc, that we
+
+340
+00:54:37.936 --> 00:54:49.040
+Marcel Kurzmann (Bosch): for for those where we do not have webinars yet, because we already have some that's really cool. We have a good collection already. But that we can also, yeah.
+
+341
+00:54:50.710 --> 00:55:00.640
+Marcel Kurzmann (Bosch): yeah. Get. Get the presenters also hopefully to have either before or afterwards. Also a webinar in in open chain.
+
+342
+00:55:02.690 --> 00:55:03.630
+Norio Kobota (Sony Group Corporation): Thank you.
+
+343
+00:55:03.810 --> 00:55:06.650
+Marcel Kurzmann (Bosch): And it's also not meant to be the last one.
+
+344
+00:55:07.251 --> 00:55:21.380
+Marcel Kurzmann (Bosch): So if if you so Rakesh is also I know he already left. But I also try to to have this in several places in future right? So on the one side here, being
+
+345
+00:55:21.490 --> 00:55:28.860
+Marcel Kurzmann (Bosch): in Southern Germany, revive also our or re-spark our tooling group.
+
+346
+00:55:29.390 --> 00:55:33.879
+Marcel Kurzmann (Bosch): But I think you already did a very good job there in in Japan.
+
+347
+00:55:34.655 --> 00:55:42.919
+Marcel Kurzmann (Bosch): So if we can then just make a summary of the event. We can also come and join your
+
+348
+00:55:43.080 --> 00:55:49.230
+Marcel Kurzmann (Bosch): automation work group Japan work group. And then just yeah, give a summary. If you want.
+
+349
+00:55:50.400 --> 00:55:53.049
+Norio Kobota (Sony Group Corporation): Sure. Thank you very much for consideration.
+
+350
+00:55:53.840 --> 00:56:05.169
+Oliver Fendt (Siemens AG): Personally. So, to add to to Marcel's points. Personally, I would love to have such kind of as an outcome of this event.
+
+351
+00:56:05.390 --> 00:56:16.790
+Oliver Fendt (Siemens AG): An action item list, where, let's say, webinars are listed. So we need more experience and more insights about XYZ. And then we will
+
+352
+00:56:17.370 --> 00:56:27.810
+Oliver Fendt (Siemens AG): be able to work concrete on on needed. Yeah, let's say, webinars, and that would be really nice as an as an outcome for me personally.
+
+353
+00:56:29.970 --> 00:56:33.000
+Norio Kobota (Sony Group Corporation): Yeah, I agree. Thank you very much.
+
+354
+00:56:36.000 --> 00:56:41.280
+Norio Kobota (Sony Group Corporation): And I realize that this is a very good activities.
+
+355
+00:56:41.390 --> 00:56:51.880
+Norio Kobota (Sony Group Corporation): It is a key point to inform our challenges to input to the 2 vendors. It's a mandatory for us, and
+
+356
+00:56:52.060 --> 00:56:54.260
+Norio Kobota (Sony Group Corporation): in near future
+
+357
+00:56:54.400 --> 00:57:16.071
+Norio Kobota (Sony Group Corporation): I do. It would be good to involve some. Of course there is some concerns Oliver said. But I'd like to involve some commercial vendor companies to discuss our challenges and input our challenge to them. It's
+
+358
+00:57:17.150 --> 00:57:22.049
+Norio Kobota (Sony Group Corporation): improve the export qualities generated by the some tools.
+
+359
+00:57:27.820 --> 00:57:34.330
+Norio Kobota (Sony Group Corporation): Okay, it's about 10 min before to finish.
+
+360
+00:57:35.080 --> 00:57:39.169
+Norio Kobota (Sony Group Corporation): But I will recap today's discussion
+
+361
+00:57:39.820 --> 00:57:55.460
+Norio Kobota (Sony Group Corporation): history. I shared the gap of previous meeting, and thank you very much. Good. 1st issue from Jerryson on the Github. Issues on the at the S Bomb study group repository.
+
+362
+00:57:55.710 --> 00:57:58.719
+Norio Kobota (Sony Group Corporation): and we'll continue to discuss next time.
+
+363
+00:57:59.160 --> 00:58:19.949
+Norio Kobota (Sony Group Corporation): And I shared the result of Japanese discussion about the challenges we have about the spoon from the perspective of spon qualities. But I understand that we need to discuss what is bomb quality this brings from the Max.
+
+364
+00:58:20.520 --> 00:58:27.160
+Norio Kobota (Sony Group Corporation): And next time I will bring some ideas or answers about this.
+
+365
+00:58:28.310 --> 00:58:42.284
+Norio Kobota (Sony Group Corporation): Okay? So I asked at the end. I'd like to ask you, and I'll request to you to create the issues. If you have any challenges and
+
+366
+00:58:42.860 --> 00:58:49.964
+Norio Kobota (Sony Group Corporation): to create some, how can I say, I? We explored.
+
+367
+00:58:50.870 --> 00:59:14.599
+Norio Kobota (Sony Group Corporation): it's not decided. But we, I'd like to create some guidelines from OP study group. So I in, I create some guidelines, and including these say, checkpoints and approval solutions. And so on up some
+
+368
+00:59:14.850 --> 00:59:25.229
+Norio Kobota (Sony Group Corporation): faqs or or and other sections. So please create issues or discussions on Github.
+
+369
+00:59:26.660 --> 00:59:29.090
+Norio Kobota (Sony Group Corporation): Okay, that's all from my side
+
+370
+00:59:30.230 --> 00:59:36.999
+Norio Kobota (Sony Group Corporation): at the end. Are there any questions or comments about how this meeting?
+
+371
+00:59:45.660 --> 00:59:46.290
+Norio Kobota (Sony Group Corporation): Nothing.
+
+372
+00:59:47.070 --> 00:59:51.600
+Norio Kobota (Sony Group Corporation): Okay. Thank you for attending today and have a good day.
+
+373
+00:59:52.870 --> 00:59:53.910
+Oliver Fendt (Siemens AG): Thank you very much.
+
+374
+00:59:54.680 --> 00:59:55.140
+Alin Jerpelea (Sony Group Corporation): Goodbye!
+
+375
+00:59:55.588 --> 00:59:57.829
+Holger Steudle (Vector Informatik GmbH): For hosting the meeting. Goodbye.
+
+376
+00:59:57.830 --> 00:59:58.630
+Marcel Kurzmann (Bosch): Bye.
+
+377
+00:59:59.000 --> 00:59:59.950
+Norio Kobota (Sony Group Corporation): Thank you very much.
+
+378
+01:00:00.820 --> 01:00:01.710
+Nobuyuki Tanaka (Sony Group Corporation): Thank you.
+
