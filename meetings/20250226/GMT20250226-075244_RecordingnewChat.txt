@@ -1,0 +1,48 @@
+00:09:06	Shane Coughlan (The Linux Foundation):	Hello everyone!
+00:09:13	Shane Coughlan (The Linux Foundation):	🙌
+00:09:27	Jari Koivisto (OpenChain Project):	Reacted to "Hello everyone!" with 👋
+00:14:42	Jari Koivisto (OpenChain Project):	Granularity can go to snippet level too.
+00:16:06	Anthony Harrison (Not Applicable):	Challenge #1 - depends what the supplier was asked for. Did you ask for a Source SBOM or a Build SBOM? I think most requests for an SBOM are not precise enough - just give me an SBOM! Without explicit explanation of how the SBOM is to be used
+00:16:30	Jari Koivisto (OpenChain Project):	Reacted to "Challenge #1 - depen..." with 👍
+00:17:02	Holger Steudle (Vector Informatik GmbH):	Reacted to "Challenge #1 - depen..." with 👍
+00:17:15	Nobuyuki Tanaka (Sony Group Corporation):	When supply chain is complex, there are many suppliers.Can we ask all suppliers?
+00:19:08	Shane Coughlan (The Linux Foundation):	If needed, please write a comment here ☺️
+00:19:30	Shane Coughlan (The Linux Foundation):	Just a note: I’m going on stage in Tokyo in a few minutes, so I’m dropping out now 🫡🫡🫡
+00:19:44	Jari Koivisto (OpenChain Project):	Reacted to "Just a note: I’m goi..." with 👋
+00:20:21	Nobuyuki Tanaka (Sony Group Corporation):	Especially, When suppliers are many level, we can't reach them by 1 hop.
+00:21:32	Marcel Kurzmann (Bosch):	Can we perhaps collect the 3-4 most frequent use cases and start with that as a premise?
+00:22:15	Jari Koivisto (OpenChain Project):	I think that SBOM and SBOM document are two different things. Today SBOM documents (SPDX or CDX) are used to ship SBOMs, but most likely organizations have their own systems (DBs) to store the SBOM metadata.
+00:22:52	Anthony Harrison (Not Applicable):	The main use cases for SBOM are vulnerability management and licence compliance. A source SBOM is good for licence compliance but but not for vulnerability management; a build SBOM at the package level is needed for vulnerability management.
+00:25:25	Marcel Kurzmann (Bosch):	Reacted to "The main use cases f..." with 👍
+00:25:34	Anthony Harrison (Not Applicable):	@Jari Koivisto (OpenChain Project) Agree but there is a danger that only a subset of the data in a SBOM is captured in the database which could lose valuable data.
+00:26:26	Norio Kobota (Sony Group Corporation):	"Challenge #1 - dep..." に対して 👍 で対応しました
+00:26:57	Anthony Harrison (Not Applicable):	We need to focus on the end users (consumers of SBOMs) and what they need. To solve the format issue, why not deliver the SBOM in both formats?
+00:27:08	Jari Koivisto (OpenChain Project):	Replying to "@Jari Koivisto (Open..."
+
+Yep. I think that the DBs should be able to capture all data that can be available in SBOMs and maybe have even additional tables for the metadata that the organization may need.
+00:27:49	Marcel Kurzmann (Bosch):	Reacted to "Yep. I think that th..." with 👍
+00:30:00	Marcel Kurzmann (Bosch):	Replying to "@Jari Koivisto (Open..."
+
+We identified internally 4 different types of "Documents" including the full SBOM with full Transparency that is not to be shared. The other 3 documents depend on the context of sharing but are a subset of the full-SBOM.
+00:31:48	Jari Koivisto (OpenChain Project):	Reacted to "We identified intern..." with 👍
+00:33:07	Marcel Kurzmann (Bosch):	Replying to "@Jari Koivisto (Open..."
+
+In the OpenChain context we should require everyone in the supply-chain that the fulll SBOM is available in organizations internal processes - Independent if sub-parts of that will be shared Downstream or not. But the Transparency needs to be ensured.
+00:35:04	Anthony Harrison (Not Applicable):	CISA (US) is conducting an analysis of various SBOM generators as regards the population of the various fields (work is being done by SEI). There is a lot of ambiguity particularly with the supplier information and the unique identifier of the software. CycloneDX appears to be considered easier to understand than SPDX (version 2).
+00:36:59	Anthony Harrison (Not Applicable):	#2 Environment issues is a big gap in both standards as they have a big impact on the content of the SBOM e.g. different versions of Python will result in different dependencies. CycloneDX allows (via properties) to include additional context information.
+00:38:15	Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited):	https://github.com/OpenChain-Project/SBOM-sg-SEPIA
+00:41:41	Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited):	I have to drop now, Thank you for the wonderful discussion. Please create a pull request in case of any queries regarding the SEPIA project.
+00:42:39	Anthony Harrison (Not Applicable):	Your English is very good! Much better than my Japanese :-)
+00:42:40	Jari Koivisto (OpenChain Project):	Question: do we have any people from the SCA tooling companies and/or Open Source communities in this group?
+00:43:23	Jari Koivisto (OpenChain Project):	Reacted to "Your English is very..." with ❤️
+00:45:52	Marcel Kurzmann (Bosch):	Here is the link https://github.com/aboutcode-org/workshop/issues
+00:46:26	Jari Koivisto (OpenChain Project):	Reacted to "Here is the link htt..." with ❤️
+00:46:46	Marcel Kurzmann (Bosch):	Philippe and ScanOSS and many others will also be participating in our April Event in Stuttgart
+00:47:14	Marcel Kurzmann (Bosch):	https://openchainproject.org/unlisted/2025/02/20/openchain-and-friends-stuttgart
+00:47:17	Norio Kobota (Sony Group Corporation):	"https://openchainp..." に対して 👍 で対応しました
+00:48:28	Holger Steudle (Vector Informatik GmbH):	Replying to "Question: do we have..."
+
+I am part of a small User Feedback Group for SupplyChain/Sbom Topics with Black Duck Product Management. There are the same challenges discussed
+00:55:26	Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited):	I am back Marcel
+00:59:57	Jari Koivisto (OpenChain Project):	This was great! Thanks all!
+01:00:09	Jari Koivisto (OpenChain Project):	Domo arigatoo!
