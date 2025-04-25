@@ -1,0 +1,43 @@
+00:13:33	Anthony Harrison (Not Applicable):	I am also working on a validator/convertor. Will also look at converting CycloneDX SBOMS to OpenChain compliant SBOMs
+00:15:38	Anthony Harrison (Not Applicable):	Original NTIA guide didn’t specify checksums
+00:16:45	Jari Koivisto (OpenChain Project):	Does someone know if Yocto is working on their SPDX and make them valid SPDX?
+00:17:10	Anthony Harrison (Not Applicable):	I think Yocto is moving to SPDX 3.
+00:18:09	Jari Koivisto (OpenChain Project):	Reacted to "I think Yocto is mov..." with 👍
+00:18:18	Norio Kobota (Sony Group Corporation):	"I think Yocto is m..." に対して 👍 で対応しました
+00:18:37	Norio Kobota (Sony Group Corporation):	Some Fujitsu member are contributing SPDX generator to Yocto Project.
+00:18:48	Jari Koivisto (OpenChain Project):	Reacted to "Some Fujitsu member ..." with 👍
+00:19:18	Anthony Harrison (Not Applicable):	There are validators on SPDX website.
+00:20:05	Anthony Harrison (Not Applicable):	Disappointed that ExternalRef is not mandatory (for PURL). Would like to encourage PURL for all open source components.
+00:22:16	Norio Kobota (Sony Group Corporation):	"Disappointed that ..." に対して 👍 で対応しました
+00:25:24	Anthony Harrison (Not Applicable):	There are lots of SBOM merge tools out there….
+00:30:42	Jari Koivisto (OpenChain Project):	SCANOSS mentioned, but how about the other SCA providers (Open Source and/or commercial)?
+00:33:06	Anthony Harrison (Not Applicable):	Very few SPDX SBOMs include SBOM type.
+00:33:31	Norio Kobota (Sony Group Corporation):	"Very few SPDX SBOM..." に対して 👍 で対応しました
+00:33:34	Anthony Harrison (Not Applicable):	As there the SBOM type was introduced after SPDX 2.3 was defined
+00:33:58	Norio Kobota (Sony Group Corporation):	There aren't specific field to describe SBOM type in SPDX..
+00:39:15	HOSOMI ITARU(細見　格):	CreatorComment field can be put any comment of creator. So if SBOM Type syntax is encapsulated such as "<SBOM Type: xxx>" may be better. What do you think?
+00:43:55	Anthony Harrison (Not Applicable):	Creator comment is often used for other information.
+00:46:05	HOSOMI ITARU(細見　格):	FilesAnalyzed is still RECOMMNEDED in v1.1 of the Guide? Or no longer mentioned?
+00:48:47	Anthony Harrison (Not Applicable):	Most of what is proposed in telco guide is reasonably well aligned with other initiatives. The big change is the incorporation of SBOM Type into the creation comments. I haven’t seen anyone else proposing that - CycloneDX standard (1.6) includes the lifecycle as one of the attributes; other approaches have been to use filename conventions to capture the type of SBOM.
+00:49:43	HOSOMI ITARU(細見　格):	Reacted to "Most of what is prop..." with 👍
+00:50:02	Norio Kobota (Sony Group Corporation):	"Most of what is pr..." に対して 👍 で対応しました
+00:51:04	Jari Koivisto (OpenChain Project):	Reacted to "Most of what is prop..." with 👍
+00:55:52	Anthony Harrison (Not Applicable):	NO!! We want industry neutral as many components will work across industries.
+00:58:50	Anthony Harrison (Not Applicable):	Each use case has different minimum attributes. If we want a SBOM to support multiple use cases, then we need enriched SBOMs.
+00:59:32	Anthony Harrison (Not Applicable):	Do we want a SBOM for each use case or do we want a single SBOM that covers multiple use cases?
+00:59:40	Norio Kobota (Sony Group Corporation):	That's the point!
+01:00:25	HOSOMI ITARU(細見　格):	Another open question.Are we better choose and specify any concrete objective (license, security, etc.) of the SBOM on the new quality spec or guide?
+01:01:31	Jari Koivisto (OpenChain Project):	SBOMs should work for both license compliance and vulnerabilities.
+01:01:42	Norio Kobota (Sony Group Corporation):	"SBOMs should work ..." に対して 👍 で対応しました
+01:01:57	Anthony Harrison (Not Applicable):	Most companies are just asking for a SBOM without any understanding of how it is to be used.
+01:02:35	HOSOMI ITARU(細見　格):	Reacted to "Most companies are j..." with 👍
+01:03:15	Anthony Harrison (Not Applicable):	Agree we need to focus on content based on use case and not the format of the SBOM.
+01:03:29	Jari Koivisto (OpenChain Project):	All components, correct license info, VEX. Components at package level, file level, snippet level? Is yet another question.
+01:03:35	Norio Kobota (Sony Group Corporation):	への応答 "Agree we need to f..."
+
+Yes... true...
+01:04:00	Vivek Kumar Sahu (Individual Contribution):	SBOM majorly used for usecases like: compliy with compliance framework like NTIA, license compliant, details components list and  vulnerabilities,
+01:04:21	Shane Coughlan (The Linux Foundation):	Reacted to "Agree we need to foc..." with 👍
+01:04:23	Shane Coughlan (The Linux Foundation):	Reacted to "Yes... true..." with 👍
+01:04:28	Shane Coughlan (The Linux Foundation):	Reacted to "All components, corr..." with 👍
+01:04:32	Shane Coughlan (The Linux Foundation):	Reacted to "SBOM majorly used fo..." with 👍
