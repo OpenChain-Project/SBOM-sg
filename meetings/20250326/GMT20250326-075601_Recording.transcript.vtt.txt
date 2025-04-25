@@ -1,0 +1,1430 @@
+WEBVTT
+
+1
+00:01:49.800 --> 00:01:51.460
+Shane Coughlan (The Linux Foundation): Hello! Everyone.
+
+2
+00:02:05.460 --> 00:02:09.990
+Jari Koivisto (OpenChain Project): Hey, Shane, where are you today
+
+3
+00:02:10.400 --> 00:02:18.830
+Shane Coughlan (The Linux Foundation): That's a good question. I just arrived back in Japan a couple of hours ago from Korea. So I'm fine.
+
+4
+00:02:21.200 --> 00:02:23.159
+Shane Coughlan (The Linux Foundation): And how are you doing today?
+
+5
+00:02:24.540 --> 00:02:28.870
+Jari Koivisto (OpenChain Project): Oh, well, greetings from Zurich. Yeah. Like, last week I was
+
+6
+00:02:29.360 --> 00:02:35.539
+Jari Koivisto (OpenChain Project): bit down because of the common cold. But now back to normal, more or less
+
+7
+00:02:36.170 --> 00:02:37.030
+Shane Coughlan (The Linux Foundation): Right.
+
+8
+00:02:38.360 --> 00:02:40.423
+Shane Coughlan (The Linux Foundation): I can imagine that.
+
+9
+00:02:41.830 --> 00:02:49.110
+Shane Coughlan (The Linux Foundation): it's not so easy to to deal with. A cold. Springtime is terrible that way.
+
+10
+00:02:49.730 --> 00:02:54.620
+Jari Koivisto (OpenChain Project): Yep, and it's been going around like more or less everybody around here, you know
+
+11
+00:02:54.980 --> 00:02:57.630
+Jari Koivisto (OpenChain Project): I've got it. And now it was my turn
+
+12
+00:03:03.210 --> 00:03:06.010
+Shane Coughlan (The Linux Foundation): I understand today we're going to have
+
+13
+00:03:06.920 --> 00:03:16.439
+Shane Coughlan (The Linux Foundation): probably Market Tom, talk about the new Telco Guide update, and so on and so forth.
+
+14
+00:03:27.390 --> 00:03:28.269
+Vivek Kumar Sahu (Individual Contribution): Hello! Everyone!
+
+15
+00:03:28.920 --> 00:03:29.390
+Vivek Kumar Sahu (Individual Contribution): Hi!
+
+16
+00:03:29.390 --> 00:03:30.010
+Shane Coughlan (The Linux Foundation): Right there.
+
+17
+00:04:39.530 --> 00:04:48.489
+Shane Coughlan (The Linux Foundation): Oh, before we get started. I think we're just waiting for Kubota Sam to dial in.
+
+18
+00:04:49.990 --> 00:04:58.580
+Shane Coughlan (The Linux Foundation): I just wanted to let everyone know that the Lf. Member Summit last week was busy and a wonderful
+
+19
+00:04:58.920 --> 00:05:09.130
+Shane Coughlan (The Linux Foundation): chance for networking. We had a lot of the open chain Japan Member companies attending, and
+
+20
+00:05:09.610 --> 00:05:16.030
+Shane Coughlan (The Linux Foundation): I think it was a pretty good situation to meet people that we mightn't normally
+
+21
+00:05:17.270 --> 00:05:24.919
+Shane Coughlan (The Linux Foundation): in particular. For example, I met Richard from ant finance there, and
+
+22
+00:05:26.050 --> 00:05:31.699
+Shane Coughlan (The Linux Foundation): the things like our work on S bomb aren't really catching the attention of
+
+23
+00:05:31.800 --> 00:05:35.629
+Shane Coughlan (The Linux Foundation): companies working in areas like finance, where
+
+24
+00:05:35.740 --> 00:05:45.210
+Shane Coughlan (The Linux Foundation): regulation is so important. And there's so much that they have to do to try to make sure that everything is managed very carefully
+
+25
+00:05:47.086 --> 00:05:53.879
+Shane Coughlan (The Linux Foundation): this year. I think we'll have Open Source Summit Europe. In Amsterdam.
+
+26
+00:05:54.260 --> 00:05:57.920
+Shane Coughlan (The Linux Foundation): There will be an open source summit in Korea.
+
+27
+00:05:58.120 --> 00:06:02.289
+Shane Coughlan (The Linux Foundation): and there'll be an open source summit in Japan
+
+28
+00:06:02.550 --> 00:06:09.510
+Shane Coughlan (The Linux Foundation): as well as an open source summit in North America which will be in Denver, Colorado.
+
+29
+00:06:10.070 --> 00:06:15.769
+Shane Coughlan (The Linux Foundation): So if anyone has the chance to go to one of those events, I highly recommend it.
+
+30
+00:06:17.010 --> 00:06:24.309
+Shane Coughlan (The Linux Foundation): Anyway, I see Kubota-san is here, Kubota-san, I'll hand over to you for the opening, and all of that
+
+31
+00:06:25.190 --> 00:06:30.230
+Norio Kobota (Sony Group Corporation): Hello, Shane. Thank you very much. And I'm very sorry to be late.
+
+32
+00:06:30.640 --> 00:06:41.140
+Norio Kobota (Sony Group Corporation): because today I came to my office, and my office is very crowded, so it's difficult to find out. It's a meeting room.
+
+33
+00:06:41.450 --> 00:06:42.770
+Norio Kobota (Sony Group Corporation): I'm very sorry.
+
+34
+00:06:43.710 --> 00:06:51.150
+Norio Kobota (Sony Group Corporation): Okay, anyway, I will. Can you hear my voice? And my screen
+
+35
+00:06:52.060 --> 00:06:56.530
+Shane Coughlan (The Linux Foundation): We can hear your voice perfectly, and yes, the screen is sharing
+
+36
+00:06:57.270 --> 00:07:05.800
+Norio Kobota (Sony Group Corporation): Yeah, thank you very much. And today, let's start the open chairs from study group number 7.
+
+37
+00:07:06.580 --> 00:07:08.620
+Norio Kobota (Sony Group Corporation): Okay, thank you for joining.
+
+38
+00:07:09.150 --> 00:07:25.590
+Norio Kobota (Sony Group Corporation): And firstly, I'm not sure sham have all has already mentioned. This is a activities under the foundation. So I will show you the extra sports. You know this 1st at at first, st
+
+39
+00:07:25.810 --> 00:07:30.000
+Norio Kobota (Sony Group Corporation): and please follow this and trust policy. Notice
+
+40
+00:07:30.140 --> 00:07:36.659
+Norio Kobota (Sony Group Corporation): and saying, Please follow this code of conduct provided by the Linux Foundation also.
+
+41
+00:07:38.220 --> 00:07:39.260
+Norio Kobota (Sony Group Corporation): Okay?
+
+42
+00:07:39.360 --> 00:07:43.990
+Norio Kobota (Sony Group Corporation): And this is a recap of the previous meeting.
+
+43
+00:07:44.650 --> 00:07:45.294
+Norio Kobota (Sony Group Corporation): And
+
+44
+00:07:46.740 --> 00:07:58.660
+Norio Kobota (Sony Group Corporation): last time we share I shared the current challenges among Japan communities and discussed about some challenges we have
+
+45
+00:07:59.160 --> 00:08:02.500
+Norio Kobota (Sony Group Corporation): and thank you very much for the discussion. Last time.
+
+46
+00:08:03.390 --> 00:08:14.799
+Norio Kobota (Sony Group Corporation): And today, we will continue this challenge discussions. And I'd like to ask some thoughts on this from both all over you.
+
+47
+00:08:15.510 --> 00:08:18.350
+Norio Kobota (Sony Group Corporation): And this is a today's topic.
+
+48
+00:08:18.710 --> 00:08:36.899
+Norio Kobota (Sony Group Corporation): And, as some of you may know, last week the open chain tech working group released the updated version of the S Bomb guide. And today, market, Jensen kindly provide an overview of these modifications made to the guide.
+
+49
+00:08:37.280 --> 00:08:43.109
+Norio Kobota (Sony Group Corporation): So I'm not sure, Maxha, are you here?
+
+50
+00:08:45.420 --> 00:08:53.510
+Norio Kobota (Sony Group Corporation): Okay, I find you so, Max. And could you introduce a brief introduction about the Telco guide
+
+51
+00:08:55.790 --> 00:09:08.929
+Marc-Etienne Vargenau (Nokia Corporation): Hello, yes, sir, so I already made a presentation of the guide in this group some time ago.
+
+52
+00:09:09.150 --> 00:09:29.049
+Marc-Etienne Vargenau (Nokia Corporation): and asked me to say a few words about as a new version, one dot one as that we published recently. So it's a minor update. But
+
+53
+00:09:30.030 --> 00:09:32.100
+Marc-Etienne Vargenau (Nokia Corporation): I'm happy to
+
+54
+00:09:33.914 --> 00:09:39.005
+Marc-Etienne Vargenau (Nokia Corporation): Say a few words about it. So let me share my screen.
+
+55
+00:09:54.950 --> 00:09:58.530
+Marc-Etienne Vargenau (Nokia Corporation): Okay, so do you see my screen
+
+56
+00:09:58.710 --> 00:09:59.990
+Norio Kobota (Sony Group Corporation): Yes, perfect.
+
+57
+00:10:00.150 --> 00:10:01.490
+Marc-Etienne Vargenau (Nokia Corporation): Okay?
+
+58
+00:10:04.355 --> 00:10:08.169
+Marc-Etienne Vargenau (Nokia Corporation): So as a reminder, we
+
+59
+00:10:08.310 --> 00:10:19.839
+Marc-Etienne Vargenau (Nokia Corporation): had the 1st release. One dot 0 of the openshine Telco guide approved in May last year.
+
+60
+00:10:20.290 --> 00:10:38.899
+Marc-Etienne Vargenau (Nokia Corporation): and we have put it into a practice at Nokia. So we use this guide as a foundation for our schema. So we
+
+61
+00:10:39.060 --> 00:10:45.460
+Marc-Etienne Vargenau (Nokia Corporation): if we we'll provide to our customers.
+
+62
+00:10:46.216 --> 00:10:54.290
+Marc-Etienne Vargenau (Nokia Corporation): As forms that are compatible with this, with the recommendation of of the guide
+
+63
+00:10:54.420 --> 00:11:00.400
+Marc-Etienne Vargenau (Nokia Corporation): and some of our internal tools
+
+64
+00:11:00.720 --> 00:11:15.509
+Marc-Etienne Vargenau (Nokia Corporation): already produce S bombs that are compatible with the guide, and well, not not not all. Do so for the moment, but we we plan to to do so.
+
+65
+00:11:16.523 --> 00:11:29.499
+Marc-Etienne Vargenau (Nokia Corporation): And as it was already mentioned, we provide a validator to to check the conformance of an S. Per
+
+66
+00:11:30.050 --> 00:11:44.521
+Marc-Etienne Vargenau (Nokia Corporation): to to the guide. That was one of the ideas of our work. It was to have a specification precise enough so that we can.
+
+67
+00:11:45.210 --> 00:11:50.020
+Marc-Etienne Vargenau (Nokia Corporation): We can have an easy way to to validate it.
+
+68
+00:11:53.263 --> 00:12:08.039
+Marc-Etienne Vargenau (Nokia Corporation): So something also quite new. We have worked with. The company scan oss
+
+69
+00:12:08.881 --> 00:12:13.758
+Marc-Etienne Vargenau (Nokia Corporation): they have told us that they would like to
+
+70
+00:12:14.520 --> 00:12:41.385
+Marc-Etienne Vargenau (Nokia Corporation): to provide an output that is compliant with the guide. So after some meetings with them, they released their latest version a few days ago. Version one dot 20 dot 5, and the output of scan oss is now compliant with the guide, which is
+
+71
+00:12:41.970 --> 00:12:46.092
+Marc-Etienne Vargenau (Nokia Corporation): good, which is a good news.
+
+72
+00:12:48.530 --> 00:12:58.640
+Marc-Etienne Vargenau (Nokia Corporation): so we at Nokia we use quite a lot yocto.
+
+73
+00:12:59.250 --> 00:13:00.265
+Marc-Etienne Vargenau (Nokia Corporation): So
+
+74
+00:13:02.030 --> 00:13:26.699
+Marc-Etienne Vargenau (Nokia Corporation): we have checked the yocto output against the open chain, Telco guide, and we found 2 things that were systematically not compliant with the guide.
+
+75
+00:13:28.930 --> 00:13:37.379
+Marc-Etienne Vargenau (Nokia Corporation): One of the antia minimum requirements is to provide a hash
+
+76
+00:13:37.540 --> 00:13:49.689
+Marc-Etienne Vargenau (Nokia Corporation): for packages. So that's a way that anti recommends in order to check that the package has not been modified.
+
+77
+00:13:49.950 --> 00:14:04.899
+Marc-Etienne Vargenau (Nokia Corporation): and so in version one dot 0 of the guide, we required the presence of the Spdx attribute package checksum.
+
+78
+00:14:05.410 --> 00:14:10.190
+Marc-Etienne Vargenau (Nokia Corporation): And so by checking the Yocto output.
+
+79
+00:14:10.430 --> 00:14:14.759
+Marc-Etienne Vargenau (Nokia Corporation): we realized that Yocto did provide a hash.
+
+80
+00:14:14.910 --> 00:14:21.840
+Marc-Etienne Vargenau (Nokia Corporation): but it did not provide it as a packet checksum, but as a package verification code.
+
+81
+00:14:22.789 --> 00:14:41.320
+Marc-Etienne Vargenau (Nokia Corporation): So if you check the the Spdx document, the package checksum is a global checksum calculated on the package and, on the other hand, the package verification code
+
+82
+00:14:41.340 --> 00:15:09.179
+Marc-Etienne Vargenau (Nokia Corporation): is calculated with an algorithm where you calculate checksum of every file, and then you combine all these checksum and calculate the checksum on the set of checksum of every file. So that's a different way to do it. But it's also
+
+83
+00:15:09.964 --> 00:15:28.580
+Marc-Etienne Vargenau (Nokia Corporation): a valid way to to provide this check. Some of the package, and indeed, caesar provided recently the 3rd edition of their framing software component transparency document.
+
+84
+00:15:28.720 --> 00:15:36.280
+Marc-Etienne Vargenau (Nokia Corporation): where you find in section 2.5 a table that maps
+
+85
+00:15:37.356 --> 00:15:48.373
+Marc-Etienne Vargenau (Nokia Corporation): is some required fields to where Spdx, 2 Spx free and cyclone Dx
+
+86
+00:15:49.200 --> 00:16:14.061
+Marc-Etienne Vargenau (Nokia Corporation): implementation, and for the Ntia minimum element hash. They allow both the package checksum and the package verification code. So we will allow both, we allow, both in in the release, one dot, one of the of the open chain Telco guide.
+
+87
+00:16:14.940 --> 00:16:17.719
+Marc-Etienne Vargenau (Nokia Corporation): and as a
+
+88
+00:16:18.110 --> 00:16:32.689
+Marc-Etienne Vargenau (Nokia Corporation): minor but related thing in version 1.0, we required the presence of the file. Analyzed element.
+
+89
+00:16:33.485 --> 00:16:49.004
+Marc-Etienne Vargenau (Nokia Corporation): Remember you that for a given package you files analyzed is a Boolean. It might be false. In that case you provide
+
+90
+00:16:49.710 --> 00:17:11.559
+Marc-Etienne Vargenau (Nokia Corporation): information on the package, but not on the individual files that compose the package. And if it's true, you provide information on the individual files that compose the package. So in Spdx, this.
+
+91
+00:17:11.720 --> 00:17:20.879
+Marc-Etienne Vargenau (Nokia Corporation): the files analyzed can be omitted, and that is equivalent to providing it with the value. True.
+
+92
+00:17:21.270 --> 00:17:31.559
+Marc-Etienne Vargenau (Nokia Corporation): So Yocto does analysis at the package level, and it used default value of.
+
+93
+00:17:32.630 --> 00:17:38.479
+Marc-Etienne Vargenau (Nokia Corporation): So we know in version one dot one no longer required
+
+94
+00:17:38.710 --> 00:17:42.130
+Marc-Etienne Vargenau (Nokia Corporation): require this. The presence of files analyzed.
+
+95
+00:17:43.303 --> 00:17:53.060
+Marc-Etienne Vargenau (Nokia Corporation): So with these modifications, the Yocto output is mostly compatible. I
+
+96
+00:17:53.320 --> 00:18:10.867
+Marc-Etienne Vargenau (Nokia Corporation): don't say that it is fully compatible in some cases. We found that the code provided by produced by Yocto was invalid
+
+97
+00:18:12.348 --> 00:18:30.300
+Marc-Etienne Vargenau (Nokia Corporation): in some cases, for instance, they deliver identifiers that are not syntactically valid, for instance, because in the identifier. They have a plus sign
+
+98
+00:18:30.380 --> 00:18:42.799
+Marc-Etienne Vargenau (Nokia Corporation): which is not which is not allowed by Spdx. But that's rather minor. So we we have filed issues for for that
+
+99
+00:18:46.400 --> 00:19:06.160
+Marc-Etienne Vargenau (Nokia Corporation): So in the version 1.1 of the guide, we have added one chapter at the end that lists precisely the differences between one dot 0 and 1.1.
+
+100
+00:19:06.710 --> 00:19:11.900
+Marc-Etienne Vargenau (Nokia Corporation): So this is the 1st part of the differences.
+
+101
+00:19:12.090 --> 00:19:35.266
+Marc-Etienne Vargenau (Nokia Corporation): and the main difference is that is what I just explained. So now for the package hash. We allow both the package check some and the package verification code, and we we no longer make files analyze mandatory. It's allowed to use the default value of true
+
+102
+00:19:37.021 --> 00:19:42.769
+Marc-Etienne Vargenau (Nokia Corporation): also we downgraded the package rush to
+
+103
+00:19:42.930 --> 00:20:06.829
+Marc-Etienne Vargenau (Nokia Corporation): recommended instead of mandatory. It's still a very good thing to include it, but in some cases, like when Gsbom contains proprietary code, it might be difficult to to provide it.
+
+104
+00:20:07.800 --> 00:20:21.110
+Marc-Etienne Vargenau (Nokia Corporation): And the last thing on this slide. We had mandatory external ref
+
+105
+00:20:22.287 --> 00:20:35.640
+Marc-Etienne Vargenau (Nokia Corporation): we use the external ref to put the package, URL, the perl of packages, and there was a small inconsistency
+
+106
+00:20:35.640 --> 00:20:53.660
+Marc-Etienne Vargenau (Nokia Corporation): in the sense that we recommended usage of the pearl, but he made the external ref mandatory which makes no sense. If you don't provide the pearl, you you don't
+
+107
+00:20:54.866 --> 00:21:00.851
+Marc-Etienne Vargenau (Nokia Corporation): have to to put a mandatory external rep. So that was kind of a technical.
+
+108
+00:21:01.490 --> 00:21:06.789
+Marc-Etienne Vargenau (Nokia Corporation): a mistake. So now, it's
+
+109
+00:21:07.190 --> 00:21:16.529
+Marc-Etienne Vargenau (Nokia Corporation): consistent. We recommend using the Perl to identify the package, and so the external ref is recommended also.
+
+110
+00:21:19.820 --> 00:21:26.780
+Marc-Etienne Vargenau (Nokia Corporation): Then, there was some discussions
+
+111
+00:21:27.050 --> 00:21:45.250
+Marc-Etienne Vargenau (Nokia Corporation): on the mailing list, and in the meetings about the Caesar has bond types. So there is in Spdx to know fields. That is
+
+112
+00:21:46.320 --> 00:21:59.649
+Marc-Etienne Vargenau (Nokia Corporation): There is no field for specifically for that purpose. So we we use
+
+113
+00:22:00.460 --> 00:22:05.766
+Marc-Etienne Vargenau (Nokia Corporation): as a Creator command to to put it
+
+114
+00:22:07.700 --> 00:22:21.999
+Marc-Etienne Vargenau (Nokia Corporation): so. One of the remarks was that in Creator Com you have to put type in the Creator commands. But of course you can
+
+115
+00:22:22.070 --> 00:22:38.150
+Marc-Etienne Vargenau (Nokia Corporation): put anything else you want in this Creator, comment Field, as before. So this has been a bit clarified. So that is 1 point.
+
+116
+00:22:39.045 --> 00:22:48.010
+Marc-Etienne Vargenau (Nokia Corporation): Another thing is that in version one dot 0. The only
+
+117
+00:22:49.990 --> 00:23:16.630
+Marc-Etienne Vargenau (Nokia Corporation): what we said was that you had to put one of the words design source, build, analyze, deployed runtime in the field. But one remark was that it was not. It might not have been clear if you just put the keyword in the Creator command.
+
+118
+00:23:16.710 --> 00:23:21.789
+Marc-Etienne Vargenau (Nokia Corporation): So now we still allow
+
+119
+00:23:22.140 --> 00:23:42.900
+Marc-Etienne Vargenau (Nokia Corporation): any any syntax for this Sbom type in the Creator command, but we recommend to put it in with the words S bomb type before before the keyword.
+
+120
+00:23:42.910 --> 00:23:59.489
+Marc-Etienne Vargenau (Nokia Corporation): So it is still mandatory to provide the Sbom type, but it's recommended to put it as Sbom type Colon and the keyword
+
+121
+00:24:00.595 --> 00:24:11.219
+Marc-Etienne Vargenau (Nokia Corporation): and also the last comment about it was the possibility to put
+
+122
+00:24:12.105 --> 00:24:17.039
+Marc-Etienne Vargenau (Nokia Corporation): several asper types for for the same.
+
+123
+00:24:17.560 --> 00:24:19.250
+Marc-Etienne Vargenau (Nokia Corporation): it was the same as Paul.
+
+124
+00:24:20.430 --> 00:24:36.448
+Marc-Etienne Vargenau (Nokia Corporation): So that's mostly clarification, and providing some some examples on on this. 2 other modifications.
+
+125
+00:24:38.872 --> 00:24:43.838
+Marc-Etienne Vargenau (Nokia Corporation): that are minor. But to be complete. They are also listed in
+
+126
+00:24:44.460 --> 00:24:56.799
+Marc-Etienne Vargenau (Nokia Corporation): in. In the history section of the document we well, there are several tools to merge as bombs.
+
+127
+00:24:57.130 --> 00:25:08.260
+Marc-Etienne Vargenau (Nokia Corporation): One was mentioned in version one dot 0. But since then there is a new one that
+
+128
+00:25:08.830 --> 00:25:13.830
+Marc-Etienne Vargenau (Nokia Corporation): is available which is called Sbom asm
+
+129
+00:25:14.688 --> 00:25:20.439
+Marc-Etienne Vargenau (Nokia Corporation): it's provided by the Interlink Company, and it's
+
+130
+00:25:20.590 --> 00:25:37.710
+Marc-Etienne Vargenau (Nokia Corporation): it's open source. So from the tests I made, it gives much better results than the other tools that I had tested.
+
+131
+00:25:38.230 --> 00:25:45.829
+Marc-Etienne Vargenau (Nokia Corporation): So I replaced the reference on. As for marching with this tool
+
+132
+00:25:46.608 --> 00:25:50.589
+Marc-Etienne Vargenau (Nokia Corporation): and last thing we we have added
+
+133
+00:25:51.460 --> 00:25:55.490
+Marc-Etienne Vargenau (Nokia Corporation): in the reference list, the new Caesar document.
+
+134
+00:25:56.980 --> 00:25:57.930
+Marc-Etienne Vargenau (Nokia Corporation): So
+
+135
+00:25:59.427 --> 00:26:17.440
+Marc-Etienne Vargenau (Nokia Corporation): what was also important for us? Was the issue of compatibility. So what is the case is that if
+
+136
+00:26:17.440 --> 00:26:33.624
+Marc-Etienne Vargenau (Nokia Corporation): your S bomb is con is compliant to the version, one dot 0 of the guide. It will automatically be compliant with version one dot, one as I explained, we have
+
+137
+00:26:34.130 --> 00:26:52.680
+Marc-Etienne Vargenau (Nokia Corporation): mostly relaxed some constraints to some fields that had that were mandatory in version one dot 0 are now only recommended.
+
+138
+00:26:52.990 --> 00:26:53.935
+Marc-Etienne Vargenau (Nokia Corporation): So
+
+139
+00:26:55.450 --> 00:27:13.070
+Marc-Etienne Vargenau (Nokia Corporation): if you, if you are compatible with version one dot 0, you are automatically compliant. Version one dot one. And if you are not you, it will be easier to be compliant with with one dot one.
+
+140
+00:27:16.130 --> 00:27:22.949
+Marc-Etienne Vargenau (Nokia Corporation): And so last slide, what are the next steps?
+
+141
+00:27:24.160 --> 00:27:36.856
+Marc-Etienne Vargenau (Nokia Corporation): So we will in a few days provide an updated version of the python validator
+
+142
+00:27:37.950 --> 00:27:58.986
+Marc-Etienne Vargenau (Nokia Corporation): to be able to validate against version one dot, one instead of one dot 0. And there will be also an important modification, an important improvement of the validator. Unrelated to to the change of the
+
+143
+00:27:59.550 --> 00:28:09.689
+Marc-Etienne Vargenau (Nokia Corporation): in the guide. In the next release we will allow recursive validation of S post
+
+144
+00:28:10.568 --> 00:28:32.530
+Marc-Etienne Vargenau (Nokia Corporation): in these slides I mentioned Yocto. If you get an S from Yocto you will get many, perhaps more than 100 different Spdx files.
+
+145
+00:28:32.530 --> 00:28:35.571
+Marc-Etienne Vargenau (Nokia Corporation): and the Spx files are
+
+146
+00:28:36.630 --> 00:28:54.309
+Marc-Etienne Vargenau (Nokia Corporation): related from the Spdx relationship elements. So if you check this yocto output, you will have
+
+147
+00:28:55.240 --> 00:29:14.866
+Marc-Etienne Vargenau (Nokia Corporation): a main file called something image and the name. And so with the next release of the validator, you will be able to do open chain
+
+148
+00:29:16.240 --> 00:29:30.800
+Marc-Etienne Vargenau (Nokia Corporation): telco validator minus minus recursive, the name of the main file, and all files will be found and checked recursively, recursively.
+
+149
+00:29:32.370 --> 00:29:44.850
+Marc-Etienne Vargenau (Nokia Corporation): So that's for the work and the validator and as we have worked with the scan oss
+
+150
+00:29:45.960 --> 00:29:58.285
+Marc-Etienne Vargenau (Nokia Corporation): team, we will continue to to test the the output of several tools that produce spdx and
+
+151
+00:29:59.300 --> 00:30:10.379
+Marc-Etienne Vargenau (Nokia Corporation): check their compliance with the guide, and, if needed, help make the the output compliant.
+
+152
+00:30:12.110 --> 00:30:19.399
+Marc-Etienne Vargenau (Nokia Corporation): So it's it's almost obvious that it will be
+
+153
+00:30:19.610 --> 00:30:28.009
+Marc-Etienne Vargenau (Nokia Corporation): easier to do so with the the open source tool, where we can, if needed.
+
+154
+00:30:28.240 --> 00:30:36.020
+Marc-Etienne Vargenau (Nokia Corporation): provide some guidance and even some patches than the than the commercial tools.
+
+155
+00:30:37.870 --> 00:30:45.890
+Marc-Etienne Vargenau (Nokia Corporation): Okay, so that was the end of my presentation.
+
+156
+00:30:48.860 --> 00:30:51.439
+Marc-Etienne Vargenau (Nokia Corporation): Okay, I checked 0.
+
+157
+00:30:51.630 --> 00:31:08.171
+Marc-Etienne Vargenau (Nokia Corporation): Some comments. Yes. So question from Yari Scanner has just mentioned. But how about other sca providers?
+
+158
+00:31:10.077 --> 00:31:26.609
+Marc-Etienne Vargenau (Nokia Corporation): As I. As I just said, we have tested the output of also tools. Some tools are quite close, but
+
+159
+00:31:26.790 --> 00:31:30.220
+Marc-Etienne Vargenau (Nokia Corporation): not not fully
+
+160
+00:31:31.165 --> 00:31:44.850
+Marc-Etienne Vargenau (Nokia Corporation): compliant. One tool that we use quite extensively is a scan code. So there are minor
+
+161
+00:31:45.410 --> 00:32:10.639
+Marc-Etienne Vargenau (Nokia Corporation): non compliances with scan code, for instance, they don't put they they. There is no way to put the name of the company that creates the the S bomb, which is one of the requirements, and also they don't provide the
+
+162
+00:32:11.861 --> 00:32:18.698
+Marc-Etienne Vargenau (Nokia Corporation): anti s bomb type. So that's quite minor. We have filed
+
+163
+00:32:20.638 --> 00:32:28.890
+Marc-Etienne Vargenau (Nokia Corporation): we have filed tickets for this, but it's not yet. Implemented.
+
+164
+00:32:31.060 --> 00:32:37.269
+Marc-Etienne Vargenau (Nokia Corporation): there are. Antony made some
+
+165
+00:32:38.190 --> 00:33:06.530
+Marc-Etienne Vargenau (Nokia Corporation): comments. There are lots of merge tools out there. That's what I said. So I've tested several tools and the 1st tools I tested did not well, at least at the time where I tested did not provide even a valid spdx. As a result.
+
+166
+00:33:07.481 --> 00:33:24.109
+Marc-Etienne Vargenau (Nokia Corporation): so for when, when S bomb Asm was provided, I was happy to test a new tool, you can check the
+
+167
+00:33:24.290 --> 00:33:29.534
+Marc-Etienne Vargenau (Nokia Corporation): the issue, the closed issues in the Github
+
+168
+00:33:31.502 --> 00:33:47.617
+Marc-Etienne Vargenau (Nokia Corporation): website. I've I think I I filed something like a dozen of of issues, mostly with Spdx validity issues.
+
+169
+00:33:49.151 --> 00:33:53.360
+Marc-Etienne Vargenau (Nokia Corporation): But they I was really impressed.
+
+170
+00:33:53.650 --> 00:34:09.506
+Marc-Etienne Vargenau (Nokia Corporation): They were quite reactive when I filed bugs. Some bugs were fixed in the next days or next day or 2, so at the end they fixed all all the bugs I had reported, and
+
+171
+00:34:10.120 --> 00:34:15.177
+Marc-Etienne Vargenau (Nokia Corporation): the the result is is now valid. Spdx.
+
+172
+00:34:17.630 --> 00:34:18.659
+Marc-Etienne Vargenau (Nokia Corporation): Oh.
+
+173
+00:34:20.120 --> 00:34:35.149
+Marc-Etienne Vargenau (Nokia Corporation): okay, yes, there are. And in Spdx 2, there are no specific fields to describe the S bomb type, because Vs bomb type was created after Spdx 2.
+
+174
+00:34:35.580 --> 00:34:45.230
+Marc-Etienne Vargenau (Nokia Corporation): Yes, that's what Anthony says. Very few Spx S bombs include S bomb types. It's
+
+175
+00:34:46.469 --> 00:34:55.145
+Marc-Etienne Vargenau (Nokia Corporation): okay. So external rep is not mandatory.
+
+176
+00:34:57.247 --> 00:35:23.259
+Marc-Etienne Vargenau (Nokia Corporation): well, it it was not. Well, it's it was not mandatory in one dot 0 also. The problem is that unless Pdx. As might contain proprietary code
+
+177
+00:35:23.340 --> 00:35:41.282
+Marc-Etienne Vargenau (Nokia Corporation): for which no Perl, no Perl is is possible. But yes, it's recommended. So it's encouraged to to put it for all open source components.
+
+178
+00:35:42.250 --> 00:36:07.213
+Marc-Etienne Vargenau (Nokia Corporation): There are validators on Spdx website. That's true. So the validator, we provide the open chain tech correspond validator we provided is based. It's written, it's written in python. So it's based
+
+179
+00:36:08.290 --> 00:36:26.700
+Marc-Etienne Vargenau (Nokia Corporation): on the python tools that you that are developed by the Spdx team. So what we do is that we 1st check that with the python tools
+
+180
+00:36:26.700 --> 00:36:42.464
+Marc-Etienne Vargenau (Nokia Corporation): that the Spdx is valid, and then we check the constraint, the additional constraints that are described in the Telco Guide.
+
+181
+00:36:43.150 --> 00:36:58.949
+Marc-Etienne Vargenau (Nokia Corporation): So, for instance, the presence of the of the S bomb type and all other requirements we have in the documents.
+
+182
+00:37:02.783 --> 00:37:22.316
+Marc-Etienne Vargenau (Nokia Corporation): Yes, anthony says that Yocto is moving to Spx free, as that's true. If I remember correctly in one. I don't remember if it was in an
+
+183
+00:37:23.060 --> 00:37:38.088
+Marc-Etienne Vargenau (Nokia Corporation): there was a presentation of this I don't remember if it was in an open china presentation, or it was in an Spdx presentation. But
+
+184
+00:37:38.900 --> 00:37:53.616
+Marc-Etienne Vargenau (Nokia Corporation): yes, they are. They are working on producing Spdx free. But for the moment, at Nokia we we still use the Spdx. 2 generator.
+
+185
+00:37:57.930 --> 00:38:03.104
+Marc-Etienne Vargenau (Nokia Corporation): And does someone know? Shocked who is working under Spdx? And like the valid Spdx.
+
+186
+00:38:05.037 --> 00:38:31.362
+Marc-Etienne Vargenau (Nokia Corporation): we we filed at Nokia. We filed some some issues about it. As was just mentioned, they are moving to outputting Spx free instead of Spx. 2. So I don't really know
+
+187
+00:38:33.370 --> 00:38:41.725
+Marc-Etienne Vargenau (Nokia Corporation): if you will fix via 2 issues. Okay?
+
+188
+00:38:44.050 --> 00:38:45.200
+Marc-Etienne Vargenau (Nokia Corporation): Oh.
+
+189
+00:38:47.013 --> 00:39:03.079
+Marc-Etienne Vargenau (Nokia Corporation): the Ntia guide didn't specify check zones and did not mandate, but recommended to provide a hash for packages.
+
+190
+00:39:09.330 --> 00:39:17.799
+Marc-Etienne Vargenau (Nokia Corporation): Okay, so thank you for all these questions back to you.
+
+191
+00:39:18.540 --> 00:39:26.029
+Norio Kobota (Sony Group Corporation): Oh, thank you. And one more question coming from in the chat box from
+
+192
+00:39:31.180 --> 00:39:33.260
+Norio Kobota (Sony Group Corporation): so, Missan, could you ask
+
+193
+00:39:34.790 --> 00:39:36.940
+HOSOMI ITARU(細見　格): Yeah, oh, yeah.
+
+194
+00:39:37.120 --> 00:39:51.098
+HOSOMI ITARU(細見　格): So yeah, I I just want wonder. So I think the create a comment or any other comment field, it can be put any type of the comments. So the yeah, if the
+
+195
+00:39:51.890 --> 00:40:15.118
+HOSOMI ITARU(細見　格): if time can be a description of this will type can be encapsulated. So there's such as I wrote in the chat box. So so if if the such type of the syntax there's
+
+196
+00:40:16.550 --> 00:40:32.250
+HOSOMI ITARU(細見　格): we we can provide that so that the subtype can be written in the any comment field in the response, potentially, what do you think of the
+
+197
+00:40:32.370 --> 00:40:33.340
+HOSOMI ITARU(細見　格): such
+
+198
+00:40:34.075 --> 00:40:37.524
+Marc-Etienne Vargenau (Nokia Corporation): Yes, let let me share. Okay.
+
+199
+00:40:45.220 --> 00:40:55.330
+Marc-Etienne Vargenau (Nokia Corporation): yes. So in version, in in the 1st version, in version one dot 0 of the guide.
+
+200
+00:40:55.800 --> 00:41:01.259
+Marc-Etienne Vargenau (Nokia Corporation): we, we said, you just have to put one of the words
+
+201
+00:41:02.136 --> 00:41:22.140
+Marc-Etienne Vargenau (Nokia Corporation): just the the keyword. So you could put, for instance, just create or comment analyzed or you could put the word in a sentence created during build phase. So
+
+202
+00:41:22.290 --> 00:41:40.370
+Marc-Etienne Vargenau (Nokia Corporation): it is in one dot one. It is still possible to to just do that. But what we have changed in one dot one is that? Yes, we recommend
+
+203
+00:41:40.600 --> 00:41:49.920
+Marc-Etienne Vargenau (Nokia Corporation): to put something like this to put Sbom type Colon and the keyword
+
+204
+00:41:50.240 --> 00:41:50.700
+HOSOMI ITARU(細見　格): Oh, yeah.
+
+205
+00:41:50.700 --> 00:42:05.557
+Marc-Etienne Vargenau (Nokia Corporation): So. So that's the recommended way. But we didn't want to make it mandatory, because that would mean that
+
+206
+00:42:06.740 --> 00:42:13.250
+Marc-Etienne Vargenau (Nokia Corporation): you would no longer have full compatibility.
+
+207
+00:42:14.300 --> 00:42:14.750
+HOSOMI ITARU(細見　格): And
+
+208
+00:42:14.750 --> 00:42:37.259
+Marc-Etienne Vargenau (Nokia Corporation): Because that if we enforce, if we make this syntax mandatory, that would mean that would be compliant with one dot 0 would not be compatible with one dot one. So yes, we still
+
+209
+00:42:37.760 --> 00:42:49.990
+Marc-Etienne Vargenau (Nokia Corporation): allow a flexible syntax, and we recommend a more, a better, a better syntax, which is what you have put in in the chat
+
+210
+00:42:51.110 --> 00:42:51.900
+HOSOMI ITARU(細見　格): Thank you.
+
+211
+00:42:52.090 --> 00:43:13.568
+HOSOMI ITARU(細見　格): Yeah. So the if the the Creator comment only this one type description. So the such recommended syntax is, works. Well. But yeah, yeah, if the Creator want to put to the other
+
+212
+00:43:14.500 --> 00:43:17.750
+HOSOMI ITARU(細見　格): So the comments.
+
+213
+00:43:18.360 --> 00:43:23.410
+HOSOMI ITARU(細見　格): So the how how to describe the yeah.
+
+214
+00:43:23.410 --> 00:43:34.955
+Marc-Etienne Vargenau (Nokia Corporation): Yes, you can. You? You can put in the Creator comment. You can put Vs bomb type. But you also. It's a free text of
+
+215
+00:43:35.400 --> 00:43:53.779
+Marc-Etienne Vargenau (Nokia Corporation): a format. So you you can put Vs bomb type, and you can use it on on several on several lines and put additional information you want to to provide for for
+
+216
+00:43:54.090 --> 00:44:01.970
+HOSOMI ITARU(細見　格): Yeah, it's it's just a yeah machine readability issue. So thank you for the comment
+
+217
+00:44:05.280 --> 00:44:08.799
+Norio Kobota (Sony Group Corporation): Yes, thank you.
+
+218
+00:44:09.230 --> 00:44:13.419
+Norio Kobota (Sony Group Corporation): And Anthony has also questions in the chat box.
+
+219
+00:44:15.086 --> 00:44:18.650
+Norio Kobota (Sony Group Corporation): Yes, create document is often used for other information.
+
+220
+00:44:18.650 --> 00:44:26.725
+Marc-Etienne Vargenau (Nokia Corporation): Yeah, yeah, that was perhaps not clear in version one dot 0. That is one of the points that were discussed
+
+221
+00:44:27.300 --> 00:44:38.506
+Marc-Etienne Vargenau (Nokia Corporation): on on the mailing list. But, as I just said, it's a it's a a free text field that can contain
+
+222
+00:44:39.240 --> 00:44:42.490
+Marc-Etienne Vargenau (Nokia Corporation): that can be put on multiple lines, and that
+
+223
+00:44:42.590 --> 00:44:49.329
+Marc-Etienne Vargenau (Nokia Corporation): can contain as as much information as possible. So you you can put
+
+224
+00:44:49.510 --> 00:44:59.070
+Marc-Etienne Vargenau (Nokia Corporation): the the S bomb type and also all other information you want to provide on on the package on the on the S bomb
+
+225
+00:45:01.880 --> 00:45:05.129
+Norio Kobota (Sony Group Corporation): Thank you very much. And can I ask one question?
+
+226
+00:45:05.700 --> 00:45:06.800
+Marc-Etienne Vargenau (Nokia Corporation): Sure.
+
+227
+00:45:07.120 --> 00:45:18.330
+Norio Kobota (Sony Group Corporation): And it's a Shimira question regarding with Yari-san's questions. This guide not only covers the Ndi minimum.
+
+228
+00:45:18.650 --> 00:45:22.540
+Norio Kobota (Sony Group Corporation): but also includes several additional provisions
+
+229
+00:45:22.950 --> 00:45:26.589
+Norio Kobota (Sony Group Corporation): like such as create a command, and so on.
+
+230
+00:45:26.880 --> 00:45:36.040
+Norio Kobota (Sony Group Corporation): And at present it seems that there aren't so many tools available that can meet these Acustora requirements.
+
+231
+00:45:36.280 --> 00:45:41.549
+Norio Kobota (Sony Group Corporation): So what is your plan for implementing this guide in the future.
+
+232
+00:45:42.080 --> 00:45:48.689
+Norio Kobota (Sony Group Corporation): And now I learned, convinced many tool vendors. But
+
+233
+00:45:49.080 --> 00:45:53.060
+Norio Kobota (Sony Group Corporation): are there any other prompts to implementing this guide
+
+234
+00:46:00.029 --> 00:46:01.349
+Marc-Etienne Vargenau (Nokia Corporation): Yes. Okay.
+
+235
+00:46:01.839 --> 00:46:16.020
+Norio Kobota (Sony Group Corporation): Sorry. The the background of this question is within the Japanese community there has also been similar discussion, like additional information might be required for each industry.
+
+236
+00:46:16.450 --> 00:46:32.009
+Norio Kobota (Sony Group Corporation): But some concerns exist that the tools used by software suppliers may have difficulty fulfilling these requirements, because the in each industry has
+
+237
+00:46:32.210 --> 00:46:35.310
+Norio Kobota (Sony Group Corporation): other different requirements.
+
+238
+00:46:35.770 --> 00:46:43.999
+Norio Kobota (Sony Group Corporation): So how how can we proceed to implementing like these additional requirements?
+
+239
+00:46:44.560 --> 00:46:48.489
+Norio Kobota (Sony Group Corporation): So what do you think? Or do you have any idea
+
+240
+00:46:50.080 --> 00:46:56.622
+Marc-Etienne Vargenau (Nokia Corporation): Yes, that's something we can. We can discuss.
+
+241
+00:46:58.150 --> 00:47:02.974
+Marc-Etienne Vargenau (Nokia Corporation): So here at Nokia
+
+242
+00:47:05.022 --> 00:47:28.860
+Marc-Etienne Vargenau (Nokia Corporation): we intend to provide to our customers S. Bombs that are compliant with the guide. So, as I said, our internal tools are producing that are compliant.
+
+243
+00:47:29.000 --> 00:47:38.030
+Marc-Etienne Vargenau (Nokia Corporation): or we'll in in sometimes do it. We we still have to to modify some of our
+
+244
+00:47:38.570 --> 00:47:48.530
+Marc-Etienne Vargenau (Nokia Corporation): tools that generate Spdx and so we we can say to our customers that
+
+245
+00:47:48.810 --> 00:47:52.690
+Marc-Etienne Vargenau (Nokia Corporation): we are following the open China Telco guide.
+
+246
+00:47:54.175 --> 00:47:55.250
+Marc-Etienne Vargenau (Nokia Corporation): That's
+
+247
+00:47:55.440 --> 00:48:13.296
+Marc-Etienne Vargenau (Nokia Corporation): perhaps the easiest part, because we we master it. But we also intend to require from our suppliers to to provide
+
+248
+00:48:14.600 --> 00:48:28.842
+Marc-Etienne Vargenau (Nokia Corporation): as bonds with the software we use compliant with with the guide. So we we plan to
+
+249
+00:48:29.830 --> 00:48:37.400
+Marc-Etienne Vargenau (Nokia Corporation): to have this requirement in in our contract. So that's
+
+250
+00:48:38.050 --> 00:48:48.709
+Marc-Etienne Vargenau (Nokia Corporation): well. Perhaps it will be difficult to to convince some some providers, but that's the long term goal.
+
+251
+00:48:49.916 --> 00:48:53.673
+Marc-Etienne Vargenau (Nokia Corporation): And yes, as as I said, we
+
+252
+00:48:54.600 --> 00:49:07.612
+Marc-Etienne Vargenau (Nokia Corporation): we we discuss with some 2 providers to to see if they can provide the compatible
+
+253
+00:49:09.560 --> 00:49:11.233
+Marc-Etienne Vargenau (Nokia Corporation): as Bob's
+
+254
+00:49:16.995 --> 00:49:33.694
+Marc-Etienne Vargenau (Nokia Corporation): What has been much discussed in these groups is that there are now several sets of requirements for S bombs. You have the
+
+255
+00:49:34.590 --> 00:49:49.590
+Marc-Etienne Vargenau (Nokia Corporation): minimum elements in Germany. The BSI have created something in India. They have also created
+
+256
+00:49:51.646 --> 00:50:07.490
+Marc-Etienne Vargenau (Nokia Corporation): recommendations. There will be also requirements coming from the European, and so on. So once
+
+257
+00:50:07.490 --> 00:50:17.159
+Marc-Etienne Vargenau (Nokia Corporation): things are moving. And yes, precisely in this group we we are here to to discuss, to discuss that
+
+258
+00:50:24.690 --> 00:50:35.930
+Marc-Etienne Vargenau (Nokia Corporation): so question about file analyzed in version one dot, one of the guide. It's it's no longer. It's no longer mentioned.
+
+259
+00:50:44.080 --> 00:50:49.890
+Marc-Etienne Vargenau (Nokia Corporation): You can use the the default value of true without putting files analyzed
+
+260
+00:50:53.910 --> 00:50:59.560
+Norio Kobota (Sony Group Corporation): And Anthony also mentioned in the chat box. Anthony, could you speak out
+
+261
+00:51:01.100 --> 00:51:03.419
+Anthony Harrison (Not Applicable): Hello there, yeah. And
+
+262
+00:51:03.420 --> 00:51:04.059
+Norio Kobota (Sony Group Corporation): I love.
+
+263
+00:51:04.590 --> 00:51:08.010
+Anthony Harrison (Not Applicable): I think I think I've mentioned this before. I think.
+
+264
+00:51:08.546 --> 00:51:11.700
+Anthony Harrison (Not Applicable): The s. 1 type in the comment is being sort of.
+
+265
+00:51:12.020 --> 00:51:27.390
+Anthony Harrison (Not Applicable): I see why you're doing it. And I think it's a bit of a it's working with the standard. But I think most people have used file names. I've certainly seen file names being used. I was involved in a
+
+266
+00:51:27.700 --> 00:51:40.439
+Anthony Harrison (Not Applicable): a study of different S bombs with sei and tail end of last year, and the way we highlighted, which type of S bomb was just been the final name. So we had underscore source or underscore build.
+
+267
+00:51:40.710 --> 00:51:43.570
+Anthony Harrison (Not Applicable): and that was really easy to filter.
+
+268
+00:51:46.220 --> 00:51:52.510
+Anthony Harrison (Not Applicable): particularly as not everybody understands what the contents need to be.
+
+269
+00:51:53.039 --> 00:52:03.860
+Anthony Harrison (Not Applicable): So that's my only that's my only comment. I think everything else you're doing is similar to what other people are doing. There's no consistency, which is a big challenge. I think we all recognize
+
+270
+00:52:04.010 --> 00:52:21.149
+Anthony Harrison (Not Applicable): and cyclone Dx. 1.6 does have lifecycle, which is very similar to what's been proposed. And Spdx 3 has the type. It's just that we're sort of a little bit behind with Spdx 2.3. Maybe, you know, things will work themselves out.
+
+271
+00:52:22.070 --> 00:52:24.957
+Anthony Harrison (Not Applicable): So actually, it's just a comment.
+
+272
+00:52:25.960 --> 00:52:35.299
+Anthony Harrison (Not Applicable): and yeah, I have a library that generates S bombs. It's very easy for me to add the S bomb type into the comment field.
+
+273
+00:52:35.916 --> 00:52:39.319
+Anthony Harrison (Not Applicable): So you know, it's that's it'll just
+
+274
+00:52:39.430 --> 00:52:48.800
+Anthony Harrison (Not Applicable): fall out provided you specify the type when you are building the you know, using a library to build it, build the s 1
+
+275
+00:52:52.450 --> 00:52:53.519
+Norio Kobota (Sony Group Corporation): Thank you very much.
+
+276
+00:52:56.620 --> 00:53:00.179
+Norio Kobota (Sony Group Corporation): Okay, Maxine, thank you very much.
+
+277
+00:53:00.710 --> 00:53:04.840
+Norio Kobota (Sony Group Corporation): Anna. Are there any questions or comments
+
+278
+00:53:08.210 --> 00:53:25.109
+Shane Coughlan (The Linux Foundation): Just one brief comment. Naturally, I'm going to be reaching out to market on and the Telco Work group to publicize this fantastic release. And I'm also going to talk with Scanoss
+
+279
+00:53:25.230 --> 00:53:32.900
+Shane Coughlan (The Linux Foundation): about how we can communicate their work. It's it sounds like what's happened with Telco
+
+280
+00:53:33.050 --> 00:53:40.200
+Shane Coughlan (The Linux Foundation): is, you know, we had the initial guide, the proof of it, the people adopting it. And now this refinement.
+
+281
+00:53:40.520 --> 00:53:54.970
+Shane Coughlan (The Linux Foundation): So it's it's like we've already gone quite a distance in the journey of looking at Sbom quality. So I just wanted to say, it's fantastic work. And this presentation, this overview, was very useful
+
+282
+00:53:57.714 --> 00:54:10.050
+Marc-Etienne Vargenau (Nokia Corporation): Yes, so we scan. Oss team will make a blog post about being comfortable with the Telco guide, but it's not out yet.
+
+283
+00:54:13.800 --> 00:54:21.239
+Shane Coughlan (The Linux Foundation): If you could introduce me to who's doing it, I'll synchronize with them, and maybe we can do the marketing on the same day.
+
+284
+00:54:21.700 --> 00:54:24.469
+Shane Coughlan (The Linux Foundation): Okay, I will. I will give you the contact.
+
+285
+00:54:24.470 --> 00:54:26.599
+Shane Coughlan (The Linux Foundation): That's super great. Thank you.
+
+286
+00:54:30.610 --> 00:54:32.310
+Norio Kobota (Sony Group Corporation): Yes, thank you.
+
+287
+00:54:39.980 --> 00:54:47.810
+Norio Kobota (Sony Group Corporation): Okay. We have 10 min left. And, Maxon, thank you very much for your presentation. Much appreciated.
+
+288
+00:54:47.940 --> 00:54:49.020
+Norio Kobota (Sony Group Corporation): Thank you very much.
+
+289
+00:54:49.020 --> 00:54:51.329
+Marc-Etienne Vargenau (Nokia Corporation): I will send you the the slides.
+
+290
+00:54:52.800 --> 00:55:03.380
+Norio Kobota (Sony Group Corporation): Thank you. Okay. And we have only 10 min left. And as a last, I have one open question
+
+291
+00:55:05.032 --> 00:55:23.639
+Norio Kobota (Sony Group Corporation): today's great presentation based on great presentation to ensure this level of quality. Is it helpful? I'd like to ask all of you, is it helpful to create new specification or guide guideline in other industry
+
+292
+00:55:23.990 --> 00:55:27.810
+Norio Kobota (Sony Group Corporation): or industry, neutral guide right?
+
+293
+00:55:28.490 --> 00:55:33.659
+Norio Kobota (Sony Group Corporation): Or can we rely on the existing guidelines or regulations?
+
+294
+00:55:33.770 --> 00:55:43.569
+Norio Kobota (Sony Group Corporation): That is enough. We shouldn't create or check, create or build any regulations or specification.
+
+295
+00:55:44.120 --> 00:55:48.590
+Norio Kobota (Sony Group Corporation): I'd like to ask all of your opinions.
+
+296
+00:55:49.170 --> 00:55:52.599
+Norio Kobota (Sony Group Corporation): are there anyone to open your thoughts?
+
+297
+00:55:59.190 --> 00:56:07.050
+Norio Kobota (Sony Group Corporation): Okay, yes. Industry, neutral specification. Yes, I need it.
+
+298
+00:56:07.190 --> 00:56:10.089
+Norio Kobota (Sony Group Corporation): Yes, I think so. Awesome
+
+299
+00:56:10.090 --> 00:56:10.590
+Anthony Harrison (Not Applicable): We?
+
+300
+00:56:11.610 --> 00:56:16.560
+Anthony Harrison (Not Applicable): We're at the early stages of S-boms.
+
+301
+00:56:17.460 --> 00:56:34.969
+Anthony Harrison (Not Applicable): Some industries are more advanced than others, you know. Medical devices probably have got a level of maturity. But you know, if we look at what's going to happen in Europe with the coa, I think that will be very interesting to see where we get to. I think we need a very low
+
+302
+00:56:35.170 --> 00:56:40.969
+Anthony Harrison (Not Applicable): bar initially before we start adding extra things. You know.
+
+303
+00:56:41.110 --> 00:57:00.210
+Anthony Harrison (Not Applicable): Let's just get an inventory of components. We haven't got that yet, and you know. So let's try and get a consistent, you know. Let's good get good metadata about what a component is before we start adding extra features like, you know, links to repose link to even checksums.
+
+304
+00:57:00.210 --> 00:57:12.439
+Anthony Harrison (Not Applicable): Personally. I think I you know, working. I'm working with some with a company. And basically, we just want an inventory. That's a big step forward for many companies, you know, consistent inventory of the whole supply chain.
+
+305
+00:57:12.510 --> 00:57:18.050
+Anthony Harrison (Not Applicable): So let's start slowly and and move consistently
+
+306
+00:57:19.710 --> 00:57:20.960
+Norio Kobota (Sony Group Corporation): Thank you very much.
+
+307
+00:57:22.270 --> 00:57:23.370
+Shane Coughlan (The Linux Foundation): I suppose? Yeah.
+
+308
+00:57:24.510 --> 00:57:27.570
+Norio Kobota (Sony Group Corporation): Thank you. Thank you. So thank you. Shan. Please go ahead
+
+309
+00:57:27.570 --> 00:57:35.010
+Shane Coughlan (The Linux Foundation): Oh, right. Thank you, Kabota Sam. I suppose one interesting question is whether we can take
+
+310
+00:57:35.250 --> 00:57:40.260
+Shane Coughlan (The Linux Foundation): the energy we saw with Telco creating a guide
+
+311
+00:57:40.750 --> 00:57:47.179
+Shane Coughlan (The Linux Foundation): and go to the the high level of what is being accomplished. And let's say we choose
+
+312
+00:57:48.030 --> 00:58:07.259
+Shane Coughlan (The Linux Foundation): the minimum possible to do. License. Compliance is a a valid business. Use case meeting, ntia requirements, valid business. Use case very soon, meeting the cra requirements, and so on and so forth. So if if we were
+
+313
+00:58:07.400 --> 00:58:18.000
+Shane Coughlan (The Linux Foundation): to continue exploring S bomb quality and thinking of it from a multi industry. I think that
+
+314
+00:58:18.840 --> 00:58:30.180
+Shane Coughlan (The Linux Foundation): to Anthony's point, we we could focus on the minimal needed to accomplish various business objectives, and maybe the useful type of guide
+
+315
+00:58:30.340 --> 00:58:39.810
+Shane Coughlan (The Linux Foundation): would be to understand how Telco did it, which we have done, and and then look at a guide which would
+
+316
+00:58:39.940 --> 00:58:43.999
+Shane Coughlan (The Linux Foundation): give examples of accomplishing certain business goals.
+
+317
+00:58:44.560 --> 00:58:48.549
+Shane Coughlan (The Linux Foundation): This is what you need to ask from your suppliers for ntia.
+
+318
+00:58:48.860 --> 00:58:55.629
+Shane Coughlan (The Linux Foundation): This is what you need to ask for if you're doing minimal license compliance and so on and so forth.
+
+319
+00:58:56.290 --> 00:59:18.479
+Shane Coughlan (The Linux Foundation): And this isn't about an Sbom format. It's about what would be needed to be asked. Now with the Ntia, we're lucky that they just give a list. Have this, and you know, with the cra, I think we can probably expect the same with license compliance. We we do know as an industry, what's the minimal viable needed.
+
+320
+00:59:18.740 --> 00:59:26.019
+Shane Coughlan (The Linux Foundation): So perhaps if we went down this route, a guide to accomplishing business objectives.
+
+321
+00:59:26.500 --> 00:59:34.529
+Shane Coughlan (The Linux Foundation): And then people could select multiple objectives like, I need ntia. I need license. I need Cra.
+
+322
+00:59:34.930 --> 00:59:38.840
+Shane Coughlan (The Linux Foundation): What do I ask my suppliers for this list.
+
+323
+00:59:39.260 --> 00:59:48.989
+Shane Coughlan (The Linux Foundation): and then, you know, they could choose their Sbom format. They might ask for that in Spdx, or they might ask for that in cyclone. Not really.
+
+324
+00:59:49.610 --> 00:59:52.884
+Shane Coughlan (The Linux Foundation): not really our challenge to
+
+325
+00:59:53.800 --> 00:59:58.380
+Shane Coughlan (The Linux Foundation): determine format, though we could give examples in different formats.
+
+326
+00:59:58.900 --> 01:00:05.270
+Shane Coughlan (The Linux Foundation): So yeah, that's that's 1, i think might be useful.
+
+327
+01:00:05.390 --> 01:00:12.449
+Shane Coughlan (The Linux Foundation): because we can't really predict what every industry will want. But we can predict what regulations
+
+328
+01:00:12.790 --> 01:00:20.359
+Shane Coughlan (The Linux Foundation): every industry may be subject to, and therefore we could quickly describe those in a guide. Does that make sense
+
+329
+01:00:25.120 --> 01:00:31.380
+Norio Kobota (Sony Group Corporation): Yes, and sonia has an opinion, I think
+
+330
+01:00:33.120 --> 01:00:35.910
+Anthony Harrison (Not Applicable): I have lots of opinions, sorry and
+
+331
+01:00:36.296 --> 01:00:36.683
+Norio Kobota (Sony Group Corporation): Sorry.
+
+332
+01:00:39.090 --> 01:00:52.259
+Anthony Harrison (Not Applicable): Do we want an S bomb for each use case so like an S bomb for license compliance probably doesn't need much information, as I think, from a lot. Use an S bomb for vulnerability management?
+
+333
+01:00:52.390 --> 01:01:03.340
+Anthony Harrison (Not Applicable): Or do you create an S bomb that covers both use cases just as an example. Now, my personal view is, I would like to have one
+
+334
+01:01:03.500 --> 01:01:15.719
+Anthony Harrison (Not Applicable): 1 point of truth that can be used many for many, many use cases rather than having different ones, because keeping track of multiple ones gets hard. So my view is you, you have the superset.
+
+335
+01:01:15.890 --> 01:01:31.829
+Anthony Harrison (Not Applicable): However, I'm just halfway writing a comment. Most companies just ask for an S bomb. They don't ask for an S bomb for a particular use case. So at the moment we've still got education in terms of the consumers.
+
+336
+01:01:32.110 --> 01:01:37.679
+Anthony Harrison (Not Applicable): and to to make sure they ask for the S bomb with the right attributes
+
+337
+01:01:39.800 --> 01:01:46.579
+Shane Coughlan (The Linux Foundation): Oh, yes, no, absolutely I I don't disagree. I I think that it's a case of if
+
+338
+01:01:46.710 --> 01:01:57.540
+Shane Coughlan (The Linux Foundation): if we look at what Telco's done is they've essentially asked for. I don't know what is 14 or 16 things, and said, that's what we need for ntia and license compliance.
+
+339
+01:01:57.790 --> 01:02:11.350
+Shane Coughlan (The Linux Foundation): And if we went cross industry. We might have variations in industries, or we might have, you know, one company saying, I want license, compliance, and security, but I don't care about Ntia. I don't sell into America.
+
+340
+01:02:11.880 --> 01:02:12.960
+Shane Coughlan (The Linux Foundation): So
+
+341
+01:02:13.610 --> 01:02:29.370
+Shane Coughlan (The Linux Foundation): I completely agree. Strategically speaking, there should be one S-bomb, and the challenge for us, I think, is probably that different industries will have a different idea, or even different companies would have a different idea of what's their one favorite S bomb.
+
+342
+01:02:30.050 --> 01:02:47.949
+Shane Coughlan (The Linux Foundation): So if we do create a guide, it would probably have to be modular, so people could select the modules they need. For instance, when Japan has its S-bomb regulation very important for Japanese companies not at all important for a Chinese company selling to China alone.
+
+343
+01:02:48.370 --> 01:02:55.420
+Shane Coughlan (The Linux Foundation): So you know, I I guess what we could do is explain the thing you need to ask for to accomplish goal
+
+344
+01:02:55.660 --> 01:03:01.180
+Shane Coughlan (The Linux Foundation): A and accomplish both goal B. And perhaps also say
+
+345
+01:03:02.100 --> 01:03:08.810
+Shane Coughlan (The Linux Foundation): you should ask for all of these things at once. If they're relevant, you know, stack the things that are relevant for you.
+
+346
+01:03:09.180 --> 01:03:15.680
+Shane Coughlan (The Linux Foundation): and if if we got that right, it should be possible for companies to very quickly
+
+347
+01:03:17.320 --> 01:03:23.919
+Shane Coughlan (The Linux Foundation): see what is the list of things I need. So I can accomplish business goal. ABC. In my industry.
+
+348
+01:03:24.740 --> 01:03:40.919
+Shane Coughlan (The Linux Foundation): different companies might still ask for different S. Bombs. But it's probably natural that Sony might ask for a different S-bomb to meet different requirements and regulations compared to Qnap in in Taiwan, just because they have a different stuff going on
+
+349
+01:03:47.050 --> 01:04:09.546
+Norio Kobota (Sony Group Corporation): Thank you for the discussion, but I'm sorry I don't have more time for this meeting. I concrete, and I needed to leave for next meeting. So I will summarize today's discussion and push it on the Github for the meeting memos. And
+
+350
+01:04:10.070 --> 01:04:17.779
+Norio Kobota (Sony Group Corporation): I will send an email to for this discussion. So please continue the discussion on the mail list.
+
+351
+01:04:19.140 --> 01:04:30.879
+Norio Kobota (Sony Group Corporation): and so thank you for today's journey attendance, and I will look forward to seeing you next time.
+
+352
+01:04:31.950 --> 01:04:32.630
+Norio Kobota (Sony Group Corporation): Thank you very much.
+
+353
+01:04:33.035 --> 01:04:33.439
+Marc-Etienne Vargenau (Nokia Corporation): You.
+
+354
+01:04:33.990 --> 01:04:35.339
+Shane Coughlan (The Linux Foundation): Thank you, thank you. Take care
+
+355
+01:04:36.700 --> 01:04:38.650
+Norio Kobota (Sony Group Corporation): Yeah, thank you very much. See? You
+
+356
+01:04:38.650 --> 01:04:41.389
+Vivek Kumar Sahu (Individual Contribution): Thank you. Everyone, bye, have a nice day
+
+357
+01:04:41.760 --> 01:04:43.430
+Norio Kobota (Sony Group Corporation): Bye, bye, you too.
+
