@@ -1,0 +1,1902 @@
+WEBVTT
+
+1
+00:05:12.090 --> 00:05:13.080
+Norio Kobota (Sony Group Corporation): I check.
+
+2
+00:05:14.160 --> 00:05:16.879
+Shane Coughlan (The Linux Foundation): Hi! Good to send. How are you today.
+
+3
+00:05:17.670 --> 00:05:22.141
+Norio Kobota (Sony Group Corporation): Yes, I'm good, but a little tired.
+
+4
+00:05:23.320 --> 00:05:26.800
+Shane Coughlan (The Linux Foundation): Oh, you must be, you know. You keep
+
+5
+00:05:27.060 --> 00:05:32.830
+Shane Coughlan (The Linux Foundation): sending really detailed work on weekends, and I think.
+
+6
+00:05:32.830 --> 00:05:33.520
+Norio Kobota (Sony Group Corporation): Ha! Ha!
+
+7
+00:05:33.520 --> 00:05:34.839
+Shane Coughlan (The Linux Foundation): Take no time off.
+
+8
+00:05:35.610 --> 00:05:42.010
+Norio Kobota (Sony Group Corporation): Not so much, but I have some internal work.
+
+9
+00:05:42.730 --> 00:05:51.469
+Norio Kobota (Sony Group Corporation): as you know. This is the timing before the golden week in Japan, so we have matched our task
+
+10
+00:05:51.910 --> 00:05:55.260
+Norio Kobota (Sony Group Corporation): to down before the golden week.
+
+11
+00:05:57.820 --> 00:06:05.980
+Shane Coughlan (The Linux Foundation): Yes, I I forgot. It was golden week. I was just looking at my calendar, and I realized, Oh.
+
+12
+00:06:07.150 --> 00:06:11.400
+Norio Kobota (Sony Group Corporation): Many Japanese company will take holidays next week.
+
+13
+00:06:11.400 --> 00:06:12.110
+Shane Coughlan (The Linux Foundation): Yes.
+
+14
+00:06:12.890 --> 00:06:13.800
+Norio Kobota (Sony Group Corporation): Yeah.
+
+15
+00:06:15.060 --> 00:06:23.590
+Norio Kobota (Sony Group Corporation): So. But, as as you know, we need to finish the review about for the open society.
+
+16
+00:06:23.870 --> 00:06:24.920
+Norio Kobota (Sony Group Corporation): Yolov.
+
+17
+00:06:28.840 --> 00:06:32.626
+Shane Coughlan (The Linux Foundation): Well, my plan next week. Is to
+
+18
+00:06:33.400 --> 00:06:40.830
+Shane Coughlan (The Linux Foundation): to take a little bit of golden week to have my own private onsense study group.
+
+19
+00:06:41.905 --> 00:06:44.110
+Norio Kobota (Sony Group Corporation): It's very good.
+
+20
+00:06:45.040 --> 00:06:52.879
+Norio Kobota (Sony Group Corporation): I found to also in the timing at the open source time in Japan this year.
+
+21
+00:06:53.400 --> 00:07:00.670
+Norio Kobota (Sony Group Corporation): So not only Shane, but also the attendees. This study group. Please join us.
+
+22
+00:07:00.980 --> 00:07:01.440
+Shane Coughlan (The Linux Foundation): That's it.
+
+23
+00:07:01.440 --> 00:07:10.220
+Norio Kobota (Sony Group Corporation): I will plan to go somewhere around the Hakone area in Japan at the before the Open Source Summit, Japan.
+
+24
+00:07:10.460 --> 00:07:13.779
+Norio Kobota (Sony Group Corporation): So if you'd like to join. Please let me know.
+
+25
+00:07:14.750 --> 00:07:22.559
+Shane Coughlan (The Linux Foundation): I will definitely definitely join. Hey, Thomas, I see you're online. Sandra's here
+
+26
+00:07:23.800 --> 00:07:35.070
+Shane Coughlan (The Linux Foundation): by Shelly's here. Some of you know what the Onsen study group is, some of you don't. But basically we're going to
+
+27
+00:07:35.760 --> 00:07:46.819
+Shane Coughlan (The Linux Foundation): go to somewhere lovely with Japanese hot springs at the time of the Open Compliance summit. So you are very welcome to come. If you are in the country.
+
+28
+00:07:49.500 --> 00:07:53.381
+Shane Coughlan (The Linux Foundation): it's the most popular study group in open chain. Actually
+
+29
+00:08:01.190 --> 00:08:03.140
+Shane Coughlan (The Linux Foundation): nary is here too.
+
+30
+00:08:04.310 --> 00:08:07.640
+Jari Koivisto (OpenChain Project): And while the sun Hi! Gary, how are you?
+
+31
+00:08:07.960 --> 00:08:13.090
+Shane Coughlan (The Linux Foundation): Hey, Yari, you mentioned yesterday that you're doing a podcast about M and A,
+
+32
+00:08:13.380 --> 00:08:17.980
+Shane Coughlan (The Linux Foundation): when, when you do that, can you send the link? So I can also promote it.
+
+33
+00:08:19.535 --> 00:08:25.190
+Jari Koivisto (OpenChain Project): Unfortunately, it will be done in Finnish language, so that wouldn't help much.
+
+34
+00:08:25.190 --> 00:08:28.160
+Shane Coughlan (The Linux Foundation): Oh, no, that's okay. That's good. I'm very.
+
+35
+00:08:28.160 --> 00:08:28.660
+Jari Koivisto (OpenChain Project): Okay.
+
+36
+00:08:28.660 --> 00:08:28.965
+Shane Coughlan (The Linux Foundation): Yeah.
+
+37
+00:08:29.880 --> 00:08:50.879
+Jari Koivisto (OpenChain Project): Alright. Yeah. Well, you know I will. It will be done with one legal company in Helsinki. And I don't know, because, like. 1st we do the recording on Thursday morning, and then later on, they will kind of cut, and, you know, do whatever they do it to to, you know. Make it 45 min, or whatever long. But yeah, once that's done, you know I can. I can share the link, of course.
+
+38
+00:08:51.060 --> 00:09:02.870
+Shane Coughlan (The Linux Foundation): I would love that. I like the idea of promoting more international language events. Even if people cannot understand it. I think it's important to share that things are happening.
+
+39
+00:09:03.240 --> 00:09:03.820
+Jari Koivisto (OpenChain Project): Yep.
+
+40
+00:09:05.667 --> 00:09:13.210
+Shane Coughlan (The Linux Foundation): Kubota, Sam, will I open the meeting just with the antitrust notice, and then hand over sharing to you
+
+41
+00:09:20.190 --> 00:09:23.190
+Shane Coughlan (The Linux Foundation): orders and is muted. So I'm going to.
+
+42
+00:09:23.510 --> 00:09:26.349
+Shane Coughlan (The Linux Foundation): Oh, sorry! Oh, is it?
+
+43
+00:09:26.350 --> 00:09:29.049
+Norio Kobota (Sony Group Corporation): Thank you. Yes, go ahead.
+
+44
+00:09:29.740 --> 00:09:31.120
+Shane Coughlan (The Linux Foundation): Thank you.
+
+45
+00:09:31.120 --> 00:09:31.760
+Norio Kobota (Sony Group Corporation): No, sir.
+
+46
+00:09:32.640 --> 00:09:36.350
+Shane Coughlan (The Linux Foundation): We have a busy meeting already. 13 people online. Okay.
+
+47
+00:09:37.560 --> 00:10:01.109
+Shane Coughlan (The Linux Foundation): so welcome to another open chain study group meeting. This time. It is the Sbom Study group. This is one of our most busy and popular study groups in the project. We're talking about how Sboms can be used in production in very practical ways.
+
+48
+00:10:01.610 --> 00:10:27.230
+Shane Coughlan (The Linux Foundation): The leader of this study group. The chair is kobotasan from Sony, and he'll be guiding you through the discussion before he does. So. I'm just going to show our antitrust policy. Notice this meeting, like all of the meetings in the Linux Foundation, is held under our antitrust policy. Notice. You can read the full policy on our website.
+
+49
+00:10:27.390 --> 00:10:39.709
+Shane Coughlan (The Linux Foundation): And if you're from a member company, you can ask any questions of our council and the up to Grove, if you're not from a member company, you can ask any questions of your own council.
+
+50
+00:10:40.110 --> 00:10:54.410
+Shane Coughlan (The Linux Foundation): Well, with the formal part out of the way. We have a ton of exciting work to do around the practical use of Sboms in the supply chain, and I will hand over to Kubota-san to run the meeting.
+
+51
+00:10:57.270 --> 00:11:04.649
+Norio Kobota (Sony Group Corporation): Thank you, Shane. I will start today's meeting and wait a moment.
+
+52
+00:11:08.000 --> 00:11:09.659
+Norio Kobota (Sony Group Corporation): I will share.
+
+53
+00:11:14.160 --> 00:11:17.160
+Norio Kobota (Sony Group Corporation): Okay, can you see my screen.
+
+54
+00:11:17.750 --> 00:11:19.550
+Shane Coughlan (The Linux Foundation): Yes, it's looking good.
+
+55
+00:11:20.250 --> 00:11:29.579
+Norio Kobota (Sony Group Corporation): Okay, thank you for attending today. And for the past 2 months is we have been discussing
+
+56
+00:11:29.770 --> 00:11:34.070
+Norio Kobota (Sony Group Corporation): the challenges of the S-bomb operation.
+
+57
+00:11:34.690 --> 00:11:43.900
+Norio Kobota (Sony Group Corporation): And we have also been discussing how to solve these challenges and what kind of guide or documentation we should have.
+
+58
+00:11:44.460 --> 00:12:01.239
+Norio Kobota (Sony Group Corporation): So today, I will share the progress about it. And among Japan communities we had 5th time to discuss at the local meetings.
+
+59
+00:12:01.480 --> 00:12:05.459
+Norio Kobota (Sony Group Corporation): And what kind of document we should have.
+
+60
+00:12:05.930 --> 00:12:16.259
+Norio Kobota (Sony Group Corporation): So this is a very preliminary document and idea stage. So let me know, or let us know what you think.
+
+61
+00:12:16.900 --> 00:12:27.280
+Norio Kobota (Sony Group Corporation): And we have already a good guide from the Terra S bomb guide on the open chain Project repository.
+
+62
+00:12:27.500 --> 00:12:33.800
+Norio Kobota (Sony Group Corporation): So we think we should refer this guide as a baseline.
+
+63
+00:12:34.360 --> 00:12:41.509
+Norio Kobota (Sony Group Corporation): On the other hand, this guide is described only by using the Spdx format.
+
+64
+00:12:42.020 --> 00:12:50.750
+Norio Kobota (Sony Group Corporation): and in the past meeting we should, if we should create this guide, we should form a diagnostic
+
+65
+00:12:50.940 --> 00:12:57.529
+Norio Kobota (Sony Group Corporation): and the industry independent. It's an idea for our discussion in the past.
+
+66
+00:12:58.170 --> 00:13:06.710
+Norio Kobota (Sony Group Corporation): So I and Japanese colleagues, Japanese folks created a table of contents today.
+
+67
+00:13:07.230 --> 00:13:12.140
+Norio Kobota (Sony Group Corporation): And 1st one is a introduction about this document.
+
+68
+00:13:12.340 --> 00:13:18.750
+Norio Kobota (Sony Group Corporation): It's a just interaction, and these are the chapter summaries
+
+69
+00:13:19.570 --> 00:13:29.929
+Norio Kobota (Sony Group Corporation): based on the Terraco Sbom guide objectives and scope is inherit this Terco spom guide.
+
+70
+00:13:30.190 --> 00:13:43.110
+Norio Kobota (Sony Group Corporation): But, as I said, this guide is written in only about Spdx format, so we should define industry independent and format agnostic
+
+71
+00:13:43.290 --> 00:13:44.460
+Norio Kobota (Sony Group Corporation): style.
+
+72
+00:13:45.400 --> 00:13:57.689
+Norio Kobota (Sony Group Corporation): and a second chapter is terms and definitions, and we added, we will, we should add a second Dx. About for the terms and definitions.
+
+73
+00:13:58.510 --> 00:14:10.629
+Norio Kobota (Sony Group Corporation): and the 3, rd 1 3rd chapter is explaining up the basic requirements. This is already described in the Chapter 3 requirements from open channel.
+
+74
+00:14:11.170 --> 00:14:16.020
+Norio Kobota (Sony Group Corporation): so as same format we should.
+
+75
+00:14:16.350 --> 00:14:22.720
+Norio Kobota (Sony Group Corporation): as described on the X-plane, not only the Spdx, but also the Cyclone Dx, and so on.
+
+76
+00:14:24.270 --> 00:14:31.460
+Norio Kobota (Sony Group Corporation): And I'd like we'd like to propose at a whole section
+
+77
+00:14:31.620 --> 00:14:36.040
+Norio Kobota (Sony Group Corporation): as from quality, assessment and improvement measures.
+
+78
+00:14:36.360 --> 00:14:49.179
+Norio Kobota (Sony Group Corporation): The chapter systematically organizes specific check items and resolutions, resolutions for assessing, accessing and improving s bomb quality
+
+79
+00:14:49.420 --> 00:14:57.870
+Norio Kobota (Sony Group Corporation): based on issues discussed within the open chain, S-bom study group and the open chain. Japan, Sbom study group.
+
+80
+00:14:58.450 --> 00:15:06.580
+Norio Kobota (Sony Group Corporation): This item will be added, using the appendix to template for chapter 5 items.
+
+81
+00:15:07.010 --> 00:15:08.020
+Norio Kobota (Sony Group Corporation): This one.
+
+82
+00:15:08.260 --> 00:15:09.260
+Norio Kobota (Sony Group Corporation): Oh, sorry.
+
+83
+00:15:10.120 --> 00:15:14.530
+Norio Kobota (Sony Group Corporation): Set up top 5 like this.
+
+84
+00:15:17.360 --> 00:15:22.399
+Norio Kobota (Sony Group Corporation): So chapter title is challenge, title for example.
+
+85
+00:15:22.610 --> 00:15:26.960
+Norio Kobota (Sony Group Corporation): ensuring accurate and consistent information descriptors.
+
+86
+00:15:27.250 --> 00:15:29.042
+Norio Kobota (Sony Group Corporation): This challenge is
+
+87
+00:15:30.050 --> 00:15:43.969
+Norio Kobota (Sony Group Corporation): already translated in English, and you can refer the materials. But some materials are later in Japanese. So I summarized in English
+
+88
+00:15:44.210 --> 00:15:46.818
+Norio Kobota (Sony Group Corporation): share, that is, shoes and
+
+89
+00:15:48.050 --> 00:15:54.119
+Norio Kobota (Sony Group Corporation): proposal solutions and automation considerations about each issues.
+
+90
+00:15:54.360 --> 00:16:20.170
+Norio Kobota (Sony Group Corporation): And we had a 5th time to discuss. So you can check several issues. And we believe this is just discussed within the Japanese communities. But we believe these issues are similar issues all over world companies or individuals. Should have similar issues, we think.
+
+91
+00:16:23.350 --> 00:16:38.309
+Norio Kobota (Sony Group Corporation): And after adding these items, we back to the open center for Spom Guide, Guide management and administration.
+
+92
+00:16:38.540 --> 00:16:43.309
+Norio Kobota (Sony Group Corporation): This chapter focuses on managing the this guide itself.
+
+93
+00:16:43.550 --> 00:16:54.409
+Norio Kobota (Sony Group Corporation): outlining regular reviews, updates and procedures for documenting change history rather than the operational management of the spont itself.
+
+94
+00:16:55.380 --> 00:17:06.409
+Norio Kobota (Sony Group Corporation): So guide update processes and defining guide update processes and change, history, management, and documentation. This is where we described in this chapter.
+
+95
+00:17:06.829 --> 00:17:21.739
+Norio Kobota (Sony Group Corporation): and the last one is reference and related materials. This is all also based on the open center request, form guide, and adding some another materials, such as Icon Dx specification, and so on.
+
+96
+00:17:23.210 --> 00:17:25.140
+Norio Kobota (Sony Group Corporation): And it does.
+
+97
+00:17:25.530 --> 00:17:28.970
+Norio Kobota (Sony Group Corporation): Characteristic items. Is this one?
+
+98
+00:17:29.570 --> 00:17:40.850
+Norio Kobota (Sony Group Corporation): Well during the discussion we had the idea less sample.
+
+99
+00:17:41.340 --> 00:17:48.500
+Norio Kobota (Sony Group Corporation): especially for the endless Spdx examples for describing some
+
+100
+00:17:48.850 --> 00:17:55.659
+Norio Kobota (Sony Group Corporation): situation and actual Spdx, Jsons and second Dx. Jsons.
+
+101
+00:17:55.860 --> 00:18:08.730
+Norio Kobota (Sony Group Corporation): and we can find many samples by lighting with cyclone Dx format. But we can't find many, not so many Spdx examples
+
+102
+00:18:08.840 --> 00:18:11.800
+Norio Kobota (Sony Group Corporation): also, all over
+
+103
+00:18:12.750 --> 00:18:27.560
+Norio Kobota (Sony Group Corporation): more. We can find some Spdx as example with Spd. X version 3 point 3 or 2. But we can't find any examples letting in Spdx version 3 point. O,
+
+104
+00:18:27.660 --> 00:18:37.400
+Norio Kobota (Sony Group Corporation): so we will add some actual examples, and adopting some regulations such as Nti minimum in
+
+105
+00:18:37.520 --> 00:18:50.489
+Norio Kobota (Sony Group Corporation): for adopting Sd. Ndi minimum element. We should like Spdx. 3 dot. O, we will share such examples in this chapter.
+
+106
+00:18:51.850 --> 00:19:00.140
+Norio Kobota (Sony Group Corporation): So that's the overview of the idea level of the as bomb quality guide.
+
+107
+00:19:00.450 --> 00:19:08.889
+Norio Kobota (Sony Group Corporation): So I'd like to ask all of you. Are there any idea or comments about this.
+
+108
+00:19:16.580 --> 00:19:23.899
+Shane Coughlan (The Linux Foundation): And everyone feel free to unmute yourself or write it in the chat. I'm watching the Chat, Yari. Your hand is up.
+
+109
+00:19:25.640 --> 00:19:33.800
+Jari Koivisto (OpenChain Project): Hey? Not really. Well, it's it's kind of related to this document as well. But idea.
+
+110
+00:19:34.947 --> 00:19:43.900
+Jari Koivisto (OpenChain Project): Should we start to talk about S bomb, document quality kite instead of S bomb quality kite cause.
+
+111
+00:19:44.310 --> 00:19:52.190
+Jari Koivisto (OpenChain Project): My thinking back, you know, is that okay, there's S bomb and the organization. Most likely they will have some sort of database
+
+112
+00:19:52.650 --> 00:20:09.020
+Jari Koivisto (OpenChain Project): that keeps the products product versions and then the open source and commercial and in house developed components in in database and then do the matching. And that's kind of the S bomb. And when they
+
+113
+00:20:09.250 --> 00:20:16.170
+Jari Koivisto (OpenChain Project): final ship application or product, or whatever, then from that database they generate
+
+114
+00:20:16.820 --> 00:20:23.880
+Jari Koivisto (OpenChain Project): Spom document, that, for example, they can, you know, ship together with that product, to make that sort of this
+
+115
+00:20:24.130 --> 00:20:27.680
+Jari Koivisto (OpenChain Project): kind of separation between those 2, that there's S. Bomb.
+
+116
+00:20:28.600 --> 00:20:36.650
+Jari Koivisto (OpenChain Project): which is most likely some database, and you know fields in the database and tables, and then there's s per document
+
+117
+00:20:37.220 --> 00:20:43.509
+Jari Koivisto (OpenChain Project): which then could be Spdx or Cyclone Dx, or or maybe some other other format in in the future.
+
+118
+00:20:44.980 --> 00:20:52.675
+Norio Kobota (Sony Group Corporation): Yes, thank you. I agree with your opinion. You are salt. Yes, we should.
+
+119
+00:20:53.730 --> 00:20:56.210
+Norio Kobota (Sony Group Corporation): device, spom document quality guide.
+
+120
+00:20:56.500 --> 00:20:59.149
+Norio Kobota (Sony Group Corporation): Yes, I agree. Thank you.
+
+121
+00:21:01.920 --> 00:21:07.440
+Jari Koivisto (OpenChain Project): I don't know if everybody else, you know, thinks this way, but I think this is not just my my thinking.
+
+122
+00:21:12.720 --> 00:21:13.660
+Vivek Kumar (Interlynk): Hello!
+
+123
+00:21:15.770 --> 00:21:16.170
+Norio Kobota (Sony Group Corporation): Yes.
+
+124
+00:21:16.170 --> 00:21:21.349
+Vivek Kumar (Interlynk): Hi, hi! So I also wanted to suggest one thing. So what about adding
+
+125
+00:21:21.610 --> 00:21:27.830
+Vivek Kumar (Interlynk): one more topic there? Why, good quality S bomb matters and how it can help.
+
+126
+00:21:27.970 --> 00:21:33.549
+Vivek Kumar (Interlynk): And what are the standards of good quality? S. Bombs.
+
+127
+00:21:34.000 --> 00:21:34.850
+Vivek Kumar (Interlynk): Kind of.
+
+128
+00:21:37.240 --> 00:21:42.219
+Norio Kobota (Sony Group Corporation): Yes, sorry. I missed to implement.
+
+129
+00:21:43.330 --> 00:21:53.830
+Norio Kobota (Sony Group Corporation): Yes. During our Japanese discussion we should define. What is quality referring? The
+
+130
+00:21:54.220 --> 00:22:14.220
+Norio Kobota (Sony Group Corporation): yes, exactly in Sbom Qs documentation that is described that describing what is the Sbom document quality. So we should refer that as one, the definition of the Sbom quality.
+
+131
+00:22:15.970 --> 00:22:25.220
+Norio Kobota (Sony Group Corporation): Yeah. So we will write down implement. Such a Sbom call Sbom document quality definition into this guy.
+
+132
+00:22:27.170 --> 00:22:29.200
+Vivek Kumar (Interlynk): Yeah, okay.
+
+133
+00:22:30.950 --> 00:22:31.660
+Norio Kobota (Sony Group Corporation): Thank you very much.
+
+134
+00:22:32.815 --> 00:22:33.970
+Vivek Kumar (Interlynk): Yeah.
+
+135
+00:22:40.620 --> 00:22:44.369
+Norio Kobota (Sony Group Corporation): Are there any other salts or opinion.
+
+136
+00:22:51.380 --> 00:23:01.290
+Shane Coughlan (The Linux Foundation): And just to stress for everyone any thoughts, any opinion is very welcome. This is a study group. So we're brainstorming at this stage.
+
+137
+00:23:01.640 --> 00:23:16.560
+Shane Coughlan (The Linux Foundation): And when we've had all of our studying done later, we will perhaps become a work group and do the work part. So now is the brainstorm and any comment, any idea is very welcome.
+
+138
+00:23:21.340 --> 00:23:22.480
+Shane Coughlan (The Linux Foundation): Rakesh.
+
+139
+00:23:23.785 --> 00:23:37.275
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Yeah, thank you. Shane. So just couple of points, I think. There was this point regarding the current guide focus only on the Spdex and not on the cyclone. Deeks. Right?
+
+140
+00:23:37.820 --> 00:23:50.340
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): So do we also intend to add the cyclone. Dx. You know specification, best practice, like, what are the parameters that should be part of cyclondix? Document.
+
+141
+00:23:51.620 --> 00:23:57.230
+Shane Coughlan (The Linux Foundation): Appendix. One, I think. Is that right, Kubota Sam, where we will have the samples.
+
+142
+00:23:58.450 --> 00:24:11.050
+Norio Kobota (Sony Group Corporation): Yes, but as you know, we don't have enough experience using. So I I will very appreciate
+
+143
+00:24:12.230 --> 00:24:15.350
+Norio Kobota (Sony Group Corporation): Conditions from the psychologist people.
+
+144
+00:24:16.740 --> 00:24:17.490
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Okay?
+
+145
+00:24:18.224 --> 00:24:31.629
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): So so what what are the expectations? Is it? With respect to let's say, what are the parameters that are man that should be mandatory be part of a cyclonics document
+
+146
+00:24:32.080 --> 00:24:36.850
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): for it to be qualified as a you know a good S. Pop. Is that the expectation.
+
+147
+00:24:41.440 --> 00:24:46.049
+Shane Coughlan (The Linux Foundation): So there is something underway. Oh, sorry, Kubota! Sam.
+
+148
+00:24:47.908 --> 00:24:50.910
+Norio Kobota (Sony Group Corporation): Sorry. Go ahead, please. I'm not.
+
+149
+00:24:51.240 --> 00:24:55.720
+Norio Kobota (Sony Group Corporation): Yeah. I I can't forward the question exactly. Sorry.
+
+150
+00:24:57.360 --> 00:25:03.010
+Shane Coughlan (The Linux Foundation): Well, I do have an answer which might suit you, Rakesh, which is based on
+
+151
+00:25:03.622 --> 00:25:11.120
+Shane Coughlan (The Linux Foundation): what type of s bomb we might like to see in that. So what is it? What is it we might want to see?
+
+152
+00:25:11.730 --> 00:25:12.550
+Shane Coughlan (The Linux Foundation): And
+
+153
+00:25:13.430 --> 00:25:26.200
+Shane Coughlan (The Linux Foundation): I made an issue, I think. Yes, this is an issue. So it hasn't been accepted yet. Okay, but it's an example. I'm just going to share my screen. Briefly, if that's okay.
+
+154
+00:25:27.256 --> 00:25:29.869
+Shane Coughlan (The Linux Foundation): and then I'll come back to Kubota Sand.
+
+155
+00:25:30.210 --> 00:25:33.159
+Shane Coughlan (The Linux Foundation): So I'm just gonna share my screen and show you an.
+
+156
+00:25:33.605 --> 00:25:34.050
+Norio Kobota (Sony Group Corporation): Yes!
+
+157
+00:25:34.440 --> 00:25:35.280
+Shane Coughlan (The Linux Foundation): Thank you.
+
+158
+00:25:36.289 --> 00:25:48.850
+Shane Coughlan (The Linux Foundation): This is an issue that's open on Github about this document. And right now we have a small bit of text saying, there'll be S bomb samples. And I just suggested that we have
+
+159
+00:25:48.970 --> 00:26:06.950
+Shane Coughlan (The Linux Foundation): these type of samples like, what is the minimum in Spdx you need for ntia and cyclone for ntia. Then later, once we have the rules. What's the minimum in Spdx for Cra and cyclone for Cra?
+
+160
+00:26:07.280 --> 00:26:16.630
+Shane Coughlan (The Linux Foundation): And then what is it for? Nta plus cra. What fields do you need in Spdx? Same question, what fields do you need in cyclone?
+
+161
+00:26:16.910 --> 00:26:23.090
+Shane Coughlan (The Linux Foundation): So those type of really practical examples are what my proposal is my suggestion.
+
+162
+00:26:23.190 --> 00:26:33.109
+Shane Coughlan (The Linux Foundation): I don't know if that answers your question, Rakesh, but it's just an example of you know, very practical. What what type of thing might be useful for us to create.
+
+163
+00:26:33.340 --> 00:26:52.279
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Yes, yes, I think that is, that is also quite helpful. but I think we should have this appendix part that you had mentioned. Additionally, one more point is like in an ideal scenario. When there is an Spd when there's a spom exchange
+
+164
+00:26:53.174 --> 00:27:02.830
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): and if if the S bomb is being, let's say, generated in one country, and then it's going to another country where, let's say, from India to Europe.
+
+165
+00:27:03.358 --> 00:27:20.920
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Then, you know, the adherence has to be with respect to the Cra and other laws, and similarly, in us, we would be having other requirements. Right? So I would also suggest, if everyone agrees. Could we have, like a combination of
+
+166
+00:27:21.050 --> 00:27:26.971
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): all in one s form, because currently, I think the N. The Nta is quite familiar
+
+167
+00:27:27.792 --> 00:27:49.377
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): and the cra is quite new. So I would say, like the last 2 examples that you mentioned right? Npa plus cra, maybe we could also try to bring in other parts. So if we have let's say, my idea is that we could have Cra separately. You could have Nta separately, and maybe you could have BSI separately. That's fine.
+
+168
+00:27:49.710 --> 00:28:03.169
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): But then, when we merge it? Probably you could have like a combination of everything rather than like you know, having like 6 to 7 different combinations, because that would also be like a little difficult right
+
+169
+00:28:04.946 --> 00:28:06.579
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): to to refer. I mean.
+
+170
+00:28:06.960 --> 00:28:21.290
+Shane Coughlan (The Linux Foundation): Yeah, no, absolutely. I I mean, I don't think we can do all of the edge cases in examples. Certainly we should probably do the really big office ones. So you know us India, Europe.
+
+171
+00:28:21.400 --> 00:28:29.220
+Shane Coughlan (The Linux Foundation): And if we could do like the isolated example, here's Ntia. It's I don't know. 14 fields.
+
+172
+00:28:29.460 --> 00:28:30.130
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Yes.
+
+173
+00:28:30.130 --> 00:28:54.230
+Shane Coughlan (The Linux Foundation): But then have the combined example of here's ntia plus cra plus an Indian requirement. This is what it looks like. I mean, that's exactly the type of really useful contribution that hopefully experts such as yourself could help us with as we build the appendix, because you're right doing the simplest one would only be useful like a code snippet. It's like, here's a tiny example.
+
+174
+00:28:54.490 --> 00:29:03.119
+Shane Coughlan (The Linux Foundation): But combining India, us and Europe suddenly would give a real practical example for the market. Of course.
+
+175
+00:29:03.120 --> 00:29:03.810
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Right?
+
+176
+00:29:04.800 --> 00:29:05.720
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Right?
+
+177
+00:29:06.160 --> 00:29:06.480
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Yeah, sure.
+
+178
+00:29:06.480 --> 00:29:10.071
+Shane Coughlan (The Linux Foundation): Sounds like a please help us. Community moment.
+
+179
+00:29:10.520 --> 00:29:32.069
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): No, no problem. I think, yeah, I mean, just a suggestion like, because that sounds more like like, how the suppliers work, or if somebody is consuming it's probably generated somewhere, and it's being consumed somewhere and probably the person who's generating may have to. Let's say, adhere to multiple laws.
+
+180
+00:29:32.180 --> 00:29:38.210
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): So yeah, it will be good to have that definitely. We'll also try to contribute here as much as possible.
+
+181
+00:29:39.900 --> 00:29:40.790
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Thank you.
+
+182
+00:29:41.900 --> 00:29:46.389
+Shane Coughlan (The Linux Foundation): Thank you. It'll be great to have you help with the appendix examples.
+
+183
+00:29:50.583 --> 00:29:54.530
+Norio Kobota (Sony Group Corporation): We have a question from yarisen.
+
+184
+00:29:55.720 --> 00:30:01.320
+Norio Kobota (Sony Group Corporation): Yes, it's a we should discuss about the packs
+
+185
+00:30:02.356 --> 00:30:13.260
+Norio Kobota (Sony Group Corporation): Spdx already. Have a security profile, and I heard that at least starting I they are now at least starting to discuss about how to
+
+186
+00:30:13.710 --> 00:30:23.579
+Norio Kobota (Sony Group Corporation): embedded style or separated style, how to involve and growth into the s. 1.
+
+187
+00:30:23.870 --> 00:30:35.170
+Norio Kobota (Sony Group Corporation): But I'm not sure we should include this guide about Bex information in this guide.
+
+188
+00:30:35.620 --> 00:30:39.579
+Norio Kobota (Sony Group Corporation): Are there any thoughts? Do you have any thoughts, Yarisan?
+
+189
+00:30:44.400 --> 00:30:53.020
+Jari Koivisto (OpenChain Project): I, I yeah, like, that's why I threw the question out there. Because I think as for today, the industry is still
+
+190
+00:30:53.600 --> 00:30:58.090
+Jari Koivisto (OpenChain Project): kind of debating a little bit about the embedded bags or not.
+
+191
+00:30:58.220 --> 00:31:03.990
+Jari Koivisto (OpenChain Project): and I think that as for today, mostly
+
+192
+00:31:04.910 --> 00:31:12.150
+Jari Koivisto (OpenChain Project): they are favoring the separate fax from S. Bomb, but who knows
+
+193
+00:31:12.280 --> 00:31:24.469
+Jari Koivisto (OpenChain Project): what we will say in in 6 or 12 months from now, that if if the industry will go for the embedded vex, and then, if it's embedded, and then we if we have the S bomb quality kite, then I think it
+
+194
+00:31:24.730 --> 00:31:31.850
+Jari Koivisto (OpenChain Project): maybe should be part of the document. If if the industry is going towards the embedded fix, but
+
+195
+00:31:32.090 --> 00:31:36.210
+Jari Koivisto (OpenChain Project): I think we will see that, you know, in in the coming months or years.
+
+196
+00:31:38.130 --> 00:31:50.629
+Norio Kobota (Sony Group Corporation): Yeah, thank you very much. Yes, we had. In Japanese community, we had a similar discussion. And currently Japanese community tends to choose a separated style.
+
+197
+00:31:51.520 --> 00:31:54.947
+Norio Kobota (Sony Group Corporation): But I'm not sure what the way we're going.
+
+198
+00:31:55.520 --> 00:32:00.770
+Jari Koivisto (OpenChain Project): Yeah. And, for example, in Germany, the BSI guide, it's clearly at least the
+
+199
+00:32:00.930 --> 00:32:04.489
+Jari Koivisto (OpenChain Project): 1st iteration. Say that they must be separated.
+
+200
+00:32:06.000 --> 00:32:06.850
+Norio Kobota (Sony Group Corporation): Okay.
+
+201
+00:32:07.050 --> 00:32:07.850
+Jari Koivisto (OpenChain Project): I say, yeah.
+
+202
+00:32:07.850 --> 00:32:11.120
+Jari Koivisto (OpenChain Project): Then, on the other hand, the cyclone cyclone is is, you know, I think, push.
+
+203
+00:32:11.120 --> 00:32:11.650
+Norio Kobota (Sony Group Corporation): Not yet.
+
+204
+00:32:11.650 --> 00:32:16.000
+Jari Koivisto (OpenChain Project): More towards the embed model, so I don't know.
+
+205
+00:32:17.530 --> 00:32:18.938
+Norio Kobota (Sony Group Corporation): Yes, Shane, please.
+
+206
+00:32:19.930 --> 00:32:39.829
+Shane Coughlan (The Linux Foundation): I just had a thought which was the advantage of what we're doing is because we're building a guide. And it's not. It's not a specification. It's not formal guidance. It's no problem for us to expand or change the guide for market conditions.
+
+207
+00:32:40.360 --> 00:32:41.290
+Shane Coughlan (The Linux Foundation): So
+
+208
+00:32:41.640 --> 00:32:52.909
+Shane Coughlan (The Linux Foundation): you know, we, if if currently things are separate, and then if people bring them together, I think it's no problem for us to say, Okay, we'll make a new version of the guide. Now
+
+209
+00:32:53.110 --> 00:32:54.709
+Shane Coughlan (The Linux Foundation): the industry change.
+
+210
+00:32:56.361 --> 00:33:03.430
+Norio Kobota (Sony Group Corporation): Yeah, it's a good idea. Just we share. We should share the example in appendix one.
+
+211
+00:33:03.630 --> 00:33:18.449
+Norio Kobota (Sony Group Corporation): But this is a separate and also you. If you want to embed a free slide like this, we can share the such example in the other appendix.
+
+212
+00:33:19.040 --> 00:33:20.400
+Norio Kobota (Sony Group Corporation): It's a good idea.
+
+213
+00:33:21.280 --> 00:33:27.190
+Shane Coughlan (The Linux Foundation): I love that idea because that means people can just sit down and explore.
+
+214
+00:33:31.180 --> 00:33:35.800
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Could we also add, the schema along with the examples
+
+215
+00:33:39.345 --> 00:33:42.702
+Norio Kobota (Sony Group Corporation): Yes, also really cool, because then we could define like
+
+216
+00:33:45.308 --> 00:33:54.300
+Norio Kobota (Sony Group Corporation): yes, thank you. It's idea, I think. But as far as I know Spdx team are discussing about it.
+
+217
+00:33:54.670 --> 00:34:00.280
+Norio Kobota (Sony Group Corporation): say, creating some schema about Spdx 3 dot. O, currently.
+
+218
+00:34:00.920 --> 00:34:20.120
+Norio Kobota (Sony Group Corporation): So we can join the as we, I'm not sure but we should join the Spdx team and discuss simultaneously, and reflecting the Spd schema to this guy as a sample or answer.
+
+219
+00:34:21.735 --> 00:34:22.360
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Okay.
+
+220
+00:34:24.459 --> 00:34:31.409
+Norio Kobota (Sony Group Corporation): And I'm not sure. But are there any schema in the Cyclone Dx format.
+
+221
+00:34:33.429 --> 00:34:45.880
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): So. I'm I'm pretty sure I think. We discussed on maybe 2, 2 months back we discussed on the Sapia project. You're aware of that right?
+
+222
+00:34:45.889 --> 00:34:46.549
+Norio Kobota (Sony Group Corporation): Oh!
+
+223
+00:34:46.550 --> 00:34:47.090
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): So.
+
+224
+00:34:47.090 --> 00:34:47.580
+Norio Kobota (Sony Group Corporation): Okay.
+
+225
+00:34:47.942 --> 00:35:00.250
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): This is also in the open chain, and so the purpose of the project is to provide a validator of this bomb and also collect different schemas.
+
+226
+00:35:00.490 --> 00:35:07.020
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): So currently, it's like, since it's initiated from Bosch. We have, added the schema.
+
+227
+00:35:07.210 --> 00:35:12.400
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): just as a let's say, a best practice thing kind of a thing like it's more like a draft.
+
+228
+00:35:12.580 --> 00:35:17.319
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): So maybe if this could also be referred
+
+229
+00:35:17.690 --> 00:35:21.608
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): so it's available for both Spdx and cyclone. Dx.
+
+230
+00:35:22.458 --> 00:35:26.639
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): svdx 2 dot 3 and cyclone dx one dot 4.
+
+231
+00:35:26.770 --> 00:35:28.840
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): So I just added the link here.
+
+232
+00:35:37.400 --> 00:35:39.470
+Norio Kobota (Sony Group Corporation): This one. Okay?
+
+233
+00:35:40.480 --> 00:35:41.750
+Norio Kobota (Sony Group Corporation): Oh, okay.
+
+234
+00:35:42.590 --> 00:35:44.070
+Norio Kobota (Sony Group Corporation): Oh, that's great.
+
+235
+00:35:48.130 --> 00:35:48.850
+Norio Kobota (Sony Group Corporation): Okay.
+
+236
+00:35:53.840 --> 00:35:54.710
+Norio Kobota (Sony Group Corporation): Okay?
+
+237
+00:35:57.540 --> 00:36:00.220
+Norio Kobota (Sony Group Corporation): Oh, great. Thank you for sharing.
+
+238
+00:36:00.220 --> 00:36:01.879
+Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited): Yeah, you're welcome.
+
+239
+00:36:05.800 --> 00:36:12.079
+Norio Kobota (Sony Group Corporation): Okay, yours. Oh, yours are good. Okay.
+
+240
+00:36:13.130 --> 00:36:20.920
+Norio Kobota (Sony Group Corporation): okay. Are there any thoughts or questions? And so on?
+
+241
+00:36:30.270 --> 00:36:31.290
+Norio Kobota (Sony Group Corporation): Nothing.
+
+242
+00:36:34.170 --> 00:36:43.808
+Norio Kobota (Sony Group Corporation): Okay? Then I will create. Create move this top guide
+
+243
+00:36:44.720 --> 00:36:50.295
+Norio Kobota (Sony Group Corporation): to the open chain, spom, study, group repository and
+
+244
+00:36:52.200 --> 00:37:03.779
+Norio Kobota (Sony Group Corporation): welcome to create issues or some discussions, items and so on. So please join. Please continue on the discussion on the Github.
+
+245
+00:37:04.710 --> 00:37:09.389
+Norio Kobota (Sony Group Corporation): because time zone is different. So
+
+246
+00:37:09.950 --> 00:37:12.960
+Norio Kobota (Sony Group Corporation): very welcome to create the issues and so on.
+
+247
+00:37:16.030 --> 00:37:28.200
+Norio Kobota (Sony Group Corporation): Okay, so we have time. So I will introduce some items this time.
+
+248
+00:37:29.860 --> 00:37:37.280
+Norio Kobota (Sony Group Corporation): So 1st challenge is is ensuring accurate and consistent information descriptions.
+
+249
+00:37:38.278 --> 00:37:42.760
+Norio Kobota (Sony Group Corporation): We've already discussed about this in the past meeting.
+
+250
+00:37:43.030 --> 00:37:54.539
+Norio Kobota (Sony Group Corporation): But there are challenges in the inconsistent representation of information. It's the content of the Spdx and sbon value.
+
+251
+00:37:55.330 --> 00:38:09.429
+Norio Kobota (Sony Group Corporation): such as package names are sometimes different. Also, it's a it's almost same. Packages or version representation is some kind of different format.
+
+252
+00:38:09.690 --> 00:38:23.869
+Norio Kobota (Sony Group Corporation): in some cases just only 2 dot 3, but some package described as A, B 2 dot, 2 dot, 3, and so, and supplier names across different companies and tools.
+
+253
+00:38:24.670 --> 00:38:41.799
+Norio Kobota (Sony Group Corporation): These are the sharing shared challenges. And we describe how to improvement how to improve these situations. This should be described ideal situation, ideal environment.
+
+254
+00:38:42.150 --> 00:38:46.510
+Norio Kobota (Sony Group Corporation): And after that, how to solve this situation.
+
+255
+00:38:47.000 --> 00:38:53.330
+Norio Kobota (Sony Group Corporation): and how to evaluate the improvement of these challenges.
+
+256
+00:38:53.640 --> 00:38:59.040
+Norio Kobota (Sony Group Corporation): Another thing we should describe. If we
+
+257
+00:39:00.430 --> 00:39:07.430
+Norio Kobota (Sony Group Corporation): try to improve this situation. But there are, there may be still
+
+258
+00:39:07.690 --> 00:39:17.980
+Norio Kobota (Sony Group Corporation): some risks or considerations. So we should describe these risks and considerations in these sub chapters.
+
+259
+00:39:18.690 --> 00:39:25.510
+Norio Kobota (Sony Group Corporation): And the second challenge is that standardization and the normalization of component granularity.
+
+260
+00:39:26.650 --> 00:39:45.109
+Norio Kobota (Sony Group Corporation): This is sometimes we received the Spom document described in the package level, but some part or some 3rd party provide this spom document in more detailed document.
+
+261
+00:39:45.360 --> 00:39:47.949
+Norio Kobota (Sony Group Corporation): such as a file level document.
+
+262
+00:39:48.170 --> 00:39:57.929
+Norio Kobota (Sony Group Corporation): In some. In such case we needed to merge the package level s 1 and a file level. s. 1.
+
+263
+00:39:58.250 --> 00:40:06.670
+Norio Kobota (Sony Group Corporation): She's a barely burden to much systems or engineers tasks.
+
+264
+00:40:06.930 --> 00:40:10.316
+Norio Kobota (Sony Group Corporation): So how to solve. Well, we will
+
+265
+00:40:10.920 --> 00:40:15.769
+Norio Kobota (Sony Group Corporation): describe such situation to how to solve such situations.
+
+266
+00:40:16.860 --> 00:40:22.650
+Norio Kobota (Sony Group Corporation): and the 3rd one is complementing source information, enhancing transparency.
+
+267
+00:40:23.380 --> 00:40:37.040
+Norio Kobota (Sony Group Corporation): What is this? Specify? Essential items, such as a listing source files, hash parties or license information implement providing binaries and a set process that of the automated instruction process.
+
+268
+00:40:37.941 --> 00:40:47.880
+Norio Kobota (Sony Group Corporation): Sorry. I'm not sure this question, this challenge. So we need. I I will check the past our discussions
+
+269
+00:40:49.260 --> 00:41:08.509
+Norio Kobota (Sony Group Corporation): and strengthening. 4, th one is strengthening partner ability, integration and risk management. This is somewhat related to the Pecs define methods for linking component information with primary data such as Cbe and introduce automated mapping for risk assessment
+
+270
+00:41:09.330 --> 00:41:17.188
+Norio Kobota (Sony Group Corporation): and to clarify how data is incorporated into experimentaries and determine definitive conclusions.
+
+271
+00:41:18.070 --> 00:41:29.239
+Norio Kobota (Sony Group Corporation): What is this? Sorry. I forgot. Also forgot this item. But we definitely discussed in the past.
+
+272
+00:41:31.267 --> 00:41:34.610
+Norio Kobota (Sony Group Corporation): The okay, it's a
+
+273
+00:41:34.720 --> 00:41:54.980
+Norio Kobota (Sony Group Corporation): not important. So please check it later. These items if you are interested in. So if you do like to know more details, we, I already linked this document. So please check it later.
+
+274
+00:41:56.870 --> 00:42:03.450
+Norio Kobota (Sony Group Corporation): Okay, okay, we have 30 min, but I have no idea.
+
+275
+00:42:03.910 --> 00:42:06.910
+Norio Kobota (Sony Group Corporation): So please. Shane, thank you. Please go ahead.
+
+276
+00:42:07.190 --> 00:42:15.100
+Shane Coughlan (The Linux Foundation): We have one question in from Vilma, which is about, will the corresponding open source
+
+277
+00:42:15.240 --> 00:42:20.039
+Shane Coughlan (The Linux Foundation): licenses of software elements be part of Sboms?
+
+278
+00:42:20.370 --> 00:42:25.939
+Shane Coughlan (The Linux Foundation): Or will this be separate to fulfill with Iso 5, 2, 3, 0 compliance.
+
+279
+00:42:26.380 --> 00:42:33.490
+Shane Coughlan (The Linux Foundation): Now this is a discussion, I think, for the wider group. But I just wanted to, you know. Be very
+
+280
+00:42:34.299 --> 00:42:41.969
+Shane Coughlan (The Linux Foundation): quick. Note that Iso 5, 2, 3, 0 requires that people identify the licenses of code.
+
+281
+00:42:42.120 --> 00:42:44.659
+Shane Coughlan (The Linux Foundation): and they obey the licenses.
+
+282
+00:42:46.810 --> 00:42:53.590
+Shane Coughlan (The Linux Foundation): It's not prescriptive. The the Iso standard isn't prescriptive about how to do that.
+
+283
+00:42:55.160 --> 00:43:00.650
+Shane Coughlan (The Linux Foundation): So Iso 5, 2, 3, 0 compliance means that you're
+
+284
+00:43:01.010 --> 00:43:09.100
+Shane Coughlan (The Linux Foundation): having a process to identify the licenses and to meet their requirements. And Iso, 5, 2, 3, 0 stops there.
+
+285
+00:43:09.956 --> 00:43:13.440
+Shane Coughlan (The Linux Foundation): It doesn't talk about how to do that.
+
+286
+00:43:13.930 --> 00:43:21.050
+Shane Coughlan (The Linux Foundation): So I just wanted to put that in context, and then and then the question would be, You know, how do
+
+287
+00:43:23.230 --> 00:43:29.759
+Shane Coughlan (The Linux Foundation): corresponding open source licenses be part of S bombs, and the answer is.
+
+288
+00:43:31.140 --> 00:43:41.780
+Shane Coughlan (The Linux Foundation): I think, generally all of the major Sbom formats identify the or can identify the license of a corresponding package.
+
+289
+00:43:42.130 --> 00:43:48.820
+Shane Coughlan (The Linux Foundation): But people would have to make sure that their tools and records do that and keep the record.
+
+290
+00:43:49.040 --> 00:43:51.200
+Shane Coughlan (The Linux Foundation): Yari, over to you.
+
+291
+00:43:52.780 --> 00:43:56.809
+Jari Koivisto (OpenChain Project): Just a little note that there was some
+
+292
+00:43:57.350 --> 00:44:06.530
+Jari Koivisto (OpenChain Project): oh, actually, not just quite a lot of discussion on Fsfe's legal network mailing list about a topic. That
+
+293
+00:44:07.760 --> 00:44:16.010
+Jari Koivisto (OpenChain Project): is it enough for license compliance just to send the S bomb or not? And
+
+294
+00:44:16.330 --> 00:44:24.930
+Jari Koivisto (OpenChain Project): there were quite a lot of legal people joining the discussion. And I think that the conclusion was that
+
+295
+00:44:25.050 --> 00:44:32.170
+Jari Koivisto (OpenChain Project): just having the S bomb, even with the license information, is not
+
+296
+00:44:32.380 --> 00:44:41.680
+Jari Koivisto (OpenChain Project): fulfilling the requirement. But I think that discussion is still going on so fsf, fees, legal network
+
+297
+00:44:42.010 --> 00:44:43.510
+Jari Koivisto (OpenChain Project): mailing list discussion.
+
+298
+00:44:45.210 --> 00:44:45.980
+Shane Coughlan (The Linux Foundation): Right.
+
+299
+00:44:46.480 --> 00:44:50.130
+Shane Coughlan (The Linux Foundation): And I mean, I guess one of the things
+
+300
+00:44:50.460 --> 00:44:57.880
+Shane Coughlan (The Linux Foundation): that's very important is that if we talk about an Sbom format it describes how to say something.
+
+301
+00:44:58.556 --> 00:45:03.359
+Shane Coughlan (The Linux Foundation): If we talk about an Sbom quality guide, it's saying that
+
+302
+00:45:03.510 --> 00:45:06.190
+Shane Coughlan (The Linux Foundation): we want you to say something
+
+303
+00:45:06.380 --> 00:45:10.809
+Shane Coughlan (The Linux Foundation): and say these things. You know, we. We want a certain amount of stuff.
+
+304
+00:45:10.970 --> 00:45:15.449
+Shane Coughlan (The Linux Foundation): but neither an Sborm format or an Sbom quality guide
+
+305
+00:45:15.610 --> 00:45:22.950
+Shane Coughlan (The Linux Foundation): is a guarantee of compliance. So companies have to understand the licenses and the requirements.
+
+306
+00:45:23.520 --> 00:45:26.770
+Shane Coughlan (The Linux Foundation): and for that reason, having an S bomb
+
+307
+00:45:27.670 --> 00:45:31.599
+Shane Coughlan (The Linux Foundation): in any format Spdx or cyclone
+
+308
+00:45:32.170 --> 00:45:37.559
+Shane Coughlan (The Linux Foundation): doesn't mean that you're meeting a license requirement. It just means you have some data written down.
+
+309
+00:45:38.150 --> 00:45:40.340
+Shane Coughlan (The Linux Foundation): and an Sbom quality guide
+
+310
+00:45:40.980 --> 00:45:51.010
+Shane Coughlan (The Linux Foundation): requires you to have something in the S bomb. It's like, have this field and that field and this field. So it's more likely that you'll meet various requirements.
+
+311
+00:45:51.240 --> 00:45:56.619
+Shane Coughlan (The Linux Foundation): But it's not a guarantee that you'll meet the requirements of every open source license.
+
+312
+00:45:56.890 --> 00:46:10.490
+Shane Coughlan (The Linux Foundation): So I think it's like these are tools. But they're not ways to have no responsibility. So it's we can reduce the burden, and we can make the industry have one alignment.
+
+313
+00:46:11.360 --> 00:46:13.340
+Shane Coughlan (The Linux Foundation): But we we can't make
+
+314
+00:46:13.820 --> 00:46:25.449
+Shane Coughlan (The Linux Foundation): license compliance requirements go away for companies. If that makes sense, you know, there's there's no easy answer to it. Someone has to check that. They're meeting the requirements.
+
+315
+00:46:26.507 --> 00:46:35.030
+Shane Coughlan (The Linux Foundation): Ninjoji-sen had a question, an interesting question. Can you explain the relationship between this S Bomb Quality Guide and the Telco Guide.
+
+316
+00:46:35.710 --> 00:46:44.410
+Shane Coughlan (The Linux Foundation): For me this guide does not seem to cover all the points in the Telco Guide. What is the difference between the 2. I'm curious about the reason.
+
+317
+00:46:46.110 --> 00:46:51.030
+Shane Coughlan (The Linux Foundation): komodo-san, would it be okay if I said something about this? Or do you want to jump straight in.
+
+318
+00:46:53.218 --> 00:46:57.410
+Norio Kobota (Sony Group Corporation): both are okay. But I will try to explain
+
+319
+00:46:58.030 --> 00:47:04.066
+Norio Kobota (Sony Group Corporation): as I okay, okay, as I explained of initial
+
+320
+00:47:05.440 --> 00:47:25.810
+Norio Kobota (Sony Group Corporation): in short, timing of these meetings. We have already the good Telco Spom guide. So, but the Telco S bomb guide is only describing about Spdx format and focusing to use within the telco industry.
+
+321
+00:47:25.920 --> 00:47:27.250
+Norio Kobota (Sony Group Corporation): So
+
+322
+00:47:27.380 --> 00:47:48.650
+Norio Kobota (Sony Group Corporation): of course, we should, based on inherits as from guide, but we should extend it sometimes extend, extended and sometimes reduced or modified as necessary to suit industry, independent and hormone diagnostic style.
+
+323
+00:47:49.090 --> 00:47:53.659
+Norio Kobota (Sony Group Corporation): This is a difference between the 2 main difference between the 2,
+
+324
+00:47:54.640 --> 00:48:15.199
+Norio Kobota (Sony Group Corporation): and also, we discussed the actual challenges and issues among documents in actual our industries. So we we'd like to add some situation challenging situation and how to solve
+
+325
+00:48:15.770 --> 00:48:17.750
+Norio Kobota (Sony Group Corporation): these situations.
+
+326
+00:48:18.210 --> 00:48:27.060
+Norio Kobota (Sony Group Corporation): And then, lastly, we'd like to add actual s 1 sample later in Json format
+
+327
+00:48:27.220 --> 00:48:30.229
+Norio Kobota (Sony Group Corporation): for the Cyclone and Spdx.
+
+328
+00:48:30.910 --> 00:48:36.699
+Norio Kobota (Sony Group Corporation): These are the main differences between the 2. Are there any additional comments shared.
+
+329
+00:48:37.890 --> 00:48:59.029
+Shane Coughlan (The Linux Foundation): Oh, I think you've covered it better than I could. And I guess you know. Another additional context is just that the Telco guide is already in use with companies such as Nokia and Ericsson for their sector. So they're already busy with this. It's deployed. It's being used.
+
+330
+00:48:59.510 --> 00:49:09.030
+Shane Coughlan (The Linux Foundation): So what we're doing is separate as exactly as Kubota sense, said Cross. Industry focused on what we're up to.
+
+331
+00:49:09.990 --> 00:49:16.989
+Shane Coughlan (The Linux Foundation): So it's it's a different game. Their guide is already out. It's already done. It's already focused on one industry.
+
+332
+00:49:17.706 --> 00:49:22.830
+Shane Coughlan (The Linux Foundation): We can be inspired by it. But we have slightly different job to accomplish.
+
+333
+00:49:24.090 --> 00:49:26.869
+Shane Coughlan (The Linux Foundation): So yeah, just as Comboto's hand said.
+
+334
+00:49:31.210 --> 00:49:32.350
+Norio Kobota (Sony Group Corporation): Yeah, I need your son.
+
+335
+00:49:32.970 --> 00:49:33.999
+Norio Kobota (Sony Group Corporation): Are you okay?
+
+336
+00:49:35.200 --> 00:49:43.390
+Takashi Ninjouji: Thank you so much for your explanation with the I'm little bit confusing, because
+
+337
+00:49:44.090 --> 00:49:51.200
+Takashi Ninjouji: yes, exactly so. The S. How to say the open chain. Tech s. 1 guides.
+
+338
+00:49:51.650 --> 00:49:55.526
+Takashi Ninjouji: It's titled with the words terraco, but
+
+339
+00:49:56.670 --> 00:50:00.969
+Takashi Ninjouji: according to the contents of turquote from guide.
+
+340
+00:50:01.300 --> 00:50:12.909
+Takashi Ninjouji: it seems for me, at least for me. So it doesn't matter specifically onto the Telco industry. The
+
+341
+00:50:13.440 --> 00:50:22.190
+Takashi Ninjouji: how to describing things is that's popular things to treat the S-bom.
+
+342
+00:50:22.310 --> 00:50:31.609
+Takashi Ninjouji: So if we no, no, if we open chain or this Sbom study groups
+
+343
+00:50:31.970 --> 00:50:36.589
+Takashi Ninjouji: would like to make a standard. It is not
+
+344
+00:50:37.485 --> 00:50:50.470
+Takashi Ninjouji: sorry it is across the industrial or industry neutral guide it can be, use the almost whole contents
+
+345
+00:50:51.050 --> 00:50:53.240
+Takashi Ninjouji: from the technical Sm guide.
+
+346
+00:50:53.500 --> 00:50:58.200
+Takashi Ninjouji: But the apparently this is from quality guys.
+
+347
+00:50:59.332 --> 00:51:04.600
+Takashi Ninjouji: How to say, show the
+
+348
+00:51:04.780 --> 00:51:13.820
+Takashi Ninjouji: different style. And this different structure of this document, and at some points it is opioids
+
+349
+00:51:14.160 --> 00:51:18.380
+Takashi Ninjouji: only in this document, but under otherwise
+
+350
+00:51:18.700 --> 00:51:24.200
+Takashi Ninjouji: some topics is like from the Sbom. Sorry, Telco Sbom guide.
+
+351
+00:51:24.650 --> 00:51:33.269
+Takashi Ninjouji: So I'm a little bit confusing. Why, these topics is not how to say. On aligned these 2 guides.
+
+352
+00:51:36.084 --> 00:51:46.240
+Norio Kobota (Sony Group Corporation): I'm not sure. I delivered all contents of the open gender quest. Bomb guide they are of.
+
+353
+00:51:46.430 --> 00:52:01.080
+Norio Kobota (Sony Group Corporation): for example, scope is objectives, and scope refers to the scope section and the terms and definitions. Yeah, we we should refer.
+
+354
+00:52:01.350 --> 00:52:12.160
+Norio Kobota (Sony Group Corporation): And after that requirements, we should, we will refer in the 3rd section chapter 3.
+
+355
+00:52:13.140 --> 00:52:14.130
+Takashi Ninjouji: Hmm.
+
+356
+00:52:14.130 --> 00:52:22.829
+Norio Kobota (Sony Group Corporation): So there are no differences, but we will, of course, add some Sbdx, 3 dot O or cyclone Dx format.
+
+357
+00:52:23.320 --> 00:52:32.390
+Norio Kobota (Sony Group Corporation): But basically I intended to live. All of the contents from the open channel spam, guide.
+
+358
+00:52:33.160 --> 00:52:33.990
+Takashi Ninjouji: Oh, really.
+
+359
+00:52:34.970 --> 00:52:35.910
+Norio Kobota (Sony Group Corporation): Yes.
+
+360
+00:52:37.010 --> 00:52:38.849
+Takashi Ninjouji: Might be my fault. But the
+
+361
+00:52:43.790 --> 00:52:44.990
+Takashi Ninjouji: No.
+
+362
+00:52:50.580 --> 00:52:54.949
+Takashi Ninjouji: okay. So the better.
+
+363
+00:52:55.050 --> 00:52:58.149
+Takashi Ninjouji: In the Telequestimo guide there is a
+
+364
+00:52:58.570 --> 00:53:06.600
+Takashi Ninjouji: something discussion about the expo module, 3.12 estimate.
+
+365
+00:53:07.210 --> 00:53:12.210
+Takashi Ninjouji: But there is no discussion in the this Espon courty guide.
+
+366
+00:53:14.290 --> 00:53:18.080
+Norio Kobota (Sony Group Corporation): It's on March here on this one.
+
+367
+00:53:18.350 --> 00:53:18.960
+Takashi Ninjouji: Yeah.
+
+368
+00:53:20.950 --> 00:53:30.200
+Norio Kobota (Sony Group Corporation): Yes, I will. I don't intend such things. I will refer all of section 3 from the Telco Spoonkai.
+
+369
+00:53:31.080 --> 00:53:32.819
+Takashi Ninjouji: So you koto.
+
+370
+00:53:33.300 --> 00:53:34.120
+Norio Kobota (Sony Group Corporation): Yes.
+
+371
+00:53:35.040 --> 00:53:48.960
+Norio Kobota (Sony Group Corporation): sorry. I'm not sure to describe all chapters in the in this draft, but I will inherit. Section 3, all of section 3. From the Turkish Muqai.
+
+372
+00:53:48.960 --> 00:54:00.490
+Takashi Ninjouji: So if you want to use this open chains, new s. 1 quality guide, we should also check the open s. 1 guide.
+
+373
+00:54:01.350 --> 00:54:02.150
+Shane Coughlan (The Linux Foundation): No, it'll be.
+
+374
+00:54:03.935 --> 00:54:04.650
+Norio Kobota (Sony Group Corporation): Sorry.
+
+375
+00:54:04.650 --> 00:54:05.560
+Shane Coughlan (The Linux Foundation): It'll be copy, paste.
+
+376
+00:54:05.560 --> 00:54:06.020
+Norio Kobota (Sony Group Corporation): Sorry Shane.
+
+377
+00:54:06.020 --> 00:54:06.620
+Shane Coughlan (The Linux Foundation): Bye.
+
+378
+00:54:13.840 --> 00:54:21.450
+Shane Coughlan (The Linux Foundation): Sorry. I was just saying the the text will be copy pasted inside, so you won't need both documents in your hand.
+
+379
+00:54:24.450 --> 00:54:25.350
+Takashi Ninjouji: Hmm.
+
+380
+00:54:29.130 --> 00:54:31.640
+Norio Kobota (Sony Group Corporation): Yeah, sorry, Jimmy.
+
+381
+00:54:32.450 --> 00:54:38.009
+Norio Kobota (Sony Group Corporation): Can you speak out I can't understand what you're out with here.
+
+382
+00:54:38.010 --> 00:54:43.855
+Jimmy Ahlberg (Ericsson): Oh, yes, yep, so I I can speak up. And and as to the name of
+
+383
+00:54:44.480 --> 00:54:51.034
+Jimmy Ahlberg (Ericsson): Telco Spom Guide, I do agree that it's it's more
+
+384
+00:54:52.300 --> 00:54:59.449
+Jimmy Ahlberg (Ericsson): let's say, more broader than just Telco, but we never found a better name for it than
+
+385
+00:55:00.920 --> 00:55:05.190
+Jimmy Ahlberg (Ericsson): than than Telco. So that's so. There's no specific requirements
+
+386
+00:55:05.630 --> 00:55:08.679
+Jimmy Ahlberg (Ericsson): to teleco. I think that the requirements in the Spom
+
+387
+00:55:09.010 --> 00:55:12.730
+Jimmy Ahlberg (Ericsson): Guide there, or probably applicable to more industries
+
+388
+00:55:12.950 --> 00:55:20.990
+Jimmy Ahlberg (Ericsson): it it's also proved useful to calling it Telco Spom Guide to get adoption, at least in
+
+389
+00:55:21.270 --> 00:55:24.449
+Jimmy Ahlberg (Ericsson): in the Telco industry. But there's
+
+390
+00:55:24.700 --> 00:55:35.520
+Jimmy Ahlberg (Ericsson): I. I don't think it should be viewed as a telco. Only thing as you as you point to in Yujitan. It's it's the requirements are applicable to to more industries than just Telco.
+
+391
+00:55:40.670 --> 00:55:46.830
+Norio Kobota (Sony Group Corporation): Okay, you sound. Are you okay? Or do you have any salts?
+
+392
+00:55:47.770 --> 00:55:52.490
+Takashi Ninjouji: Thank you so much for your comments, Jimmy and Kupitasan.
+
+393
+00:55:55.240 --> 00:56:01.230
+Norio Kobota (Sony Group Corporation): Yes, Hi, this is just a idea to love it
+
+394
+00:56:01.350 --> 00:56:24.640
+Norio Kobota (Sony Group Corporation): so. But I all of Japanese community, including ninjas. But listen. You can't join the our discussions, unfortunately, but we don't intend any. We don't intend to remove specific chapters. We all based on the.
+
+395
+00:56:24.800 --> 00:56:34.259
+Norio Kobota (Sony Group Corporation): but we think we also think we needed to modify from the industry, independent from a diagnostic perspective.
+
+396
+00:56:34.690 --> 00:56:41.379
+Norio Kobota (Sony Group Corporation): So we will modify telequest from guide such from the such perspective.
+
+397
+00:56:41.490 --> 00:56:47.870
+Norio Kobota (Sony Group Corporation): But we will defer all sections, all chapters about from the telequest book guide.
+
+398
+00:56:49.320 --> 00:56:55.229
+Norio Kobota (Sony Group Corporation): And this is just a at this moment. This is just a guide, not specification, not guideline.
+
+399
+00:56:56.060 --> 00:57:11.580
+Norio Kobota (Sony Group Corporation): So we will. We'd like to start just sharing the best practices and the best solution, or some actual examples in the world to the all industries, communities.
+
+400
+00:57:24.320 --> 00:57:35.729
+Shane Coughlan (The Linux Foundation): Perhaps one last note is that Telco is deeply involved in helping with this as well. So we're synchronized with market on chair of telco
+
+401
+00:57:36.539 --> 00:57:42.459
+Shane Coughlan (The Linux Foundation): but you know to your point in Joji Sen, we should make sure that 1st of all.
+
+402
+00:57:42.990 --> 00:57:56.920
+Shane Coughlan (The Linux Foundation): there's nothing contradictory about the guides. Second of all, you. You don't need to read both documents. You can choose one or the other. And then finally to Kubodistan's Point
+
+403
+00:57:57.140 --> 00:57:58.300
+Shane Coughlan (The Linux Foundation): that the
+
+404
+00:57:58.440 --> 00:58:11.230
+Shane Coughlan (The Linux Foundation): Cross Industry Cross Format guide has a slightly wider scope because it won't do anything specific to Telco, but it will also include other Sbom formats and so on.
+
+405
+00:58:16.660 --> 00:58:19.829
+Norio Kobota (Sony Group Corporation): Oh, yeah, I just raised my hand because.
+
+406
+00:58:19.980 --> 00:58:23.361
+Jari Koivisto (OpenChain Project): You know. As as for discuss that this is
+
+407
+00:58:24.500 --> 00:58:29.730
+Jari Koivisto (OpenChain Project): like brainstorming a little bit. So thinking out loud.
+
+408
+00:58:30.280 --> 00:58:39.410
+Jari Koivisto (OpenChain Project): should or could we add a chapter that would describe or say that the audience of this guide.
+
+409
+00:58:40.890 --> 00:58:48.019
+Jari Koivisto (OpenChain Project): for example, that this could be for the tooling people, for the users of Spom, for the
+
+410
+00:58:48.460 --> 00:58:54.380
+Jari Koivisto (OpenChain Project): people who are generating S. Bombs, etc. Etc. Or would that be just noise on this document?
+
+411
+00:58:57.060 --> 00:59:08.149
+Norio Kobota (Sony Group Corporation): I have one questions do you intend to create some separate requirements or some items for
+
+412
+00:59:08.330 --> 00:59:10.819
+Norio Kobota (Sony Group Corporation): each each audience?
+
+413
+00:59:11.010 --> 00:59:18.180
+Norio Kobota (Sony Group Corporation): Do you intend to separate some requirements for each audience.
+
+414
+00:59:22.540 --> 00:59:26.860
+Jari Koivisto (OpenChain Project): I think it would be similar.
+
+415
+00:59:27.050 --> 00:59:34.220
+Jari Koivisto (OpenChain Project): But the take, for example, for the I don't know. The sea people could be a little bit different
+
+416
+00:59:35.200 --> 00:59:39.800
+Jari Koivisto (OpenChain Project): than, for example, just the ones who are consuming S bombs
+
+417
+00:59:40.320 --> 00:59:48.770
+Jari Koivisto (OpenChain Project): because they are, you know, responsible of generating S bombs. And then there's some some folks who are consuming, so they might have a little bit different.
+
+418
+00:59:50.710 --> 00:59:53.630
+Jari Koivisto (OpenChain Project): View to the guide.
+
+419
+00:59:55.540 --> 00:59:56.430
+Norio Kobota (Sony Group Corporation): Yeah.
+
+420
+00:59:56.430 --> 01:00:01.249
+Jari Koivisto (OpenChain Project): But I don't know if it adds any value to to. Let's say, pinpoint that. Okay.
+
+421
+01:00:01.370 --> 01:00:06.998
+Jari Koivisto (OpenChain Project): Mr. Mrs. S. Bomb generator. Look at this, and then
+
+422
+01:00:08.330 --> 01:00:11.720
+Jari Koivisto (OpenChain Project): consumer, you know. Maybe you have another.
+
+423
+01:00:13.420 --> 01:00:15.950
+Jari Koivisto (OpenChain Project): Not the point. I don't know. Maybe it's just at at noise.
+
+424
+01:00:15.950 --> 01:00:16.990
+Norio Kobota (Sony Group Corporation): Yes.
+
+425
+01:00:17.899 --> 01:00:29.859
+Norio Kobota (Sony Group Corporation): thank you for your idea. Yes, it's good idea. But it's a little difficult. Yes, we will discuss about that. Yeah.
+
+426
+01:00:30.360 --> 01:00:31.919
+Norio Kobota (Sony Group Corporation): thank you very much.
+
+427
+01:00:35.090 --> 01:00:38.609
+Norio Kobota (Sony Group Corporation): Okay. We had 8 min last.
+
+428
+01:00:40.430 --> 01:00:45.540
+Norio Kobota (Sony Group Corporation): Are there any other questions or salt.
+
+429
+01:00:46.116 --> 01:00:51.879
+Shane Coughlan (The Linux Foundation): I have some news in that. Alan Friedman from
+
+430
+01:00:52.080 --> 01:00:55.570
+Shane Coughlan (The Linux Foundation): Cisa has expressed interest in what we're doing.
+
+431
+01:00:56.940 --> 01:01:00.240
+Shane Coughlan (The Linux Foundation): and he wants to know more about
+
+432
+01:01:00.840 --> 01:01:11.560
+Shane Coughlan (The Linux Foundation): the type of Sbom work we're doing. The 1st thing he wants is a presentation about the Telco Guide during the Cisa weekly meeting.
+
+433
+01:01:12.260 --> 01:01:18.620
+Shane Coughlan (The Linux Foundation): So I just wanted to flag that this is something that's upcoming, and
+
+434
+01:01:18.900 --> 01:01:25.719
+Shane Coughlan (The Linux Foundation): hopefully we'll be able to get Cesa to informally give us some notes as well.
+
+435
+01:01:26.080 --> 01:01:28.850
+Shane Coughlan (The Linux Foundation): I believe if I'm correct.
+
+436
+01:01:31.590 --> 01:01:35.850
+Shane Coughlan (The Linux Foundation): Jimmy, you're going to join the Cisa. Call to
+
+437
+01:01:36.340 --> 01:01:40.850
+Shane Coughlan (The Linux Foundation): to do the briefing, if if and when Alan schedules it.
+
+438
+01:01:43.460 --> 01:01:50.110
+Jimmy Ahlberg (Ericsson): Yes, that's the intent, at least if and when he schedules it, and either if it's me, or if it's Mark, or if I
+
+439
+01:01:50.270 --> 01:02:08.189
+Jimmy Ahlberg (Ericsson): give a little bit of historical overview, having started the things thing once upon once upon a time, or if if Mark does that, then I'm just there for sort of more of supporting context. But I think it's very encouraging to have someone like Alan reaching out wanting to know more, and I I no doubt that sort of
+
+440
+01:02:08.540 --> 01:02:17.099
+Jimmy Ahlberg (Ericsson): once we in that group touched upon the Telecos poem, I mean, this work is that we're doing here in the Eth Bomb study group is is highly
+
+441
+01:02:17.210 --> 01:02:21.740
+Jimmy Ahlberg (Ericsson): relevance. I would assume that he would have a an interest in that as well.
+
+442
+01:02:25.690 --> 01:02:29.717
+Shane Coughlan (The Linux Foundation): So I just wanted to flag that because it's cool.
+
+443
+01:02:31.250 --> 01:02:35.089
+Jimmy Ahlberg (Ericsson): Yeah. To be honest, I was a bit starstruck when when I saw that email.
+
+444
+01:02:36.160 --> 01:02:43.400
+Shane Coughlan (The Linux Foundation): Yeah, it's it's it's really good. And Alan is, you know, such a nice person he's great to work with. It's going to be.
+
+445
+01:02:43.730 --> 01:02:45.860
+Shane Coughlan (The Linux Foundation): It's gonna be really good for us.
+
+446
+01:02:55.290 --> 01:02:58.178
+Shane Coughlan (The Linux Foundation): No pressure. Kubota, son.
+
+447
+01:03:00.700 --> 01:03:05.630
+Norio Kobota (Sony Group Corporation): If available. Could you share the meeting schedule.
+
+448
+01:03:05.630 --> 01:03:06.040
+Shane Coughlan (The Linux Foundation): Farewell!
+
+449
+01:03:06.250 --> 01:03:11.450
+Norio Kobota (Sony Group Corporation): Yeah, thank you. I will attend as just the audience.
+
+450
+01:03:13.221 --> 01:03:18.519
+Shane Coughlan (The Linux Foundation): It's it's during some crazy time for us in Japan. I'll bring you in to see
+
+451
+01:03:20.720 --> 01:03:27.859
+Shane Coughlan (The Linux Foundation): It's on that particular thing. It just it just happened this week. An email came in from Alan asking for a briefing.
+
+452
+01:03:28.010 --> 01:03:32.390
+Shane Coughlan (The Linux Foundation): So include you on that. And let's see.
+
+453
+01:03:32.720 --> 01:03:44.630
+Shane Coughlan (The Linux Foundation): you know, they want to know about Telco Guide. I'm sure they'll be very interested that we're looking at cross industry, and I'd love if Sisa might join one of our calls to give us a briefing on their work.
+
+454
+01:03:49.121 --> 01:03:59.160
+Norio Kobota (Sony Group Corporation): Yes, we have one chat one question in a chat box. I also interested in this question from Stefan.
+
+455
+01:04:01.960 --> 01:04:10.959
+Norio Kobota (Sony Group Corporation): Yeah, she says. As for mail list is very silent recently. So we are very worrying, worrying about that.
+
+456
+01:04:13.620 --> 01:04:17.922
+Norio Kobota (Sony Group Corporation): But it's difficult to share in this meeting.
+
+457
+01:04:18.800 --> 01:04:19.679
+Norio Kobota (Sony Group Corporation): I think.
+
+458
+01:04:21.770 --> 01:04:33.019
+Shane Coughlan (The Linux Foundation): Yeah, we'll, you know. We'll we'll find out. What happens, I guess, over the next few months it's going to. It's gonna take a while for things to settle down.
+
+459
+01:04:33.230 --> 01:04:37.819
+Shane Coughlan (The Linux Foundation): But I believe that we should have more certainty
+
+460
+01:04:38.210 --> 01:04:43.790
+Shane Coughlan (The Linux Foundation): about the Us. Government in approximately one month.
+
+461
+01:04:44.120 --> 01:04:58.660
+Shane Coughlan (The Linux Foundation): because that's the point where the initial phase of Elon Musk's activity with his department of Government efficiency will have completed its task, and at that point it'll be more clear.
+
+462
+01:04:59.402 --> 01:05:03.730
+Shane Coughlan (The Linux Foundation): What has been cut, what stays, etc, etc.
+
+463
+01:05:07.720 --> 01:05:09.499
+Norio Kobota (Sony Group Corporation): Okay, thank you.
+
+464
+01:05:11.970 --> 01:05:19.339
+Norio Kobota (Sony Group Corporation): Okay, okay, that's almost time to finish this meeting.
+
+465
+01:05:20.120 --> 01:05:22.919
+Norio Kobota (Sony Group Corporation): Thank you for attending. All of our guides.
+
+466
+01:05:23.630 --> 01:05:27.229
+Norio Kobota (Sony Group Corporation): Have any comment. Last comment from Shang.
+
+467
+01:05:27.810 --> 01:05:38.189
+Shane Coughlan (The Linux Foundation): I just wanted to say Thank you for a wonderful meeting and so many helpful questions and ideas. And you know, I think Joji Sen raised a really important
+
+468
+01:05:38.500 --> 01:05:42.200
+Shane Coughlan (The Linux Foundation): clarification. What are we doing this for? How does it work?
+
+469
+01:05:42.500 --> 01:05:47.180
+Shane Coughlan (The Linux Foundation): I think we had some great suggestions from our friends at Bosch about
+
+470
+01:05:47.450 --> 01:06:01.909
+Shane Coughlan (The Linux Foundation): format examples. You know what a great meet this is, what community is all about sharing ideas, brainstorming, agreeing, disagreeing, finding new things. This is why this is why it's fun to work together.
+
+471
+01:06:09.920 --> 01:06:24.220
+Norio Kobota (Sony Group Corporation): Okay, thank you very much. Okay, okay, thank you for attending our overviews. And I'm looking forward to seeing you at the open Source Summit in North America at the in June.
+
+472
+01:06:25.430 --> 01:06:27.240
+Norio Kobota (Sony Group Corporation): Okay, thank you very much.
+
+473
+01:06:27.240 --> 01:06:29.040
+Jimmy Ahlberg (Ericsson): Right? Okay, forward to it.
+
+474
+01:06:29.230 --> 01:06:30.330
+Norio Kobota (Sony Group Corporation): Thank you.
+
+475
+01:06:30.330 --> 01:06:31.449
+Norio Kobota (Sony Group Corporation): Have a good day.
+
