@@ -1,0 +1,32 @@
+00:07:14	Thomas Hühn:	Good morning! I'm just watching a bit. :-)
+00:25:23	Jari Koivisto (OpenChain Project):	Should we talk also about VEX (embedded or not) also in this guide?
+00:25:40	Shane Coughlan (The Linux Foundation):	https://github.com/OpenChain-Project/OpenChain-JWG/issues/377
+00:35:26	Rakesh Prabhakaran (Bosch Global Software Technologies Private Limited):	https://github.com/OpenChain-Project/SBOM-sg-SEPIA/tree/main/Schema
+00:40:30	Vilma:	Will the correspondent OSS licenses of Software elements be part of the SBOMs or will this be separate to fulfill with the ISO 5230 for OSS Compliance?
+00:44:24	Takashi Ninjouji:	Could you explain the relationship between this SBOM Quality Guide and the Telco Guide?
+For me, this guide does not seem to cover all the points in the Telco Guide. What is the difference between two? I'm curious about the reason for this.
+I apologize if this has already been discussed. It's been a while since I've participated in discussions related to SBOM.
+00:46:24	Vilma:	So they should be linked in a way...
+00:50:53	Jimmy Ahlberg (Ericsson):	Agreed, the Telco part could be omitted from the name, we just never figured out a better name for it....
+00:51:25	Jari Koivisto (OpenChain Project):	Reacted to "Agreed, the Telco pa..." with 👍
+01:02:44	Stephen Pollard:	That is very cool that CISA are interested.
+01:02:57	Jari Koivisto (OpenChain Project):	Reacted to "That is very cool th..." with ❤️
+01:03:02	Sandra Hermoso Rodriguez:	Reacted to "That is very cool th..." with ❤️
+01:03:17	Norio Kobota (Sony Group Corporation):	"That is very cool ..." に対して ❤️ で対応しました
+01:03:17	Stephen Pollard:	Is there any wider info on the future of CISA in the times of DOGE?
+01:03:42	Jari Koivisto (OpenChain Project):	Replying to "Is there any wider i..."
+
+I was thinking that too.
+01:04:23	Jari Koivisto (OpenChain Project):	Replying to "Is there any wider i..."
+
+NVD is another topic...
+01:05:13	Stephen Pollard:	Replying to "Is there any wider i..."
+
+ok - thanks Shane
+01:05:35	Stephen Pollard:	Excellent presentation - thank you Kobota san
+01:06:03	Vaishali Avhad:	Thank you Kobota san, thank you Shane, thank you all !
+01:06:03	Gary Armstrong (FossID):	👏 Thank You - Great Presentation!!
+01:06:07	Norio Kobota (Sony Group Corporation):	"Agreed, the Telco ..." に対して 👍 で対応しました
+01:06:21	Vilma:	Thank you
+01:06:26	Andrew Katz (Orcro):	Thank you!
+01:06:27	Jari Koivisto (OpenChain Project):	Domo Kobota-san!
