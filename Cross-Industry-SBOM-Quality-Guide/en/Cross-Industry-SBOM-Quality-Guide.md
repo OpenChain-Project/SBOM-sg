@@ -1,5 +1,10 @@
 # SBOM Quality Guide
 
+THIS IS A DRAFT DOCUMENT. IT IS CURRENTLY BEING USED TO BRAINSTORM IDEAS. PLEASE FOLLOW THE SBOM STUDY GROUP TO LEARN MORE AND PARTICIPATE. 
+
+Mailing list:
+https://lists.openchainproject.org/g/sbom
+
 ## Table of Contents
 
 1. [Introduction](#1-introduction)  
